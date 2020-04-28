@@ -13,6 +13,6 @@ Know your risk before opening any onion links, if you the link is legal then you
 
 # Recommended Tools To Enhance Your Dark Web Browsing Experience
 * ![uBlock Origin](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ublockorigin_icon.png) [uBlock Origin](https://github.com/gorhill/uBlock) - overall good AdBlocking software
-* ![uBlock Origin](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ublockorigin_icon.png) [Dark Web AdBlock Filters (For uBlock Origin)](https://github.com/gorhill/uBlock) - an uBlock Origin filter list designed to block ads on the dark web, cosmetic filtering is required in order for it to work properly
+* ![uBlock Origin](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ublockorigin_icon.png) [Dark Web AdBlock Filters (For uBlock Origin)](abp:subscribe?location=https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/AdBlock_Dark_Web.txt&amp;title=Dark Web AdBlock Filters) - an uBlock Origin filter list designed to block ads on the dark web, cosmetic filtering is required in order for it to work properly
 
 # Table Of Contents
