@@ -3,7 +3,6 @@
 ! Version: 2.1.1
 ! Expires: 1 day
 ! License: http://creativecommons.org/licenses/by/3.0/
-! abp:subscribe?location=url&amp;title=Dark Web AdBlock Filters
 !-------------------------------------------------------------!
 !----------------------------- Ads ---------------------------!
 !-------------------------------------------------------------!
