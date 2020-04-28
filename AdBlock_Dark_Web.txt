@@ -1,0 +1,202 @@
+! Title: ReduX's Dark Web AdBlock Filters
+! Description: AdBlock filters for tor network (dark web), only use if you browse the tor network, make sure cosmetic filtering is enabled in uBlock Origin for it to work properly.
+! Version: 2.1.1
+! Expires: 1 day
+! License: http://creativecommons.org/licenses/by/3.0/
+! abp:subscribe?location=url&amp;title=Dark Web AdBlock Filters
+!-------------------------------------------------------------!
+!----------------------------- Ads ---------------------------!
+!-------------------------------------------------------------!
+! Dark Web Links - bznjtqphs2lp4xdd.onion
+||bznjtqphs2lp4xdd.onion/images/1.png
+! 4/15/20 - Onion Center Search Engine - http://oikgfwfqmqkph4rl.onion
+oikgfwfqmqkph4rl.onion###content > center
+oikgfwfqmqkph4rl.onion##.adSpace2
+oikgfwfqmqkph4rl.onion##.adSpace3
+! 4/15/2020 - OnionLand Search - 3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion
+3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion##.col-sm-12
+! 4/15/2020 - Tor66 - tor66sezptuu2nta.onion
+tor66sezptuu2nta.onion##center:nth-of-type(2)
+tor66sezptuu2nta.onion##center:nth-of-type(3)
+tor66sezptuu2nta.onion##center:nth-of-type(4)
+tor66sezptuu2nta.onion##center:nth-of-type(5)
+tor66sezptuu2nta.onion##center:nth-of-type(6)
+tor66sezptuu2nta.onion##center:nth-of-type(7)
+tor66sezptuu2nta.onion##center:nth-of-type(8)
+tor66sezptuu2nta.onion##center:nth-of-type(9)
+tor66sezptuu2nta.onion##center:nth-of-type(10)
+tor66sezptuu2nta.onion##center:nth-of-type(11)
+tor66sezptuu2nta.onion##center:nth-of-type(12)
+tor66sezptuu2nta.onion##center:nth-of-type(13)
+! 4/15/2020 - Torch: Tor Search - xmh57jrzrnw6insl.onion
+||area23wa3d32yygu.onion/delivery/list_banners/1/FP$subdocument
+! 4/15/2020 - Tordex - tordex7iie7z2wcg.onion
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(2)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(3)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(4)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(5)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(6)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(7)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(8)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(9)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(10)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(11)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(12)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(13)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(14)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(15)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(16)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(17)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(18)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(19)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(20)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(21)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(22)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(23)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(24)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(25)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(26)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(27)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(28)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(29)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(30)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(31)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(32)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(33)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(34)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(35)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(36)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(37)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(38)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(39)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(40)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(41)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(42)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(43)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(44)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(45)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(46)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(47)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(48)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(49)
+tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(50)
+! 4/15/2020 - Torgle - torglejzid2cyoqt.onion
+torglejzid2cyoqt.onion##.mt-5.text-center.col-md-9
+! 4/15/2020 - VisiTOR - visitorfi5kl7q7i.onion
+visitorfi5kl7q7i.onion##body > div:nth-of-type(1)
+visitorfi5kl7q7i.onion##div.item:nth-of-type(3)
+visitorfi5kl7q7i.onion##div.item:nth-of-type(4)
+visitorfi5kl7q7i.onion##div.item:nth-of-type(5)
+! 4/15/2020 - The Light Hidden Wiki cbo7whgxo2dnplgz.onion
+cbo7whgxo2dnplgz.onion##div#p-tb.portlet:nth-of-type(7) > h3
+cbo7whgxo2dnplgz.onion##div#p-tb.portlet:nth-of-type(7)
+! 4/15/2020 Hidden Links - wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion
+wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion##h6.friends:nth-of-type(2)
+wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion##div.friend-list:nth-of-type(2)
+wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion##h6.friends:nth-of-type(1)
+wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion##div.friend-list:nth-of-type(1)
+! 4/15/20 - The Hidden Wiki / Deep Web Onion List - ndntmfusjmj6tkpl.onion
+ndntmfusjmj6tkpl.onion##p:nth-of-type(5)
+ndntmfusjmj6tkpl.onion##p:nth-of-type(7)
+ndntmfusjmj6tkpl.onion###sidebar-inner > center
+ndntmfusjmj6tkpl.onion##p:nth-of-type(9)
+ndntmfusjmj6tkpl.onion##p:nth-of-type(10)
+! 4/15/2020 - Tor Links - torlinkswwqg3lwt.onion
+torlinkswwqg3lwt.onion###t > tbody > tr:nth-of-type(1) > td > center
+! 4/15/2020 - TorLinks v3 - tor3ypms2vlohh2e.onion
+tor3ypms2vlohh2e.onion##[href="http://hdwikiueikaeviwk.onion/"]
+! 4/15/20 - Onion Links Directory - http://aaalinktbyhxngho.onion
+aaalinktbyhxngho.onion##div.container:nth-child(3) > div.row:nth-child(3) > div.side:first-child > div.sidebar_banner:last-child
+aaalinktbyhxngho.onion##div.container:nth-child(3) > div.header:first-child > div.header_banner:last-child > div > a > img
+! 4/15/2020 - Onion List - onionailnm7t3437.onion
+onionailnm7t3437.onion##.c-con
+onionailnm7t3437.onion##.advertising
+! 4/15/2020 - Link Direction - linkdire62kbkigq.onion
+linkdire62kbkigq.onion##.box
+! HD Wiki - 4/15/2020 - hdwikiueikaeviwk.onion
+hdwikiueikaeviwk.onion###dokuwiki__top > div:nth-of-type(2)
+! 4/15/2020 - Best Deep Web - bestdeepweb.com
+bestdeepweb.com##p:nth-of-type(2)
+bestdeepweb.com##div.moduletable:nth-of-type(4) > div:nth-of-type(1)
+bestdeepweb.com##div.moduletable:nth-of-type(5) > div:nth-of-type(1)
+bestdeepweb.com##div.moduletable:nth-of-type(6) > div:nth-of-type(1)
+bestdeepweb.com##div.moduletable:nth-of-type(7) > div:nth-of-type(1)
+bestdeepweb.com##div.moduletable:nth-of-type(8) > div:nth-of-type(1)
+! 4/15/2020  - Raptor - raptortiabg7uyez.onion
+raptortiabg7uyez.onion##p:nth-of-type(2)
+raptortiabg7uyez.onion##body > [href="http://silkroadxjzvoyxh.onion/"]
+raptortiabg7uyez.onion##body > [href="http://tapeucwutvne7l5o.onion/"]
+raptortiabg7uyez.onion##p:nth-of-type(4)
+! 4/15/2020 - Deep Web Links - deep-weblinks.com
+deep-weblinks.com##.site-header > .wrap
+deep-weblinks.com###custom_html-16 > .widget-wrap.widget_text > .custom-html-widget.textwidget
+deep-weblinks.com##p:nth-of-type(10)
+deep-weblinks.com##p:nth-of-type(20)
+deep-weblinks.com##p:nth-of-type(25)
+deep-weblinks.com##p:nth-of-type(349)
+! 4/15/2020 - CodeDir - 67xkew7pvctdcj526yl7gl6pc6e2dwqwx3ugbe67g2hfjdnbwjd7euad.onion
+67xkew7pvctdcj526yl7gl6pc6e2dwqwx3ugbe67g2hfjdnbwjd7euad.onion##center:nth-of-type(2)
+! 4/15/2020 - Recon - reconponydonugup.onion
+reconponydonugup.onion##.banner-section
+! 4/15/20 - Secmail - secmailw453j7piv.onion
+||secmailw453j7piv.onion/src/ads/*$subdocument,1p
+||secmailw453j7piv.onion/src/login.php/images/backg.png$image
+||giyzk7o6dcunb2ry.onion/src/ads/*$subdocument,1p
+||giyzk7o6dcunb2ry.onion/src/login.php/images/backg.png$image
+! 4/15/2020 - Flashlight - kxojy6ygju4h6lwn.onion
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(1)
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(2)
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(3)
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(4)
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(5)
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(6)
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(7)
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(8)
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(9)
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(10)
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(11)
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(13)
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(14)
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(15)
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(16)
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(17)
+kxojy6ygju4h6lwn.onion##div.clearfix.sb-widget:nth-of-type(18)
+kxojy6ygju4h6lwn.onion##.bottom-ad-section
+! 4/15/2020 - OnionThumbs - othumbs53mh65hxc.onion
+othumbs53mh65hxc.onion##body > center > div.MainAdverTiseMentDiv:nth-of-type(1)
+othumbs53mh65hxc.onion##center > div:nth-of-type(3)
+othumbs53mh65hxc.onion##div.MainAdverTiseMentDiv:nth-of-type(4)
+othumbs53mh65hxc.onion##center > center > .MainAdverTiseMentDiv
+othumbs53mh65hxc.onion##.hoOcbG0CqpjS-bg
+othumbs53mh65hxc.onion###EPxdU9xTuRWk
+! 4/15/2020 - Instantgrams - y4w6wobb66qbolcru7obrqu2763gctj6kls5tpvkjt42is4uzplnqzad.onion
+y4w6wobb66qbolcru7obrqu2763gctj6kls5tpvkjt42is4uzplnqzad.onion##div.mb-2:nth-of-type(2)
+y4w6wobb66qbolcru7obrqu2763gctj6kls5tpvkjt42is4uzplnqzad.onion##div.mb-2:nth-of-type(3)
+y4w6wobb66qbolcru7obrqu2763gctj6kls5tpvkjt42is4uzplnqzad.onion##div.mb-2:nth-of-type(4)
+y4w6wobb66qbolcru7obrqu2763gctj6kls5tpvkjt42is4uzplnqzad.onion##div.mb-2:nth-of-type(6)
+y4w6wobb66qbolcru7obrqu2763gctj6kls5tpvkjt42is4uzplnqzad.onion##div.mb-2:nth-of-type(8)
+! 4/15/2020 - Hidden Answers - answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion
+answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion##.qa-sidepanel > div:nth-of-type(2)
+! 4/15/2020 - The Onion Web - onionwsoiu53xre32jwve7euacadvhprq2jytfttb55hrbo3execodad.onion
+onionwsoiu53xre32jwve7euacadvhprq2jytfttb55hrbo3execodad.onion##.w-article-list-num > .widget
+onionwsoiu53xre32jwve7euacadvhprq2jytfttb55hrbo3execodad.onion##div.header-pob:nth-of-type(14)
+onionwsoiu53xre32jwve7euacadvhprq2jytfttb55hrbo3execodad.onion##aside.sidebar.ddwnews-sidebar-small:nth-of-type(2) > .theiaStickySidebar
+onionwsoiu53xre32jwve7euacadvhprq2jytfttb55hrbo3execodad.onion##.do-space-bg.do-space
+! 4/15/2020 - Tape - tapeucwutvne7l5o.onion
+tapeucwutvne7l5o.onion##.p-b-30.bn-lg-sidebar.col-xs-12.col-sm-12
+! 4/15/2020 - DNMLive - dnmliveahwgu7nvu.onion
+dnmliveahwgu7nvu.onion###slider
+! 4/19/2020 - Tormax - tormaxunodsbvtgo.onion
+tormaxunodsbvtgo.onion###banners
+! 4/19/2020 - Onion Links Directory - aaalinkdbpopbfax.onion
+aaalinkdbpopbfax.onion##.header_banner > div
+aaalinkdbpopbfax.onion##.sidebar_banner
+! 4/23/2020 - Uncensored Hidden Wiki - z5taguvepvuevyp3.onion
+z5taguvepvuevyp3.onion##table#mp-upper:nth-of-type(2) > tbody > tr > td.MainPageBG:nth-of-type(2)
+!-------------------------------------------------------------!
+!------------------------- Annoyances ------------------------!
+!-------------------------------------------------------------!
+! 4/15/2020 - Start [Wizardry & Steamwork] - kaarvixjxfdy2wv2.onion
+kaarvixjxfdy2wv2.onion##.plugin_wrap.wrap_centeralign
+! 4/15/2020  - Best Deep Web - bestdeepweb.com
+bestdeepweb.com##.fade-header-website
