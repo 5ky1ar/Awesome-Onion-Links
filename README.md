@@ -20,8 +20,4 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_
 ```
 
 # Table Of Contents
-* FAQ
-* Disclaimer
-* Recommended Tools To Enhance Your Dark Web Experience
----
 * Introduction Points
