@@ -12,7 +12,7 @@ I am not involved in any practices like described above and if you wish to surf 
 Know your risk before opening any onion links, if you the link is legal then you can enjoy surfing and know more about the dark web or else learn about dark web before accessing it. Use a good VPN to stay away from danger and your risk factor will be very less.
 
 # Recommended Tools To Enhance Your Dark Web Browsing Experience
-* ![uBlock Origin](https://i.ibb.co/9bHYJdj/ublockorigin-icon.png) [uBlock Origin](https://github.com/gorhill/uBlock) - overall good AdBlocking software
-* ![uBlock Origin](https://i.ibb.co/9bHYJdj/ublockorigin-icon.png) [Dark Web AdBlock Filters (For uBlock Origin)](https://github.com/gorhill/uBlock) - an uBlock Origin filter list designed to block ads on the dark web, cosmetic filtering is required in order for it to work properly
+* ![uBlock Origin](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ublockorigin_icon.png) [uBlock Origin](https://github.com/gorhill/uBlock) - overall good AdBlocking software
+* ![uBlock Origin](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ublockorigin_icon.png) [Dark Web AdBlock Filters (For uBlock Origin)](https://github.com/gorhill/uBlock) - an uBlock Origin filter list designed to block ads on the dark web, cosmetic filtering is required in order for it to work properly
 
 # Table Of Contents
