@@ -540,6 +540,67 @@ Trusted Gun Shop
 ! Bitcoin Generator
 ||k35yauzkptmemr5nbwhyigihw2tfcytbvm4fq2yzfzyzi2nwh7ty7xyd.onion
 !-------------------------------------------------------------!
+!----------------------- Tor Scam List v2 --------------------!
+!-------------------------------------------------------------!
+! 联合中文担保交易市场
+||cn56mmvuv6toexq3.onion
+! Team Premium
+||6thhimkhby4az3vz.onion
+! Carding
+||bfgsu4uktbrbue3p.onion
+! Premium Cards
+||slwc4j5wkn3yyo5j.onion
+! Financial Oasis
+||oazis64odog3oorh.onion
+! Apple Shop
+||applexgrqv3ihh6f.onion
+! Shop Card
+||cmhqrgwwpaxcquxp.onion
+! OnionWallet
+||onionw75v3imttfa.onion
+! Counterfeiting Center
+||countercedyd3fbc.onion
+! The Armory
+||armoryetem5mclq4.onion
+! MultiEscrow
+||mescrowvbbfqihed.onion
+! RockSolid Escrow
+||rsescrowtybxf43d.onion
+! Bitcoins Escrow
+||escrow26gdxwbzjb.onion
+! DarkMamba
+||darkma35pkdraq2b.onion
+! Rent A Hacker
+||hacker3r3cbxxbni.onion
+! 18th Street Gang
+||h4gca3vb6v37awux.onion
+! Under Market
+||z57whuq7jaqgmh6d.onion
+! WalletCards
+||waltcard74gwxkwj.onion
+||gdaqpaukrkqwjop6.onion
+||undrol7rt4yu5zzd.onion
+! The PayPal Cent
+||paypalmkwfrikwlw.onion
+||ppcentrend4erspk.onion
+||nare7pqnmnojs2pg.onion
+! Silk Road
+||silkroad7rn2puhj.onion
+||silkdljpnclgdc2eecu5k3b55d5nikky7r4ljmpgapr5rnzeupsgbzid.onion
+! Imperial
+||zrgv5miyjb4pdxaxyicbkp74hdxjdks44ahls5qiqr7puwa7qgjz45qd.onion
+! BitHacker
+||ca3sii6jljzxqtwa4y3tunww5nfevwolrhn3cowzoobpciofldkdksqd.onion
+! King Cards
+||pdixgp5s27jkd26pc2oenismtlumi7cbkywanlzvf62kcau6ro4hbsad.onion
+! RickWallets
+||vk5akdnqjyupp34lpz65oj4pomlu3jxz663tp4xmxnz22crt2qpojtid.onion
+! SoS Handle
+||7j5c24itghnglnodmlg76j6dxo64hn5sgtrm7q7z4pv4hoexemr2pmid.onion
+! Cash Cards
+||qeybpwjb7qn2ws2dein5zvsqgxral3shzsobgypzom4oihqfdlvl4uid.onion
+||wth474sv6ct4glwiowjipvr6ydeg6tbxlenxqibe5vno7ivmeqlumnid.onion
+!-------------------------------------------------------------!
 !--------------------------- UnderDir ------------------------!
 !-------------------------------------------------------------!
 ! UnderDir Fake Clones
