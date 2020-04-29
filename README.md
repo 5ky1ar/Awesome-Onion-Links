@@ -96,6 +96,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_
 * ![Torch](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torch_icon.png) [Torch (Mirror)](http://26ozf35d2rwtmqbk.onion/)
 * ![Tordex](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tordex_icon.png) [Tordex](http://tordex7iie7z2wcg.onion/)
 * ![Torgle](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Torgle](http://torglejzid2cyoqt.onion/)
+* ![VisiTOR](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/visitor_icon.png) [VisiTOR](http://visitorfi5kl7q7i.onion/)
 
 ## Wikis / Link Lists
 
