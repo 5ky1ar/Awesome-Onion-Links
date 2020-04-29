@@ -54,6 +54,20 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_
 * ![The Dark Web Pug](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/darkwebpug_icon.png) [The Dark Web Pug (Outdated)](http://thedarkwebpugv5m.onion/)
 
 ## Tor Scam Lists
+* ![Dark Fail](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/darkfail_icon.png) [Dark.Fail](http://darkfailllnkf4vf.onion/)
+* ![Dark Fail](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/darkfail_icon.png) [Dark.Fail (Clearnet Mirror)](https://dark.fail/)
+* ![NoScam](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/noscam_icon.png) [NoScam](http://noscamomtq5kauyu.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 1)](http://rap7gypjs4v6a7ax.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 2)](http://roey5smpp67p4fxq.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 2)](http://y7zigmjrpm2pkgzi.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 2)](http://jancwqly2wrh35ab.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 1)](http://wua54ku5ixg72qas.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 2)](http://ba7fsz4656jjxs3p.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 3)](http://vzii5edzuyvjb4kf.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 4)](http://r33ar5ezvrigo7p5.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 5)](http://pag7cizw7yi4teop.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 3](http://mi325vr3yhtlptho42mkaup4loyesnzfmx7simiw2f5gxrbrqeonh4id.onion/)
+* ![DarkGuard](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/darkguard_icon.png) [DarkGuard](http://guardday6e5nxblpojbhmx5ws2avautr7eswu3qg7gynh52rh744anyd.onion/)
 
 ## Search Engines
 
