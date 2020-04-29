@@ -733,8 +733,6 @@ Trusted Gun Shop
 ||lg7iwjj3ajzz2cmd.onion
 ! Gift Card Mania
 ||a534p6bdxbf2niq7.onion
-! VendorCC
-||vend2qz3bva3jhol.onion
 ! HQCards
 ||hqcards3mrbxrfak.onion
 ! BitCards
@@ -755,6 +753,75 @@ Trusted Gun Shop
 ||alphaca4pxfzfyvm.onion
 ! DashTor
 ||xilliayhoiuv5qmk.onion
+! VendorPal
+||2pneiouz2aj27kjs.onion
+! PayPal Bazaar
+||itilyljv4vf6qgqm.onion
+! Hidden Financial Services
+||lox7ibfj7e3pw3c6.onion
+! Cash Cards
+||cashyjun2yp4tiub.onion
+! Shop Cards
+||fmp2arn5ftrxzoba.onion
+! CaptitalVentures
+||prepaidojhtmroco.onion
+! BlackMarket CC
+||ub2fkkeeyl3jgwwz.onion
+! Hidden Cards
+||o3fkhst6gymb6duo.onion
+! 21 Dump Street
+||carddumpa36spoya.onion
+! JokerCCs
+||jokerooxzda6ruf4.onion
+! TCW
+||caworldwyrxypvqm.onion
+! ZenithCC
+||zenithccalwhzy26.onion
+! ECash Cards
+||ecashpkvsc2qroz6.onion
+! DeepPoint
+||deepointokustfwk.onion
+! Easy Debit Cards
+||qdoqihbtet5jt5qx.onion
+! Black Store
+||blackccyuvti57v7.onion
+! Dark Shop
+||dark2w4t34jlb5nt.onion
+! EasyCards
+||j7cd2za5dxcw4uan.onion
+! Shop Card
+||cardshopffielsxi.onion
+! Bazaar Plastic
+||darkrawbz4fkib2c.onion
+! LordPay
+||lordpg3nluytdenw.onion
+! Traveler
+||travelziverr35bk.onion
+! PayPal Account
+||paypal6qqdpo2jhc.onion
+! FastPayPal
+||paypalp2l6xiemsy.onion
+! EasyPayPal
+||easyppslbft37xq7.onion
+! Top Sell
+||45l7ejfvg6tocxjg.onion
+! TorCard
+||ioqkxhnm3uivbtth.onion
+! CCDump
+||22222222ss554wof.onion
+! Automated Store
+||g5b5erkjomqen6nm.onion
+! A Cheap PayPal Store
+||22227zvkbytnwlrt.onion
+! EGift Kingz
+||7yrwexuvl2horzr2.onion
+! Amazon Gift Cards
+||buygc467q5ez2fg7.onion
+! Premium Land Credit Cards Market
+||debitcards.torpress2sarn7xw.onion.onion
+! VendorCC
+||vend2qz3bva3jhol.onion
+||vendor5in7aid2nb.onion
 ! Credit Card Center
 ||cccenterjb27ubnm.onion
 ||cccenterse4ofwp6.onion
@@ -774,6 +841,12 @@ Trusted Gun Shop
 ||srwmltrmx5uy3j74adakpixaptlr2lie42cshrlglsyy2mml24hcs4id.onion
 ! BitHacker
 ||4jnwltgnjvb44xh4jzfqe2tlq37bkyknnnhpx4ia4yyz5qgbpamvntqd.onion
+! Best CC's
+||bestcc5xpfjihry2nlc25pj5ujxzrezrjh4egzugvs3u2eopjk5u5zid.onion
+! Western Union Hack And Bank Transfers
+||nu25zvegynpgpgbywuudtov7g37h2jsxfa2avz5dyqx32kmqzsp2qjyd.onion
+! Largest PayPal And Credit Card Market
+||fiw27htrk5av3bnhfjtl23dn62fa6e3rwlhtvkimthy46jbuxuy3jdyd.onion
 !-------------------------------------------------------------!
 !------------------------ Miscellaneous ----------------------!
 !-------------------------------------------------------------!
