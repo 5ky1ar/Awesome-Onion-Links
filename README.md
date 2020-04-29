@@ -17,6 +17,7 @@ Know your risk before opening any onion links, if you the link is legal then you
 ```
 https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/AdBlock_Dark_Web.txt
 https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_Scams.txt
+https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Under18.txt
 ```
 
 # Table Of Contents
@@ -103,6 +104,13 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_
 * ![The Hidden Wiki](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [The Hidden Wiki](http://hiddenwiki7wiyzr.onion/)
 * ![The Hidden Wiki](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [The Hidden Wiki (Updated Version)](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page)
 * ![The Light Hidden Wiki](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [The Light Hidden Wiki](http://cbo7whgxo2dnplgz.onion/wiki/index.php)
+* ![The Hidden Wiki 2](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [The Hidden Wiki 2](http://ndntmfusjmj6tkpl.onion/)
+* ![Hidden Links](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/hiddenlinks_icon.png) [Hidden Links](http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion/)
+* ![Tor Links](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torlinks_icon.png) [Tor Links v1](http://torlinkbgs6aabns.onion/)
+* ![Tor Links](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torlinks_icon.png) [Tor Links v2](http://torlinkyrd26ovflctq7j3edrcamticj2tikyjghbehnow73av2dtmqd.onion/)
+* ![Tor Links](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torlinks_icon.png) [Tor Links v3](http://tor3ypms2vlohh2e.onion/)
+* ![Tor Links 2](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torlinks2_icon.png) [Tor Links 2](http://torlinkswwqg3lwt.onion/)
+
 
 ## Monitors
 

@@ -1,0 +1,26 @@
+! Title: Dark Web Anti-Illegal Filters
+! Description: uBlock Origin filter designed to block known Illegal sites on the dark web. Use CTRL + F to search. Insert onion link (without http:// part) or name in the search bar.
+! Version: 0.0.1
+! Expires: 1 day
+! License: https://creativecommons.org/licenses/by/3.0/
+!-------------------------------------------------------------!
+!---------------------- Onion Links 2020 ---------------------!
+!-------------------------------------------------------------!
+||hardcpklulcz6ilr.onion
+||porncpv7enkd2z4c.onion
+||gooo6hmmszkqskpy.onion
+||childqnutlsdftt4.onion
+||newptqvrn4qdjf4d.onion
+||onionjbfvwvyiq4o.onion
+||hoppcnv3c6vf5er6.onion
+||hoppcnv3c6vf5er6.onion
+||childsivo3n3xzei.onion
+||girscp6p6ffwzea7.onion
+||cpvidzibcnj4p6bt.onion
+||shopif7a6vgrb3pu.onion
+||boyscp6zm253bvml.onion
+||shopzqnolsowzy2q.onion
+||girlscplhn2yiql6.onion
+||cprapeu4qppmwooa.onion
+||teenshgddldnov25.onion
+||topcppctb4k3lldo.onion
