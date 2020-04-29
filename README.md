@@ -70,6 +70,13 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_
 * ![DarkGuard](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/darkguard_icon.png) [DarkGuard](http://guardday6e5nxblpojbhmx5ws2avautr7eswu3qg7gynh52rh744anyd.onion/)
 
 ## Search Engines
+* ![Ahmia](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ahmia_icon.png) [Ahmia](http://msydqstlz2kzerdg.onion/)
+* ![Ahmia](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ahmia_icon.png) [Ahmia (Clearnet Mirror)](https://ahmia.fi/)
+* ![Candle](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/candle_icon.png) [Candle](http://gjobqjj7wyczbqie.onion/)
+* ![Dark Web Links](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/darkweblinks_icon.png) [Dark Web Links](http://jdpskjmgy6kk4urv.onion/)
+* ![DuckDuckGo](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/duckduckgo_icon.png) [DuckDuckGo](https://3g2upl4pq6kufc4m.onion/)
+* ![Excavator](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/excavator_icon.png) [Excavator](http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/)
+* ![Haystak](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/haystak_icon.png) [Haystak](http://haystakvxad7wbk5.onion/)
 
 ## Wikis / Link Lists
 
