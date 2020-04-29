@@ -102,7 +102,6 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![VisiTOR](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/visitor_icon.png) [VisiTOR](http://visitorfi5kl7q7i.onion/)
 
 ## Wikis / Link Lists
-
 * ![The Hidden Wiki](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [The Hidden Wiki](http://hiddenwiki7wiyzr.onion/)
 * ![The Hidden Wiki](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [The Hidden Wiki (Updated Version)](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page)
 * ![The Light Hidden Wiki](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [The Light Hidden Wiki](http://cbo7whgxo2dnplgz.onion/wiki/index.php)

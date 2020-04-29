@@ -856,3 +856,5 @@ Trusted Gun Shop
 ||2kka4f23pcxgqkpv.onion
 ! Rent-A-Hacker
 ||2ogmrlfzdthnwkez.onion
+! CCPal
+||3dbr5t4pygahedms.onion
