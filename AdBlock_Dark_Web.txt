@@ -29,6 +29,8 @@ tor66sezptuu2nta.onion##center:nth-of-type(12)
 tor66sezptuu2nta.onion##center:nth-of-type(13)
 ! 4/15/2020 - Torch: Tor Search - xmh57jrzrnw6insl.onion
 ||area23wa3d32yygu.onion/delivery/list_banners/1/FP$subdocument
+xmh57jrzrnw6insl.onion##[href="adinfo.html"]
+xmh57jrzrnw6insl.onion###fbanners
 ! 4/15/2020 - Tordex - tordex7iie7z2wcg.onion
 tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(2)
 tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(3)
@@ -112,7 +114,7 @@ onionailnm7t3437.onion##.c-con
 onionailnm7t3437.onion##.advertising
 ! 4/15/2020 - Link Direction - linkdire62kbkigq.onion
 linkdire62kbkigq.onion##.box
-! HD Wiki - 4/15/2020 - hdwikiueikaeviwk.onion
+! 4/15/2020 - HD Wiki - hdwikiueikaeviwk.onion
 hdwikiueikaeviwk.onion###dokuwiki__top > div:nth-of-type(2)
 ! 4/15/2020 - Best Deep Web - bestdeepweb.com
 bestdeepweb.com##p:nth-of-type(2)
@@ -192,6 +194,9 @@ aaalinkdbpopbfax.onion##.header_banner > div
 aaalinkdbpopbfax.onion##.sidebar_banner
 ! 4/23/2020 - Uncensored Hidden Wiki - z5taguvepvuevyp3.onion
 z5taguvepvuevyp3.onion##table#mp-upper:nth-of-type(2) > tbody > tr > td.MainPageBG:nth-of-type(2)
+! 4/29/2020 - Torch: Tor Search - 26ozf35d2rwtmqbk.onion
+26ozf35d2rwtmqbk.onion##[href="/adinfo"]
+26ozf35d2rwtmqbk.onion###fbanners
 !-------------------------------------------------------------!
 !------------------------- Annoyances ------------------------!
 !-------------------------------------------------------------!
