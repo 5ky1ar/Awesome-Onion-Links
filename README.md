@@ -73,7 +73,10 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_
 * ![Candle](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/candle_icon.png) [Candle](http://gjobqjj7wyczbqie.onion/)
 * ![Dark Web Links](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/darkweblinks_icon.png) [Dark Web Links](http://jdpskjmgy6kk4urv.onion/)
 * ![DuckDuckGo](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/duckduckgo_icon.png) [DuckDuckGo](https://3g2upl4pq6kufc4m.onion/)
+* ![Evo Search](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/evosearch_icon.png) [Evo Search](http://evo7no6twwwrm63c.onion/)
 * ![Excavator](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/excavator_icon.png) [Excavator](http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/)
+* ![Google.Onion](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Google.Onion](http://ggonionvhfq7brmj.onion/)
+* ![Grams](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/grams_icon.png) [Grams](http://grams7ebnju7gwjl.onion/)
 * ![Haystak](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/haystak_icon.png) [Haystak](http://haystakvxad7wbk5.onion/)
 * ![Not Evil](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/notevil_icon.png) [Not Evil](http://hss3uro2hsxfogfq.onion/)
 * ![Onion Center](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/onioncenter_icon.png) [Onion Center](http://oikgfwfqmqkph4rl.onion/)
@@ -89,6 +92,8 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_
 * ![Tor Search Engine](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torsearchengine_icon.png) [Tor Search Engine](http://searchcoaupi3csb.onion/)
 * ![Torch](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torch_icon.png) [Torch](http://xmh57jrzrnw6insl.onion/)
 * ![Torch](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torch_icon.png) [Torch (Mirror)](http://26ozf35d2rwtmqbk.onion/)
+* ![Tordex](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tordex_icon.png) [Tordex](http://tordex7iie7z2wcg.onion/)
+* ![Torgle](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Torgle](http://torglejzid2cyoqt.onion/)
 
 ## Wikis / Link Lists
 

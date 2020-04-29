@@ -197,6 +197,9 @@ z5taguvepvuevyp3.onion##table#mp-upper:nth-of-type(2) > tbody > tr > td.MainPage
 ! 4/29/2020 - Torch: Tor Search - 26ozf35d2rwtmqbk.onion
 26ozf35d2rwtmqbk.onion##[href="/adinfo"]
 26ozf35d2rwtmqbk.onion###fbanners
+! 4/29/2020 - Evo Search - evo7no6twwwrm63c.onion
+evo7no6twwwrm63c.onion###EPxdU9xTuRWk
+evo7no6twwwrm63c.onion##.hoOcbG0CqpjS-bg
 !-------------------------------------------------------------!
 !------------------------- Annoyances ------------------------!
 !-------------------------------------------------------------!
