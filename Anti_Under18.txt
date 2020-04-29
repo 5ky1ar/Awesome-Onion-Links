@@ -1,5 +1,5 @@
-! Title: Dark Web Anti-Illegal Filters
-! Description: uBlock Origin filter designed to block known Illegal sites on the dark web. Use CTRL + F to search. Insert onion link (without http:// part) or name in the search bar.
+! Title: Dark Web Anti-Under-18 Filters
+! Description: uBlock Origin filter designed to block known Under 18 sites on the dark web. Use CTRL + F to search. Insert onion link (without http:// part) or name in the search bar.
 ! Version: 0.0.1
 ! Expires: 1 day
 ! License: https://creativecommons.org/licenses/by/3.0/
