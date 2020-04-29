@@ -20,17 +20,17 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_
 ```
 
 # Table Of Contents
-* Recommended Sites
-  * Official Tor Sites
-  * Security & Privacy
-* Introduction Points
-  * Dark Web Guides
-  * Tor Scam Lists
-  * Search Engines
-  * Wikis/Link Lists
-  * Monitors
-* Financial Services
-  * Bitcoin Mixers
+* [Recommended Sites](#recommended-sites)
+  * [Official Tor Sites](#official-tor-sites)
+  * [Security & Privacy](#security--privacy)
+* [Introduction Points](#introduction-points)
+  * [Dark Web Guides](#dark-web-guides)
+  * [Tor Scam Lists](#tor-scam-lists)
+  * [Search Engines](#search-engines)
+  * [Wikis/Link Lists](#wikis--link-lists)
+  * [Monitors](#monitors)
+* [Financial Services](#monitors)
+  * [Bitcoin Mixers](#bitcoin-mixers)
 
 ---
 # Recommended Sites
