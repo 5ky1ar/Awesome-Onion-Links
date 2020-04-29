@@ -200,6 +200,8 @@ z5taguvepvuevyp3.onion##table#mp-upper:nth-of-type(2) > tbody > tr > td.MainPage
 ! 4/29/2020 - Evo Search - evo7no6twwwrm63c.onion
 evo7no6twwwrm63c.onion###EPxdU9xTuRWk
 evo7no6twwwrm63c.onion##.hoOcbG0CqpjS-bg
+! 4/29/2020 - Hidden Wiki Fresh - ujnkg4uirpaiqejr.onion
+ujnkg4uirpaiqejr.onion##.group.wrapper > div:nth-of-type(1)
 !-------------------------------------------------------------!
 !------------------------- Annoyances ------------------------!
 !-------------------------------------------------------------!

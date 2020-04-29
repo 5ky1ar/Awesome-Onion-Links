@@ -111,7 +111,6 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![Tor Links](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torlinks_icon.png) [Tor Links v3](http://tor3ypms2vlohh2e.onion/)
 * ![Tor Links 2](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torlinks2_icon.png) [Tor Links 2](http://torlinkswwqg3lwt.onion/)
 
-
 ## Monitors
 
 # Financial Services
