@@ -32,6 +32,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Monitors](#monitors)
 * [Financial Services](#monitors)
   * [Bitcoin Mixers](#bitcoin-mixers)
+* [Non-Financial Services](#non-financial-services)
 * [Clearnet Mirrors](#clearnet-mirrors)
 
 ---
@@ -117,5 +118,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 # Financial Services
 
 ## Bitcoin Mixers
+
+# Non-Financial Services
 
 # Clearnet Mirrors
