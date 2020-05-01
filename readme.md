@@ -96,7 +96,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![The Hidden Wiki 2](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [The Hidden Wiki 2](http://ndntmfusjmj6tkpl.onion/)
 * ![Hidden Wiki Fresh](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/hwf_icon.png) [Hidden Wiki Fresh](http://ujnkg4uirpaiqejr.onion/)
 * ![Hidden Wiki Fresh 2020](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/hwf20_icon.png) [Hidden Wiki Fresh 2020](http://hdwikiueikaeviwk.onion/)
-* ![Hidden Wiki Fresh 2020](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/hwf20_icon.png) [Hidden Wiki Fresh 2020 (Updated)](http://wikikbig7ni573g5.onion/doku.php)
+* ![Hidden Wiki Fresh 2020](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/hwf20_icon.png) [Hidden Wiki Fresh 2020 (Updated Version)](http://wikikbig7ni573g5.onion/doku.php)
 * ![Hidden Links](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/hiddenlinks_icon.png) [Hidden Links](http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion/)
 * ![Tor Links](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torlinks_icon.png) [Tor Links v1](http://torlinkbgs6aabns.onion/)
 * ![Tor Links](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torlinks_icon.png) [Tor Links v2](http://torlinkyrd26ovflctq7j3edrcamticj2tikyjghbehnow73av2dtmqd.onion/)
@@ -108,6 +108,8 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![Onion Links Directory](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/old_icon.png) [Onion Links Directory](http://aaalinktbyhxngho.onion/)
 * ![Dark Net Links](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Dark Net Links](http://aetmdmazqr5hacyus5iw3foutnj5swzuj3kjyk2hwoxve2pkgilcjkqd.onion/)
 * ![HD Wiki](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/hdwiki_icon.png) [HD Wiki](http://hdwikicorldcisiy.onion/)
+* ![UnderDir](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/underdir_icon.png) [UnderDir](http://underdj5ziov3ic7.onion/)
+* ![Raptor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/raptor_icon.png)[Raptor](http://raptortiabg7uyez.onion/)
 * ![Uncensored Onion List](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ucol_icon.png) [Uncensored Onion List](http://list4ywgch4gsd56.onion/)
 * ![Grams](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Grams Wiki](http://uepurdryqkrheiqs.onion/)
 
@@ -141,6 +143,7 @@ I'm not going to put clearnet links of popular sites that have .onion links (Fac
 * ![Dark Fail](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/darkfail_icon.png) [Dark.Fail (Clearnet)](https://dark.fail/)
 * ![Ahmia](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ahmia_icon.png) [Ahmia (Clearnet)](https://ahmia.fi/)
 * ![SearX](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/searx_icon.png) [SearX (Clearnet)](https://searx.space/)
+* ![Raptor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/raptor_icon.png)[Raptor (Clearnet)](https://raptor.life/)
 
 ## Security & Privacy
 * ![Surveillance Self-Defense](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ssd_icon.png) [Surveillance Self-Defense](https://ssd.eff.org/)
