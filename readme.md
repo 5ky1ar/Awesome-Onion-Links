@@ -189,6 +189,9 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![OnionDir](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/oniondir_icon.png) [OnionDir](http://oniot2zvfczp4lpc.onion/)
 
 ## Monitors
+* ![DarkEye](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkeye_icon.png) [DarkEye](http://t7tb43a7gvl6wb7j.onion/)
+* ![Onion Scanner](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionscanner_icon.png) [Onion Scanner](http://4r4zaei5qa7qq5ha.onion/)
+* ![CodeDir](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/codedir_icon.png) [CodeDir](http://67xkew7pvctdcj526yl7gl6pc6e2dwqwx3ugbe67g2hfjdnbwjd7euad.onion/)
 
 # Financial Services
 
@@ -215,6 +218,7 @@ I'm too lazy to sort out the links into their respective categories again so jus
 * ![Onion Links Directory](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/old_icon.png) [Onion Links Directory (Mirror)](http://aaalinktbyhxngho.onion/)
 * ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Hidden Wiki (Mirror)](http://wikitjerrta4qgz4.onion/)
 * ![Tor Links](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torlinks_icon.png) [Tor Links v2 (Mirror)](http://torlinkyrd26ovflctq7j3edrcamticj2tikyjghbehnow73av2dtmqd.onion/)
+* ![DarkEye](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkeye_icon.png) [DarkEye (Mirror)](http://darkeyepxw7cuu2cppnjlgqaav6j42gyt43clcn4vjjf7llfyly5cxid.onion/)
 
 # Clearnet Mirrors
 I'm not going to put clearnet links of popular sites that have .onion links (Facebook, Portonmail, The New York Times, etc...) as a quick search in your preferred search engine would easily find them and its a waste of time for me.
