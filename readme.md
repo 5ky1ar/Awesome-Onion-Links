@@ -161,7 +161,10 @@ I'm not going to put clearnet links of popular sites that have .onion links (Fac
 
 * ![Dark Fail](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkfail_icon.png) [Dark.Fail (Clearnet)](https://dark.fail/)
 * ![Ahmia](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ahmia_icon.png) [Ahmia (Clearnet)](https://ahmia.fi/)
-* ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (Clearnet)](https://onionsearchengine.com/)
+* ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (North America Clearnet)](https://onionsearchengine.com/)
+* ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (Europe Clearnet)](https://eu.onionsearchengine.com/)
+* ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (Asia Clearnet)](https://as.onionsearchengine.com/)
+* ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (Africa Clearnet)](https://af.onionsearchengine.com/)
 * ![OnionLand Search](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionLand Search (Clearnet)](https://onionlandsearchengine.com/)
 * ![SearX](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/searx_icon.png) [SearX (Clearnet)](https://searx.space/)
 * ![Raptor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/raptor_icon.png) [Raptor (Clearnet)](https://raptor.life/)
