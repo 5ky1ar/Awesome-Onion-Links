@@ -218,6 +218,9 @@ nqigfqrxnkwcqmiq.onion##div#p-tb.portlet:nth-of-type(11)
 ! 5/1/2020 - TorLinks v2 - torlinkglejjnyof.onion
 torlinkglejjnyof.onion##td:nth-of-type(3)
 torlinkglejjnyof.onion##td:nth-of-type(4)
+! 5/1/2020 - LinkDir - linkdir7ekbalksw.onion
+linkdir7ekbalksw.onion###EPxdU9xTuRWk
+linkdir7ekbalksw.onion##.hoOcbG0CqpjS-bg
 !-------------------------------------------------------------!
 !------------------------- Annoyances ------------------------!
 !-------------------------------------------------------------!
