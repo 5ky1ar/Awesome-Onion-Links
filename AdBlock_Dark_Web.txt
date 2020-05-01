@@ -207,6 +207,8 @@ wikikbig7ni573g5.onion##.group.wrapper > div:nth-of-type(1)
 ! 5/1/2020 - Onion Search Server - oss7wrm7xvoub77o.onion
 oss7wrm7xvoub77o.onion###EPxdU9xTuRWk
 oss7wrm7xvoub77o.onion##.hoOcbG0CqpjS-bg
+! 5/1/2020 - TorWiki - torwikignoueupfm.onion
+torwikignoueupfm.onion##.bnrrrss
 !-------------------------------------------------------------!
 !------------------------- Annoyances ------------------------!
 !-------------------------------------------------------------!

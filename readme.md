@@ -110,10 +110,14 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![HD Wiki](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/hdwiki_icon.png) [HD Wiki](http://hdwikicorldcisiy.onion/)
 * ![UnderDir](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/underdir_icon.png) [UnderDir](http://underdj5ziov3ic7.onion/)
 * ![OnionTree](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/oniontree_icon.png) [OnionTree](https://oniontree.org/)
+* ![OnionList](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [OnionList](http://u5gnv57w3wimlrmr.onion/)
+* ![TorWiki](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torwiki_icon.gif) [TorWiki](http://torwikignoueupfm.onion/)
 * ![Fresh Onion Link List 2019](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/foll2019_icon.png) [Fresh Onion Link List 2019](http://tecjjcyooceyhwyhyhyjmfpnq2c4wxhaxclwqyq6cvpigbqqizf3drqd.onion/)
-* ![Raptor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/raptor_icon.png)[Raptor](http://raptortiabg7uyez.onion/)
+* ![Raptor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/raptor_icon.png) [Raptor](http://raptortiabg7uyez.onion/)
 * ![Grams](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Grams Wiki](http://uepurdryqkrheiqs.onion/)
 * ![Uncensored Onion List](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ucol_icon.png) [Uncensored Onion List](http://list4ywgch4gsd56.onion/)
+* ![Dir](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Dir](http://5kgkvealcpsrgsfmxo4fssmr7zcemq7zp5qfvsuppnio5cr6harqq2id.onion/)
+* ![OnionDir](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/oniondir_icon.png) [OnionDir](http://oniot2zvfczp4lpc.onion/)
 
 ## Monitors
 
