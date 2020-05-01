@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_
 https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Under18.txt
 ```
 
-**Note:** make sure that you use the *http* protocol and *NOT HTTPS*, the only exceptions to this rule are [TorStatus](https://jlve2y45zacpbz6s.onion/), [DuckDuckGo](https://3g2upl4pq6kufc4m.onion/), [Protonmail](https://protonirockerxow.onion/), [Facebook](httos://facebookcorewwwi.onion/), [The New York Times](https://www.nytimes3xbfgragh.onion/). using the HTTPS protocol on any other of these sites causes them to not connect properly.
+**Note:** make sure that you use the *http* protocol and *NOT HTTPS*, the only exceptions to this rule are [TorStatus](https://jlve2y45zacpbz6s.onion/), [DuckDuckGo](https://3g2upl4pq6kufc4m.onion/), [Protonmail](https://protonirockerxow.onion/), [Facebook](httos://facebookcorewwwi.onion/), [The New York Times](https://www.nytimes3xbfgragh.onion/). using the HTTPS protocol on any .onion site other of these sites causes them to not connect properly.
 
 # Table Of Contents
 * [Recommended Sites](#recommended-sites)
@@ -116,6 +116,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![OnionList](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [OnionList](http://u5gnv57w3wimlrmr.onion/)
 * ![TorWiki](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torwiki_icon.gif) [TorWiki](http://torwikignoueupfm.onion/)
 * ![Fresh Onion Link List 2019](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/foll2019_icon.png) [Fresh Onion Link List 2019](http://tecjjcyooceyhwyhyhyjmfpnq2c4wxhaxclwqyq6cvpigbqqizf3drqd.onion/)
+* ![Project PM](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/projectpm_icon.png) [Project PM](http://projpmcxufvim7be.onion/)
 * ![Raptor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/raptor_icon.png) [Raptor](http://raptortiabg7uyez.onion/)
 * ![Grams](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Grams Wiki](http://uepurdryqkrheiqs.onion/)
 * ![Uncensored Onion List](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ucol_icon.png) [Uncensored Onion List](http://list4ywgch4gsd56.onion/)
@@ -153,7 +154,7 @@ I'm not going to put clearnet links of popular sites that have .onion links (Fac
 * ![Dark Fail](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/darkfail_icon.png) [Dark.Fail (Clearnet)](https://dark.fail/)
 * ![Ahmia](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ahmia_icon.png) [Ahmia (Clearnet)](https://ahmia.fi/)
 * ![SearX](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/searx_icon.png) [SearX (Clearnet)](https://searx.space/)
-* ![Raptor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/raptor_icon.png)[Raptor (Clearnet)](https://raptor.life/)
+* ![Raptor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/raptor_icon.png) [Raptor (Clearnet)](https://raptor.life/)
 
 ## Security & Privacy
 * ![Surveillance Self-Defense](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ssd_icon.png) [Surveillance Self-Defense](https://ssd.eff.org/)
