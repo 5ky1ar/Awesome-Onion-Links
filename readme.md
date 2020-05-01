@@ -1,7 +1,9 @@
 # Awesome Onion Links [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 For the time being, please go to [this pastebin](https://pastebin.com/VCHK40jV) where I will import the .onion links I saved in the pastebin to here over time.
+
 # FAQ
 W.I.P...
+
 # Disclaimer
 I only provide information about what exists on the dark web as informative/educational purposes only. I have listed many onion links that are still up and running with a legitimate purpose.
 
@@ -103,7 +105,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![Hidden Wiki Fresh 2020](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hwf20_icon.png) [Hidden Wiki Fresh 2020 (Updated Version)](http://wikikbig7ni573g5.onion/doku.php)
 * ![Hidden Links](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hiddenlinks_icon.png) [Hidden Links](http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion/)
 * ![Tor Links](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torlinks_icon.png) [Tor Links v1](http://torlinkbgs6aabns.onion/)
-* ![Tor Links](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torlinks_icon.png) [Tor Links v2](http://torlinkyrd26ovflctq7j3edrcamticj2tikyjghbehnow73av2dtmqd.onion/)
+* ![Tor Links](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torlinks_icon.png) [Tor Links v2](http://torlinkglejjnyof.onion/)
 * ![Tor Links](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torlinks_icon.png) [Tor Links v3](http://tor3ypms2vlohh2e.onion/)
 * ![Tor Links 2](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torlinks2_icon.png) [Tor Links 2](http://torlinkswwqg3lwt.onion/)
 * ![Onion List](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionlist_icon.png) [Onion List](http://onionailnm7t3437.onion/)
@@ -149,6 +151,7 @@ I'm too lazy to sort out the links into their respective categories again so jus
 * ![Torch](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torch_icon.png) [Torch (Mirror)](http://26ozf35d2rwtmqbk.onion/)
 * ![Onion Links Directory](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/old_icon.png) [Onion Links Directory (Mirror)](http://aaalinktbyhxngho.onion/)
 * ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Hidden Wiki (Mirror)](http://wikitjerrta4qgz4.onion/)
+* ![Tor Links](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torlinks_icon.png) [Tor Links v2 (Mirror)](http://torlinkyrd26ovflctq7j3edrcamticj2tikyjghbehnow73av2dtmqd.onion/)
 
 # Clearnet Mirrors
 I'm not going to put clearnet links of popular sites that have .onion links (Facebook, Portonmail, The New York Times, etc...) as a quick search in your preferred search engine would easily find them and its a waste of time for me.
