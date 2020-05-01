@@ -107,6 +107,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![The Light Hidden Wiki](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [The Light Hidden Wiki](http://cbo7whgxo2dnplgz.onion/wiki/index.php)
 * ![The Hidden Wiki 2](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [The Hidden Wiki 2](http://ndntmfusjmj6tkpl.onion/)
 * ![Hidden Wiki Fresh](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/hwf_icon.png) [Hidden Wiki Fresh](http://ujnkg4uirpaiqejr.onion/)
+* ![Hidden Wiki Fresh 2020](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/hwf20_icon.png) [Hidden Wiki Fresh 2020](http://hdwikiueikaeviwk.onion/)
 * ![Hidden Links](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/hiddenlinks_icon.png) [Hidden Links](http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion/)
 * ![Tor Links](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torlinks_icon.png) [Tor Links v1](http://torlinkbgs6aabns.onion/)
 * ![Tor Links](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torlinks_icon.png) [Tor Links v2](http://torlinkyrd26ovflctq7j3edrcamticj2tikyjghbehnow73av2dtmqd.onion/)

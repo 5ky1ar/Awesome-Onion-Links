@@ -202,6 +202,8 @@ evo7no6twwwrm63c.onion###EPxdU9xTuRWk
 evo7no6twwwrm63c.onion##.hoOcbG0CqpjS-bg
 ! 4/29/2020 - Hidden Wiki Fresh - ujnkg4uirpaiqejr.onion
 ujnkg4uirpaiqejr.onion##.group.wrapper > div:nth-of-type(1)
+! 5/1/2020 - Hidden Wiki Fresh 2020 2 - wikikbig7ni573g5.onion
+wikikbig7ni573g5.onion##.group.wrapper > div:nth-of-type(1)
 !-------------------------------------------------------------!
 !------------------------- Annoyances ------------------------!
 !-------------------------------------------------------------!
