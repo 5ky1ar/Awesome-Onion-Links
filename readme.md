@@ -114,6 +114,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 # Mirrors
 I'm too lazy to sort out the links into their respective categories again so just deal with it. I may do this in the future when I have time.
 
+* ![The Way Into The Dark Web](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [The Way Into The Dark Web (Mirror)](http://guideyeb5ew6plwj.onion/)
 * ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 1)](http://roey5smpp67p4fxq.onion/)
 * ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 2)](http://y7zigmjrpm2pkgzi.onion/)
 * ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 3)](http://jancwqly2wrh35ab.onion/)
@@ -123,15 +124,14 @@ I'm too lazy to sort out the links into their respective categories again so jus
 * ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 4)](http://pag7cizw7yi4teop.onion/)
 * ![SearX](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/searx_icon.png) [SearX (Mirror)](http://5plvrsgydwy2sgce.onion/)
 * ![Tor66](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor66_icon.png) [Tor66 (Mirror)](http://tor77orrbgejplwp.onion/)
+* ![Torch](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torch_icon.png) [Torch (Mirror)](http://26ozf35d2rwtmqbk.onion/)
 
 # Clearnet Mirrors
 I'm not going to put clearnet links of popular sites that have .onion links (Facebook, Portonmail, The New York Times, etc...) as a quick search in your preferred search engine would easily find them and its a waste of time for me.
 
-* ![The Way Into The Dark Web](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [The Way Into The Dark Web (Mirror)](http://guideyeb5ew6plwj.onion/)
 * ![Dark Fail](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/darkfail_icon.png) [Dark.Fail (Clearnet)](https://dark.fail/)
 * ![Ahmia](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ahmia_icon.png) [Ahmia (Clearnet)](https://ahmia.fi/)
 * ![SearX](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/searx_icon.png) [SearX (Clearnet)](https://searx.space/)
-* ![Torch](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torch_icon.png) [Torch (Mirror)](http://26ozf35d2rwtmqbk.onion/)
 
 ## Security & Privacy
 * ![Surveillance Self-Defense](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ssd_icon.png) [Surveillance Self-Defense](https://ssd.eff.org/)
