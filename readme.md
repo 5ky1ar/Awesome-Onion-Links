@@ -13,17 +13,18 @@ Know your risk before opening any onion links, if you the link is legal then you
 
 # Recommended Tools To Enhance Your Dark Web Browsing Experience
 * ![uBlock Origin](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ublockorigin_icon.png) [uBlock Origin](https://github.com/gorhill/uBlock) - overall good AdBlocking software
-* ![uBlock Origin](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ublockorigin_icon.png) [Dark Web Ads + Anti-Scam Filters](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web) - follow this tutorial and paste these 2 links into the "import" text box in the filters section of uBlock Origin
+* ![uBlock Origin](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ublockorigin_icon.png) [Dark Web Ads + Anti-Scam Filters](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web) - follow this tutorial and paste these 3 links into the "import" text box in the filters section of uBlock Origin
 ```
 https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/AdBlock_Dark_Web.txt
 https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_Scams.txt
 https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Under18.txt
 ```
 
+**Note:** make sure that you use the *http* protocol and *NOT HTTPS*, the only exceptions to this rule are [TorStatus](https://jlve2y45zacpbz6s.onion/), [DuckDuckGo](https://3g2upl4pq6kufc4m.onion/), [Protonmail](https://protonirockerxow.onion/), [Facebook](httos://facebookcorewwwi.onion/), [The New York Times](https://www.nytimes3xbfgragh.onion/). using the HTTPS protocol on any other of these sites causes them to not connect properly.
+
 # Table Of Contents
 * [Recommended Sites](#recommended-sites)
   * [Official Tor Sites](#official-tor-sites)
-  * [Security & Privacy](#security--privacy)
 * [Introduction Points](#introduction-points)
   * [Dark Web Guides](#dark-web-guides)
   * [Tor Scam Lists](#tor-scam-lists)
@@ -33,7 +34,9 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * [Financial Services](#monitors)
   * [Bitcoin Mixers](#bitcoin-mixers)
 * [Non-Financial Services](#non-financial-services)
+* [Mirrors](#mirrors)
 * [Clearnet Mirrors](#clearnet-mirrors)
+  * [Security & Privacy](#security--privacy)
 
 ---
 # Recommended Sites
@@ -45,29 +48,16 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![Tor Project](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [Snowflake](http://fhny6b7b6sbslc2b.onion/)
 * ![Nyx](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/nyx_icon.png) [Nyx](https://nyx.torproject.org/)
 
-## Security & Privacy
-* ![Surveillance Self-Defense](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ssd_icon.png) [Surveillance Self-Defense](https://ssd.eff.org/)
-* ![Open Observatory Of Network Interference](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ooni_icon.png) [Open Observatory Of Network Interference](https://ooni.org/)
-
 # Introduction Points
 ## Dark Web Guides
 * ![The Way Into The Dark Web](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [The Way Into The Dark Web](http://guideyeb5ew6plwj.onion/)
-* ![The Way Into The Dark Web](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [The Way Into The Dark Web (Mirror)](http://guideyeb5ew6plwj.onion/)
 * ![Owledge](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/owledge_icon.png) [Owledge](http://owlzyj4to3l5daq6edgsgp5z4lh4tzlnms4z6jv6xdtkily77j4b3byd.onion/)
 * ![The Dark Web Pug](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/darkwebpug_icon.png) [The Dark Web Pug (Outdated)](http://thedarkwebpugv5m.onion/)
 
 ## Tor Scam Lists
 * ![Dark Fail](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/darkfail_icon.png) [Dark.Fail](http://darkfailllnkf4vf.onion/)
 * ![NoScam](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/noscam_icon.png) [NoScam](http://noscamomtq5kauyu.onion/)
-* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 1)](http://rap7gypjs4v6a7ax.onion/)
-* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 2)](http://roey5smpp67p4fxq.onion/)
-* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 2)](http://y7zigmjrpm2pkgzi.onion/)
-* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 2)](http://jancwqly2wrh35ab.onion/)
-* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 1)](http://wua54ku5ixg72qas.onion/)
-* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 2)](http://ba7fsz4656jjxs3p.onion/)
-* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 3)](http://vzii5edzuyvjb4kf.onion/)
-* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 4)](http://r33ar5ezvrigo7p5.onion/)
-* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 5)](http://pag7cizw7yi4teop.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor](http://rap7gypjs4v6a7ax.onion/)
 * ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 3](http://mi325vr3yhtlptho42mkaup4loyesnzfmx7simiw2f5gxrbrqeonh4id.onion/)
 * ![DarkGuard](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/darkguard_icon.png) [DarkGuard](http://guardday6e5nxblpojbhmx5ws2avautr7eswu3qg7gynh52rh744anyd.onion/)
 
@@ -88,16 +78,13 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![OSS](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/oss_icon.png) [Onion Search Service](http://oss7wrm7xvoub77o.onion/)
 * ![Phobos](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/phobos_icon.png) [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/)
 * ![SearX](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/searx_icon.png) [SearX](http://searx7gwtu5rh6wr.onion/)
-* ![SearX](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/searx_icon.png) [SearX (Mirror)](http://5plvrsgydwy2sgce.onion/)
 * ![Start](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/start_icon.png) [Start](http://kaarvixjxfdy2wv2.onion/)
 * ![Tor66](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor66_icon.png) [Tor66](http://tor66sezptuu2nta.onion/)
-* ![Tor66](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor66_icon.png) [Tor66 (Mirror)](http://tor77orrbgejplwp.onion/)
 * ![Tormax](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tormax_icon.png) [Tormax](http://tormaxunodsbvtgo.onion/)
 * ![Tor Search](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torsearch_icon.png) [Tor Search](http://torsearchruby56z.onion/)
 * ![Tor Search Engine](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torsearchengine_icon.png) [Tor Search Engine](http://searchcoaupi3csb.onion/)
 * ![Tor Search Engine 2](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torsearchengine2_icon.png) [Tor Search Engine 2](http://searcherc3uwk535.onion/)
 * ![Torch](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torch_icon.png) [Torch](http://xmh57jrzrnw6insl.onion/)
-* ![Torch](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torch_icon.png) [Torch (Mirror)](http://26ozf35d2rwtmqbk.onion/)
 * ![Tordex](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tordex_icon.png) [Tordex](http://tordex7iie7z2wcg.onion/)
 * ![Torgle](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Torgle](http://torglejzid2cyoqt.onion/)
 * ![VisiTOR](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/visitor_icon.png) [VisiTOR](http://visitorfi5kl7q7i.onion/)
@@ -124,4 +111,28 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 
 # Non-Financial Services
 
+# Mirrors
+I'm too lazy to sort out the links into their respective categories again so just deal with it. I may do this in the future when I have time.
+
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 1)](http://roey5smpp67p4fxq.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 2)](http://y7zigmjrpm2pkgzi.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 3)](http://jancwqly2wrh35ab.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 1)](http://ba7fsz4656jjxs3p.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 2)](http://vzii5edzuyvjb4kf.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 3)](http://r33ar5ezvrigo7p5.onion/)
+* ![Scam List Of Tor](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 4)](http://pag7cizw7yi4teop.onion/)
+* ![SearX](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/searx_icon.png) [SearX (Mirror)](http://5plvrsgydwy2sgce.onion/)
+* ![Tor66](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor66_icon.png) [Tor66 (Mirror)](http://tor77orrbgejplwp.onion/)
+
 # Clearnet Mirrors
+I'm not going to put clearnet links of popular sites that have .onion links (Facebook, Portonmail, The New York Times, etc...) as a quick search in your preferred search engine would easily find them and its a waste of time for me.
+
+* ![The Way Into The Dark Web](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [The Way Into The Dark Web (Mirror)](http://guideyeb5ew6plwj.onion/)
+* ![Dark Fail](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/darkfail_icon.png) [Dark.Fail (Clearnet)](https://dark.fail/)
+* ![Ahmia](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ahmia_icon.png) [Ahmia (Clearnet)](https://ahmia.fi/)
+* ![SearX](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/searx_icon.png) [SearX (Clearnet)](https://searx.space/)
+* ![Torch](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torch_icon.png) [Torch (Mirror)](http://26ozf35d2rwtmqbk.onion/)
+
+## Security & Privacy
+* ![Surveillance Self-Defense](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ssd_icon.png) [Surveillance Self-Defense](https://ssd.eff.org/)
+* ![Open Observatory Of Network Interference](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/ooni_icon.png) [Open Observatory Of Network Interference](https://ooni.org/)
