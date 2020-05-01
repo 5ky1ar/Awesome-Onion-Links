@@ -85,6 +85,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![Not Evil](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/notevil_icon.png) [Not Evil](http://hss3uro2hsxfogfq.onion/)
 * ![Onion Center](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/onioncenter_icon.png) [Onion Center](http://oikgfwfqmqkph4rl.onion/)
 * ![OnionLand](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [OnionLand](http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/)
+* ![OSS](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/oss_icon.png) [Onion Search Service](http://oss7wrm7xvoub77o.onion/)
 * ![Phobos](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/phobos_icon.png) [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/)
 * ![SearX](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/searx_icon.png) [SearX](http://searx7gwtu5rh6wr.onion/)
 * ![SearX](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/searx_icon.png) [SearX (Mirror)](http://5plvrsgydwy2sgce.onion/)
