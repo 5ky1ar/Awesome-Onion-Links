@@ -93,7 +93,8 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![The Hidden Wiki](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [The Hidden Wiki](http://hiddenwiki7wiyzr.onion/)
 * ![The Hidden Wiki](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [The Hidden Wiki (Updated Version)](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page)
 * ![The Light Hidden Wiki](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [The Light Hidden Wiki](http://cbo7whgxo2dnplgz.onion/wiki/index.php)
-* ![The Hidden Wiki 2](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [The Hidden Wiki 2](http://ndntmfusjmj6tkpl.onion/)
+* ![The Hidden Wiki 2](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [The Hidden Wiki 2](http://hwikim2v2jscf5tgpcfgkfxjyrfmgs4vwr2raqayt4uzfde6w4dutiqd.onion/)
+* ![The Hidden Wiki 2](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torproject_icon.png) [The Hidden Wiki 3](http://ndntmfusjmj6tkpl.onion/)
 * ![Hidden Wiki Fresh](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/hwf_icon.png) [Hidden Wiki Fresh](http://ujnkg4uirpaiqejr.onion/)
 * ![Hidden Wiki Fresh 2020](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/hwf20_icon.png) [Hidden Wiki Fresh 2020](http://hdwikiueikaeviwk.onion/)
 * ![Hidden Wiki Fresh 2020](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/hwf20_icon.png) [Hidden Wiki Fresh 2020 (Updated Version)](http://wikikbig7ni573g5.onion/doku.php)
@@ -142,6 +143,7 @@ I'm too lazy to sort out the links into their respective categories again so jus
 * ![Tor66](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor66_icon.png) [Tor66 (Mirror)](http://tor77orrbgejplwp.onion/)
 * ![Torch](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/torch_icon.png) [Torch (Mirror)](http://26ozf35d2rwtmqbk.onion/)
 * ![Onion Links Directory](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/old_icon.png) [Onion Links Directory (Mirror)](http://aaalinktbyhxngho.onion/)
+* ![The Hidden Wiki](https://github.com/xMG-ReduX/Awesome-Onion-Links/raw/master/Icons/tor_icon.png) [The Hidden Wiki (Mirror)](http://wikitjerrta4qgz4.onion/)
 
 # Clearnet Mirrors
 I'm not going to put clearnet links of popular sites that have .onion links (Facebook, Portonmail, The New York Times, etc...) as a quick search in your preferred search engine would easily find them and its a waste of time for me.
