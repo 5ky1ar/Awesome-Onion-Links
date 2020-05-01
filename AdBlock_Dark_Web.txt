@@ -209,6 +209,12 @@ oss7wrm7xvoub77o.onion###EPxdU9xTuRWk
 oss7wrm7xvoub77o.onion##.hoOcbG0CqpjS-bg
 ! 5/1/2020 - TorWiki - torwikignoueupfm.onion
 torwikignoueupfm.onion##.bnrrrss
+! 5/1/2020 - The Hidden Wiki - nqigfqrxnkwcqmiq.onion
+nqigfqrxnkwcqmiq.onion##div#p-tb.portlet:nth-of-type(7)
+nqigfqrxnkwcqmiq.onion##div#p-tb.portlet:nth-of-type(8)
+nqigfqrxnkwcqmiq.onion##div#p-tb.portlet:nth-of-type(9)
+nqigfqrxnkwcqmiq.onion##div#p-tb.portlet:nth-of-type(10)
+nqigfqrxnkwcqmiq.onion##div#p-tb.portlet:nth-of-type(11)
 !-------------------------------------------------------------!
 !------------------------- Annoyances ------------------------!
 !-------------------------------------------------------------!
