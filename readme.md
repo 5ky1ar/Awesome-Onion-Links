@@ -372,6 +372,7 @@ Verify Darkweb Vendors Via These Sites
 ## Security And Privacy
 * ![Surveillance Self-Defense](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ssd_icon.png) [Surveillance Self-Defense](https://ssd.eff.org/)
 * ![Open Observatory Of Network Interference](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ooni_icon.png) [Open Observatory Of Network Interference](https://ooni.org/)
+* ![GnuPG](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/gnupg_icon.png) [GNU Privacy Guard](http://ic6au7wa3f6naxjq.onion/)
 * ![Whonix OS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Whonix OS](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/)
 * ![Qubes OS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/qubes_icon.png) [Qubes OS](http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion/)
 * ![ExpressVPN](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/expressvpn_icon.png) [ExpressVPN](http://expressobutiolem.onion/)
