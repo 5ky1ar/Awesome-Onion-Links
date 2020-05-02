@@ -342,8 +342,10 @@ Verify Darkweb Vendors Via These Sites
 * ![Ablative](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ablative_icon.png) [Ablative Hosting](http://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/)
 * ![Prometheus](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/prometheus_icon.png) [Prometheus](http://prometh5th5t5rfd.onion/)
 * ![FHR](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/freehostreload_icon.png) [Freedom Hosting Reloaded](http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/)
+* ![TorVPS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [TorVPS](http://torvps7kzis5ujfz.onion/)
 * ![OneHost](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OneHost](http://q3lgwxinynjxkor6wghr6hrhlix7fquja3t25phbagqizkpju36fwdyd.onion/)
 * ![OneHost](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OneHost (Clearweb)](https://onehostcloud.hosting/)
+* ![RealHost]((https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/realhost_icon.png) [RealHost](http://ezuwnhj5j6mtk4xr.onion/)
 * ![Cockbox](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Cockbox (Clearweb)](https://cockbox.org/)
 * ![0xacab](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/0xacab_icon.png) [0xacab](http://wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion/)
 
