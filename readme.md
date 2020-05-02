@@ -54,6 +54,16 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Security And Privacy](#security-and-privacy)
 * [Non-English](#non-english)
   * [Spanish / Español](#spanish--español)
+  * [French / Français](#french--français)
+  * [German / Deutsch](#german--deutsch)
+  * [Italian / Italiano](#italian--italiano)
+  * [Russian / Русский](#russian--pусский)
+  * [Chinese / 中国語](#chinese--中国語)
+  * [Japanese / 日本語](#japanese--日本語)
+  * [Portuguese / Português](#portuguese--português)
+  * [Polish / Polski](#polish--polski)
+  * [Finnish / Suomi](#finnish--suomi)
+  * [Swedish / Svenska](#swedish--svenska)
 
 ---
 # Recommended Sites
