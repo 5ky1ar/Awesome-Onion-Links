@@ -248,6 +248,7 @@ I'm too lazy to sort out the links into their respective categories again so jus
 I'm not going to put clearnet links of popular sites that have .onion links (Facebook, Portonmail, The New York Times, etc...) as a quick search in your preferred search engine would easily find them and its a waste of time for me.
 
 * ![Dark Fail](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkfail_icon.png) [Dark.Fail (Clearnet)](https://dark.fail/)
+
 * ![Ahmia](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ahmia_icon.png) [Ahmia (Clearnet)](https://ahmia.fi/)
 * ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (North America Clearnet)](https://onionsearchengine.com/)
 * ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (Europe Clearnet)](https://eu.onionsearchengine.com/)
@@ -255,6 +256,7 @@ I'm not going to put clearnet links of popular sites that have .onion links (Fac
 * ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (Africa Clearnet)](https://af.onionsearchengine.com/)
 * ![OnionLand Search](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionLand Search (Clearnet)](https://onionlandsearchengine.com/)
 * ![SearX](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/searx_icon.png) [SearX (Clearnet)](https://searx.space/)
+
 * ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Hidden Wiki (Clearnet)](https://thehiddenwiki.org/)
 * ![Raptor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/raptor_icon.png) [Raptor (Clearnet)](https://raptor.life/)
 
