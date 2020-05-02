@@ -303,9 +303,7 @@ Verify Darkweb Vendors Via These Sites
 * ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 3)](http://xgcjbel2wgd2hvlk7bhrvoyy4k5ctmoe2mcmmqjify77kqhwe5oxwgid.onion/)
 * ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 4)](http://rgamajuhd5kirb7ppuczu64gqhcdimdv7owbknin7tjypx557hhg2xyd.onion/)
 * ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 5)](http://3uv2nhqozxfun2gxvdg6srqobkk7wobawv7d3dkxiz65wkw2ig3vhqad.onion/)
-* ![Hidden Marketplace](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hiddenmarket_icon.png) [Hidden Marketplace (Main)](http://hidden24vowyrcic.onion/)
-* ![Hidden Marketplace](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hiddenmarket_icon.png) [Hidden Marketplace (Mirror 1)](http://hiddenmark43cbxd.onion/)
-* ![Hidden Marketplace](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hiddenmarket_icon.png) [Hidden Marketplace (Mirror 2)](http://hidden24tha4plsx.onion/)
+* ![Metropolis](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/metropolis_icon.png) [Metropolis Market](http://p5iib2dirlbm5zuizzupmoidm43s6qoyfa3vas5xjrgja4lxapdr22yd.onion/)
 
 # Non-Commercial Services
 
