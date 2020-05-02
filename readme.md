@@ -43,6 +43,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Email](#email)
   * [Hosting](#hosting)
   * [File Sharing](#file-sharing)
+  * [Security And Privacy](#security-and-privacy)
 * [Social](#social)
   * [Networks](#networks)
   * [Forums](#forums)
@@ -51,7 +52,6 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Blogs](#blogs)
 * [News](#news)
 * [Miscellaneous](#miscellaneous)
-  * [Security And Privacy](#security-and-privacy)
 * [Non-English](#non-english)
   * [Spanish / Español](#spanish--español)
   * [French / Français](#french--français)
@@ -321,6 +321,10 @@ Verify Darkweb Vendors Via These Sites
 
 ## File Sharing
 
+## Security And Privacy
+* ![Surveillance Self-Defense](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ssd_icon.png) [Surveillance Self-Defense](https://ssd.eff.org/)
+* ![Open Observatory Of Network Interference](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ooni_icon.png) [Open Observatory Of Network Interference](https://ooni.org/)
+
 # Social
 
 ## Networks
@@ -370,10 +374,6 @@ Verify Darkweb Vendors Via These Sites
 * ![DNMLive](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/dnmlive_icon.png) [DNMLive](http://dnmliveahwgu7nvu.onion/)
 
 # Miscellaneous
-
-## Security And Privacy
-* ![Surveillance Self-Defense](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ssd_icon.png) [Surveillance Self-Defense](https://ssd.eff.org/)
-* ![Open Observatory Of Network Interference](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ooni_icon.png) [Open Observatory Of Network Interference](https://ooni.org/)
 
 # Non-English
 ## Spanish / Español
