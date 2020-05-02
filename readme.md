@@ -22,8 +22,6 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_
 https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Under18.txt
 ```
 
-**Note:** make sure that you use the *http* protocol and *NOT HTTPS*, the only exceptions to this rule are [TorStatus](https://jlve2y45zacpbz6s.onion/), [DuckDuckGo](https://3g2upl4pq6kufc4m.onion/), [Protonmail](https://protonirockerxow.onion/), [Facebook](httos://facebookcorewwwi.onion/), [The New York Times](https://www.nytimes3xbfgragh.onion/). using the HTTPS protocol on any .onion site other of these sites causes them to not connect properly.
-
 # Table Of Contents
 * [Recommended Sites](#recommended-sites)
   * [Official Tor Sites](#official-tor-sites)
