@@ -354,7 +354,7 @@ Verify Darkweb Vendors Via These Sites
 * ![ExpressVPN](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/expressvpn_icon.png) [ExpressVPN](http://expressobutiolem.onion/)
 * ![MullvadVPN](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/mullvadvpn_icon.png) [Mullvad VPN](http://xcln5hkbriyklr6n.onion/)
 * ![Keybase](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/keybase_icon.png) [Keybase](http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/)
-* ![Sonar](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/sonar_icon.png) [Sonar ()](http://kcxb2moqaw76xrhv.onion/)
+* ![Sonar](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/sonar_icon.png) [Sonar](http://kcxb2moqaw76xrhv.onion/)
 * ![Matrix](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/matrix_icon.png) [Matrix (Clearweb)](https://matrix.org/)
 * ![Riot](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/riot_icon.png) [Riot (Clearweb)](https://about.riot.im/)
 * ![Retroshare](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/retroshare_icon.png) [Retroshare (Clearweb)](https://retroshare.cc/)
