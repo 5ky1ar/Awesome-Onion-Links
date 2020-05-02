@@ -387,6 +387,9 @@ Verify Darkweb Vendors Via These Sites
 * ![TxTorCon](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/txtorcon_icon.png) [TxTorCon (Mirror)](http://fjblvrw2jrxnhtg67qpbzi45r7ofojaoo3orzykesly2j3c2m3htapid.onion/)
 * ![TxTorCon](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/txtorcon_icon.png) [TxTorCon (Clearweb)](https://txtorcon.readthedocs.org/)
 * ![JitJat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [JitJat](http://jitjatxmemcaaadp.onion/)
+* ![UET](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/uet_icon.png) [Universal Encoding Tool](http://usegafl7jdygvjcm5velj4mopbcdlxtxeob2xi5hcskm5w46chxipoqd.onion/)
+* ![AspireCrypt](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [AspireCrypt](http://j36f2zfz7v3neai7.onion/)
+* ![PrivacyBox](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [PrivacyBox](http://j36f2zfz7v3neai7.onion/)
 
 ## Multipurpose
 * ![Volatile](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/volatile_icon.png) [Volatile](http://vola7ileiax4ueow.onion/)
