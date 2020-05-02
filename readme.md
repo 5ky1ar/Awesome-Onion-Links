@@ -440,6 +440,7 @@ Verify Darkweb Vendors Via These Sites
 * ![Flashlight](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/flashlight_icon.png) [Flashlight](http://kxojy6ygju4h6lwn.onion/)
 * ![DarkWebLink](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkweblink_icon.png) [Dark Web Link](http://dwlonion3o3pjqsl.onion/)
 * ![DNMLive](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/dnmlive_icon.png) [DNMLive](http://dnmliveahwgu7nvu.onion/)
+* ![Dimension X](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/dimensionx_icon.png) [Dimension X](http://uo57sqpw4h3g3y3w2j346vxidgcv2iwfaxeyt3ww3tzkj2i5k7a5tpqd.onion/)
 
 # Miscellaneous
 
