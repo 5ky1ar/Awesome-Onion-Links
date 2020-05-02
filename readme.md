@@ -136,12 +136,14 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 
 # Introduction Points
 ## Dark Web Guides
+sites about the dark web and how to use it properly
 * ![The Way Into The Dark Web](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Way Into The Dark Web](http://guideyeb5ew6plwj.onion/)
 * ![The Way Into The Dark Web](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Way Into The Dark Web (Mirror)](http://guideyeb5ew6plwj.onion/)
 * ![Owledge](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/owledge_icon.png) [Owledge](http://owlzyj4to3l5daq6edgsgp5z4lh4tzlnms4z6jv6xdtkily77j4b3byd.onion/)
 * ![The Dark Web Pug](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkwebpug_icon.png) [The Dark Web Pug (Outdated)](http://thedarkwebpugv5m.onion/)
 
 ## Tor Scam Lists
+sites that help people avoid scams on the dark web, as they are VERY common
 * ![Dark Fail](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkfail_icon.png) [Dark.Fail](http://darkfailllnkf4vf.onion/)
 * ![Dark Fail](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkfail_icon.png) [Dark.Fail (Clearnet)](https://dark.fail/)
 * ![NoScam](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/noscam_icon.png) [NoScam](http://noscamomtq5kauyu.onion/)
@@ -157,6 +159,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![DarkGuard](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkguard_icon.png) [DarkGuard](http://guardday6e5nxblpojbhmx5ws2avautr7eswu3qg7gynh52rh744anyd.onion/)
 
 ## Search Engines
+services that allow you to find .onion sites, just like google would on the clearweb
 * ![Ahmia](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ahmia_icon.png) [Ahmia](http://msydqstlz2kzerdg.onion/)
 * ![Ahmia](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ahmia_icon.png) [Ahmia (Clearnet)](https://ahmia.fi/)
 * ![Candle](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/candle_icon.png) [Candle](http://gjobqjj7wyczbqie.onion/)
@@ -194,6 +197,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![VisiTOR](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/visitor_icon.png) [VisiTOR](http://visitorfi5kl7q7i.onion/)
 
 ## Wikis And Link Lists
+.onion links providing lists for .onion links, like search Engines
 * ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Hidden Wiki (Original)](http://hiddenwiki7wiyzr.onion/)
 * ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Hidden Wiki 2](http://nqigfqrxnkwcqmiq.onion/wiki/index.php)
 * ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Hidden Wiki 3](http://hwikim2v2jscf5tgpcfgkfxjyrfmgs4vwr2raqayt4uzfde6w4dutiqd.onion/)
@@ -238,6 +242,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![OnionDir](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/oniondir_icon.png) [OnionDir](http://oniot2zvfczp4lpc.onion/)
 
 ## Monitors
+sites that monitor popular dark web sites to see if they are online or not
 * ![DarkEye](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkeye_icon.png) [DarkEye](http://t7tb43a7gvl6wb7j.onion/)
 * ![DarkEye](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkeye_icon.png) [DarkEye (Mirror)](http://darkeyepxw7cuu2cppnjlgqaav6j42gyt43clcn4vjjf7llfyly5cxid.onion/)
 * ![Onion Scanner](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionscanner_icon.png) [Onion Scanner](http://4r4zaei5qa7qq5ha.onion/)
