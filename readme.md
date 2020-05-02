@@ -323,6 +323,7 @@ Verify Darkweb Vendors Via These Sites
 * ![Secmail](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/secmail_icon.png) [Secmail (Mirror)](http://giyzk7o6dcunb2ry.onion/)
 * ![Elude](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/elude_icon.png) [EludeMail](http://eludemaillhqfkh5.onion/)
 * ![Elude](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/elude_icon.png) [EludeMail (Clearweb)](https://elude.in/)
+* ![DNMX](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Dark Net Mail Exchange](http://hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion/)
 * ![Cockli](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cockli_icon.png) [Cock.li](http://cockmailwwfvrtqj.onion/)
 * ![Cockli](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cockli_icon.png) [Cock.li (Mirror)](http://xdkriz6cn2avvcr2vks5lvvtmfojz2ohjzj4fhyuka55mvljeso2ztqd.onion/)
 * ![Cockli](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cockli_icon.png) [Cock.li (Clearweb)](https://cock.li/)
@@ -405,9 +406,9 @@ Verify Darkweb Vendors Via These Sites
 * ![Superkuh](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Superkuh](http://superkuhbitj6tul.onion/)
 * ![OnionSoup](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsoup_icon.png) [Onion Soup](http://soupksx6vqh3ydda.onion/)
 * ![Untitled](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Untitled Blog](http://n3ip6btaskerrbyg.onion/)
-* ![Dan Luu](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Dan Luu's Blog](https://danluu.com/)
-* ![Julia Evans](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/juliaevans_icon.png) [Julia Evan's Blog](https://jvns.ca/)
-* ![CodingHorror](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/codinghorror_icon.png) [Jeff Atwood's Blog - Coding Horror](https://blog.codinghorror.com/)
+* ![Dan Luu](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Dan Luu's Blog (Clearweb)](https://danluu.com/)
+* ![Julia Evans](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/juliaevans_icon.png) [Julia Evan's Blog (Clearweb)](https://jvns.ca/)
+* ![CodingHorror](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/codinghorror_icon.png) [Jeff Atwood's Blog - Coding Horror (Clearweb)](https://blog.codinghorror.com/)
 
 # News
 * ![The New York Times](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nyt_icon.png) [The New York Times](https://www.nytimes3xbfgragh.onion/)
