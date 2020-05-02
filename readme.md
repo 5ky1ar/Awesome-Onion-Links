@@ -360,6 +360,7 @@ Verify Darkweb Vendors Via These Sites
 * ![Retroshare](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/retroshare_icon.png) [Retroshare (Clearweb)](https://retroshare.cc/)
 * ![Ricochet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ricochet_icon.png) [Ricochet (Clearweb)](https://ricochet.im/)
 * ![Stem](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/stem_icon.png) [Stem](http://vt5hknv6sblkgf22.onion/)
+* ![Usenet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/usenet_icon.png) [Usenet (Clearweb)](https://usenet.nl/)
 
 # Social
 
