@@ -33,9 +33,11 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Search Engines](#search-engines)
   * [Wikis/Link Lists](#wikis--link-lists)
   * [Monitors](#monitors)
-* [Financial Services](#monitors)
+* [Financial Services](#financial-services)
   * [Bitcoin Mixers](#bitcoin-mixers)
-* [Non-Financial Services](#non-financial-services)
+  * [Credit Cards](#credit-cards)
+  * [Crytocurrency](#crytocurrency)
+* [Commercial Services](#commercial-services)
 * [Mirrors](#mirrors)
 * [Clearnet Mirrors](#clearnet-mirrors)
   * [Security & Privacy](#security--privacy)
@@ -194,10 +196,32 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![CodeDir](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/codedir_icon.png) [CodeDir](http://67xkew7pvctdcj526yl7gl6pc6e2dwqwx3ugbe67g2hfjdnbwjd7euad.onion/)
 
 # Financial Services
+**ONLY** BUY FROM TRUSTED *VENDORS* TO AVOID GETTING **SCAMMED**      
+**ALWAYS** VERIFY [PGP KEYS](https://www.wikiwand.com/en/Pretty_Good_Privacy) OF *.ONION LINKS* & *BITCOIN WALLETS* BEFORE BUYING, you can quickly do it [here](https://dark.fail/pgp)  
+**ALWAYS** [MIX](https://www.wikiwand.com/en/Cryptocurrency_tumbler) YOUR BITCOINS BEFORE BUYING  
+
+Verify Darkweb Vendors Via These Sites
+* ![Recon](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/recon_icon.png) [Recon](http://reconponydonugup.onion/)
+* ![DarknetTrust](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Darknet Trust](http://ohivsd7ze7rgdir4.onion/)
 
 ## Bitcoin Mixers
+* ![Helix Light](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/helixlight_icon.png) [Helix Light](http://mixerrzbgcknjzk4.onion/)
+* ![SmartMixer](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/helixlight_icon.png) [Smart Mixer](http://smrtmxdxognxhv64.onion/)
+* ![OnionWallet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionwallet_icon.png) [Onion Wallet](http://ow24et3tetp6tvmk.onion/)
 
-# Non-Financial Services
+## Credit Cards
+
+## CryptoCurrency
+* ![WeBuyBitcoin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/wbb_icon.png) [We Buy Bitcoins](http://jzn5w5pac26sqef4.onion/)
+
+# Commercial Services
+**ONLY** BUY FROM TRUSTED *VENDORS* TO AVOID GETTING **SCAMMED**      
+**ALWAYS** VERIFY [PGP KEYS](https://www.wikiwand.com/en/Pretty_Good_Privacy) OF *.ONION LINKS* & *BITCOIN WALLETS* BEFORE BUYING, you can quickly do it [here](https://dark.fail/pgp)  
+**ALWAYS** [MIX](https://www.wikiwand.com/en/Cryptocurrency_tumbler) YOUR BITCOINS BEFORE BUYING  
+
+Verify Darkweb Vendors Via These Sites
+* ![Recon](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/recon_icon.png) [Recon](http://reconponydonugup.onion/)
+* ![DarknetTrust](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Darknet Trust](http://ohivsd7ze7rgdir4.onion/)
 
 # Mirrors
 I'm too lazy to sort out the links into their respective categories again so just deal with it. I may do this in the future when I have time.
