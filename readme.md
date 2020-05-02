@@ -64,6 +64,8 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Polish / Polski](#polish--polski)
   * [Finnish / Suomi](#finnish--suomi)
   * [Swedish / Svenska](#swedish--svenska)
+* [JavaScript Bookmarks](#javascript-bookmarks)
+* [Donate](#donate)
 
 ---
 # Recommended Sites
@@ -418,3 +420,67 @@ Verify Darkweb Vendors Via These Sites
 ## Swedish / Svenska
 * ![KognitionsKyrkan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cognitive_icon.png) [Kognitions Kyrkan](https://www.kognitionskyrkan.nu/)
 * ![Moral](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/moral_icon.png) [Moral](https://web.archive.org/web/20180705232420/http://moral.nu/)
+
+# Javascript Bookmarks
+these are some javascript bookmarks that work with the Tor Browser
+* ![Dissenter](https://raw.githubusercontent.com/xMG-ReduX/xmg-redux.github.io/master/assets/img/dissenter_icon.png) Dissenter New Tab
+> opens the [Dissenter Comment Section](https://dissenter.com/) of the current URL in a new tab
+
+```javascript
+javascript:(function(){window.open('https://dissenter.com/discussion/begin?url='+location+'')})();
+```
+* ![Dissenter](https://raw.githubusercontent.com/xMG-ReduX/xmg-redux.github.io/master/assets/img/dissenter_icon.png) Dissenter Current Tab
+> opens the [Dissenter Comment Section](https://dissenter.com/) of the current URL in the current tab
+
+```javascript
+javascript:(function(){window.location=('https://dissenter.com/discussion/begin?url='+location+'')})();
+```
+* ![Dissenter](https://raw.githubusercontent.com/xMG-ReduX/xmg-redux.github.io/master/assets/img/dissenter_icon.png) Dissenter Current Page
+> opens the [Dissenter Comment Section](https://dissenter.com/) of the current URL on the right side of the webpage
+
+```javascript
+javascript:(function(){var frame=document.getElementById("ifrm");if(frame!==null){frame.parentNode.removeChild(frame)}else{var iframe=document.createElement('iframe');iframe.src='https://dissenter.com/discussion/begin?url='+encodeURIComponent(location.href);iframe.style.width="25%";iframe.style.height=window.innerHeight+'px';iframe.style.top="0";iframe.style.right="0";iframe.style.position="fixed";iframe.style.zIndex="9999";iframe.setAttribute('id','ifrm');document.body.appendChild(iframe)}})();
+```
+* ![Archive.Today](https://raw.githubusercontent.com/xMG-ReduX/xmg-redux.github.io/master/assets/img/archivetoday_icon.png) Save Webpage To Archive.Today (Tor Mirror)
+> saves the current webpage you are on to the archive.today .onion link
+
+```javascript
+javascript:void(open('http://archivecaslytosk.onion/?run=1&url='+encodeURIComponent(document.location)))
+```
+
+```javascript
+javascript:void(open('http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion//?run=1&url='+encodeURIComponent(document.location)))
+```
+* ![Archive.Today](https://raw.githubusercontent.com/xMG-ReduX/xmg-redux.github.io/master/assets/img/archivetoday_icon.png) Save Webpage To Archive.Today (Clearnet)
+> saves the current webpage you are on to the archive.today clearnet link
+
+```javascript
+javascript:void(open('http://archive.today/?run=1&url='+encodeURIComponent(document.location)))
+```
+
+# Donate
+if you would like to donate to help keep this running, then feel free to below
+
+Bitcoin:
+```
+1KVG2dEEU9gfJNxuWu57eMtgYRDd7Acx9b
+```  
+Ethereum:
+```
+0xf9F74aB17e1978e933AeA760B167730d0cb66315
+```
+Monero:
+```
+425HRWdVaPfBf5RmBsFEp7SCuHsEZpKFijGTCgYifsTt8G5RFpEEbSTdkRdewyhQgPSeaPymC8t4fVduhXUr42swP6ZRsz6
+```
+Litecoin:
+```
+LY4erQn8tEfep5jQNDhTQBXo95zpEmdM4U
+```
+Dogecoin:
+```
+D6H7ddqgueTNdG2SQsseYiVp1GPLBbHS5N
+```
+if you want to donate in a crytocurrency not listed here, then either click [here](https://xmg-redux.github.io/donate) or click the link below
+
+[https://xmg-redux.github.io/donate](https://xmg-redux.github.io/donate)
