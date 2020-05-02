@@ -437,6 +437,7 @@ Verify Darkweb Vendors Via These Sites
 * ![OnionWeb](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionweb_icon.png) [The Onion Web](http://onionwsoiu53xre32jwve7euacadvhprq2jytfttb55hrbo3execodad.onion/)
 * ![Tape](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tape_icon.png) [Tape](http://tapeucwutvne7l5o.onion/)
 * ![DarknetLive](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darknetlive_icon.png) [Darknet Live](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/)
+* ![Flashlight](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/flashlight_icon.png) [Flashlight](http://kxojy6ygju4h6lwn.onion/)
 * ![DarkWebLink](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkweblink_icon.png) [Dark Web Link](http://dwlonion3o3pjqsl.onion/)
 * ![DNMLive](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/dnmlive_icon.png) [DNMLive](http://dnmliveahwgu7nvu.onion/)
 
