@@ -345,6 +345,7 @@ Verify Darkweb Vendors Via These Sites
 * ![TorVPS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [TorVPS](http://torvps7kzis5ujfz.onion/)
 * ![OneHost](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OneHost](http://q3lgwxinynjxkor6wghr6hrhlix7fquja3t25phbagqizkpju36fwdyd.onion/)
 * ![OneHost](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OneHost (Clearweb)](https://onehostcloud.hosting/)
+* ![Kowloon](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/kowloon_icon.png) [Kowloon Hosting](http://kowloon5aibdbege.onion/)
 * ![RealHost](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/realhost_icon.png) [RealHost](http://ezuwnhj5j6mtk4xr.onion/)
 * ![Cockbox](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Cockbox (Clearweb)](https://cockbox.org/)
 * ![TorPress](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [TorPress](http://torpress2sarn7xw.onion/)
@@ -352,10 +353,13 @@ Verify Darkweb Vendors Via These Sites
 * ![Rueckgrat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/rueckgrat_icon.png) [Rueckgrat (Clearweb)](https://rueckgr.at/)
 
 ## File Sharing
+* ![Matrix](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/mih_icon.png) [Matrix Image Hosting](http://matrixtxri745dfw.onion/)
+* ![ImageHosting](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/imagehosting_icon.png) [Image Hosting](http://twlba5j7oo5g4kj5.onion/)
+* ![PopFiles](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/popfiles_icon.png) [PopFiles](http://popfilesxuru7lsr.onion/)
 * ![J.U.S](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Just Upload Stuff](http://jusfileobjorolmq.onion/)
 * ![ZeroBin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [ZeroBin](http://zerobinqmdqd236y.onion/)
-* ![ImageHosting](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/imagehosting_icon.png) [Image Hosting](http://twlba5j7oo5g4kj5.onion/)
 * ![DeepPaste](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/deeppaste_icon.png) [DeepPaste](http://depastedihrn3jtw.onion/)
+* ![Tor Pastebin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Tor Pastebin (Under Maintenance)](http://postits4tga4cqts.onion/)
 * ![TPB](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tpb_icon.png) [The Pirate Bay](http://piratebayztemzmv.onion/)
 
 ## Security And Privacy
