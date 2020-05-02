@@ -206,7 +206,7 @@ Verify Darkweb Vendors Via These Sites
 
 ## Bitcoin Mixers
 * ![Helix Light](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/helixlight_icon.png) [Helix Light](http://mixerrzbgcknjzk4.onion/)
-* ![SmartMixer](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/helixlight_icon.png) [Smart Mixer](http://smrtmxdxognxhv64.onion/)
+* ![SmartMixer](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/smartmixer_icon.png) [Smart Mixer](http://smrtmxdxognxhv64.onion/)
 * ![OnionWallet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionwallet_icon.png) [Onion Wallet](http://ow24et3tetp6tvmk.onion/)
 
 ## Credit Cards
