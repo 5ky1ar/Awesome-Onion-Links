@@ -345,9 +345,11 @@ Verify Darkweb Vendors Via These Sites
 * ![TorVPS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [TorVPS](http://torvps7kzis5ujfz.onion/)
 * ![OneHost](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OneHost](http://q3lgwxinynjxkor6wghr6hrhlix7fquja3t25phbagqizkpju36fwdyd.onion/)
 * ![OneHost](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OneHost (Clearweb)](https://onehostcloud.hosting/)
-* ![RealHost]((https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/realhost_icon.png) [RealHost](http://ezuwnhj5j6mtk4xr.onion/)
+* ![RealHost](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/realhost_icon.png) [RealHost](http://ezuwnhj5j6mtk4xr.onion/)
 * ![Cockbox](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Cockbox (Clearweb)](https://cockbox.org/)
+* ![TorPress](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [TorPress](http://torpress2sarn7xw.onion/)
 * ![0xacab](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/0xacab_icon.png) [0xacab](http://wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion/)
+* ![Rueckgrat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/rueckgrat_icon.png) [Rueckgrat (Clearweb)](https://rueckgr.at/)
 
 ## File Sharing
 * ![J.U.S](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Just Upload Stuff](http://jusfileobjorolmq.onion/)
