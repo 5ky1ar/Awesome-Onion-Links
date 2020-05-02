@@ -31,21 +31,35 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Dark Web Guides](#dark-web-guides)
   * [Tor Scam Lists](#tor-scam-lists)
   * [Search Engines](#search-engines)
-  * [Wikis/Link Lists](#wikis--link-lists)
+  * [Wikis And Link Lists](#wikis-and-link-lists)
   * [Monitors](#monitors)
 * [Financial Services](#financial-services)
   * [Bitcoin Mixers](#bitcoin-mixers)
   * [Credit Cards](#credit-cards)
   * [Crytocurrency](#crytocurrency)
 * [Commercial Services](#commercial-services)
-* [Mirrors](#mirrors)
-* [Clearnet Mirrors](#clearnet-mirrors)
-  * [Security & Privacy](#security--privacy)
+  * [Drugs](#drugs)
+* [Non-Commercial Services](#non-commercial-services)
+  * [Email](#email)
+  * [Hosting](#hosting)
+  * [File Sharing](#file-sharing)
+* [Social](#social)
+  * [Networks](#networks)
+  * [Forums](#forums)
+  * [Chat](#chat)
+  * [Chans](#chans)
+  * [Blogs](#blogs)
+* [News](#news)
+* [Miscellaneous](#miscellaneous)
+  * [Security And Privacy](#security-and-privacy)
+* [Non-English](#non-english)
+  * [Spanish / Español](#spanish--español)
 
 ---
 # Recommended Sites
 ## Official Tor Sites
 * ![Home](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Tor Project Home](http://expyuzz4wqqyqhjn.onion/)
+* ![Home](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Tor Project (Mirror)](http://sbe5fi5cka5l3fqe.onion/)
 * ![2019](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Tor Project 2019](http://qrmfuxwgyzk5jdjz.onion/)
 * ![2019](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Tor Project 2019](http://krkzagd5yo4bvypt.onion/)
 * ![Archive](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Archive](http://e4nybovdbcwaqlyt.onion/)
@@ -111,19 +125,28 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 # Introduction Points
 ## Dark Web Guides
 * ![The Way Into The Dark Web](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Way Into The Dark Web](http://guideyeb5ew6plwj.onion/)
+* ![The Way Into The Dark Web](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Way Into The Dark Web (Mirror)](http://guideyeb5ew6plwj.onion/)
 * ![Owledge](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/owledge_icon.png) [Owledge](http://owlzyj4to3l5daq6edgsgp5z4lh4tzlnms4z6jv6xdtkily77j4b3byd.onion/)
 * ![The Dark Web Pug](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkwebpug_icon.png) [The Dark Web Pug (Outdated)](http://thedarkwebpugv5m.onion/)
 
 ## Tor Scam Lists
 * ![Dark Fail](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkfail_icon.png) [Dark.Fail](http://darkfailllnkf4vf.onion/)
+* ![Dark Fail](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkfail_icon.png) [Dark.Fail (Clearnet)](https://dark.fail/)
 * ![NoScam](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/noscam_icon.png) [NoScam](http://noscamomtq5kauyu.onion/)
-* ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor](http://rap7gypjs4v6a7ax.onion/)
-* ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor 2](http://r33ar5ezvrigo7p5.onion/)
+* ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 1)](http://rap7gypjs4v6a7ax.onion/)
+* ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 2)](http://roey5smpp67p4fxq.onion/)
+* ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 3)](http://y7zigmjrpm2pkgzi.onion/)
+* ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 4)](http://jancwqly2wrh35ab.onion/)
+* ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 1)](http://r33ar5ezvrigo7p5.onion/)
+* ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 2)](http://ba7fsz4656jjxs3p.onion/)
+* ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 3)](http://vzii5edzuyvjb4kf.onion/)
+* ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 4)](http://pag7cizw7yi4teop.onion/)
 * ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor 3](http://mi325vr3yhtlptho42mkaup4loyesnzfmx7simiw2f5gxrbrqeonh4id.onion/)
 * ![DarkGuard](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkguard_icon.png) [DarkGuard](http://guardday6e5nxblpojbhmx5ws2avautr7eswu3qg7gynh52rh744anyd.onion/)
 
 ## Search Engines
 * ![Ahmia](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ahmia_icon.png) [Ahmia](http://msydqstlz2kzerdg.onion/)
+* ![Ahmia](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ahmia_icon.png) [Ahmia (Clearnet)](https://ahmia.fi/)
 * ![Candle](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/candle_icon.png) [Candle](http://gjobqjj7wyczbqie.onion/)
 * ![Dark Web Links](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkweblinks_icon.png) [Dark Web Links](http://jdpskjmgy6kk4urv.onion/)
 * ![DuckDuckGo](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/duckduckgo_icon.png) [DuckDuckGo](https://3g2upl4pq6kufc4m.onion/)
@@ -136,22 +159,29 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![Not Evil](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/notevil_icon.png) [Not Evil](http://hss3uro2hsxfogfq.onion/)
 * ![Onion Center](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onioncenter_icon.png) [Onion Center](http://oikgfwfqmqkph4rl.onion/)
 * ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine](http://onionf4j3fwqpeo5.onion/)
+* ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (Mirror)](http://5u56fjmxu63xcmbk.onion/)
+* ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (Clearnet)](https://onionsearchengine.com/)
 * ![Onion Search Service](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/oss_icon.png) [Onion Search Service](http://oss7wrm7xvoub77o.onion/)
-* ![OnionLand](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionLand Search Engine](http://3bbaaaccczcbdddz.onion//)
+* ![OnionLand Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionLand Search Engine](http://3bbaaaccczcbdddz.onion//)
+* ![OnionLand Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionLand Search Engine (Clearnet)](https://onionlandsearchengine.com/)
 * ![Phobos](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/phobos_icon.png) [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/)
 * ![SearX](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/searx_icon.png) [SearX](http://searx7gwtu5rh6wr.onion/)
+* ![SearX](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/searx_icon.png) [SearX (Mirror)](http://5plvrsgydwy2sgce.onion/)
+* ![SearX](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/searx_icon.png) [SearX (Clearnet)](https://searx.space/)
 * ![Start](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/start_icon.png) [Start](http://kaarvixjxfdy2wv2.onion/)
 * ![Tor66](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor66_icon.png) [Tor66](http://tor66sezptuu2nta.onion/)
+* ![Tor66](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor66_icon.png) [Tor66 (Mirror)](http://tor77orrbgejplwp.onion/)
 * ![Tormax](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tormax_icon.png) [Tormax](http://tormaxunodsbvtgo.onion/)
 * ![Tor Search](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torsearch_icon.png) [Tor Search](http://torsearchruby56z.onion/)
 * ![Tor Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torsearchengine_icon.png) [Tor Search Engine](http://searchcoaupi3csb.onion/)
 * ![Tor Search Engine 2](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torsearchengine2_icon.png) [Tor Search Engine 2](http://searcherc3uwk535.onion/)
 * ![Torch](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torch_icon.png) [Torch](http://xmh57jrzrnw6insl.onion/)
+* ![Torch](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torch_icon.png) [Torch (Mirror)](http://26ozf35d2rwtmqbk.onion/)
 * ![Tordex](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tordex_icon.png) [Tordex](http://tordex7iie7z2wcg.onion/)
 * ![Torgle](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Torgle](http://torglejzid2cyoqt.onion/)
 * ![VisiTOR](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/visitor_icon.png) [VisiTOR](http://visitorfi5kl7q7i.onion/)
 
-## Wikis / Link Lists
+## Wikis And Link Lists
 * ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Hidden Wiki (Original)](http://hiddenwiki7wiyzr.onion/)
 * ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Hidden Wiki 2](http://nqigfqrxnkwcqmiq.onion/wiki/index.php)
 * ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Hidden Wiki 3](http://hwikim2v2jscf5tgpcfgkfxjyrfmgs4vwr2raqayt4uzfde6w4dutiqd.onion/)
@@ -159,6 +189,8 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Hidden Wiki 5](http://wikitorcwogtsifs.onion/)
 * ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Hidden Wiki 6](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page)
 * ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/thw_icon.png) [The Hidden Wiki 7](http://hdwikihod77v6fas.onion/)
+* ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Hidden Wiki (Mirror)](http://wikitjerrta4qgz4.onion/)
+* ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Hidden Wiki (Clearnet)](https://thehiddenwiki.org/)
 * ![The Light Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Light Hidden Wiki](http://cbo7whgxo2dnplgz.onion/wiki/index.php)
 * ![Hidden Wiki Fresh](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hwf_icon.png) [Hidden Wiki Fresh](http://ujnkg4uirpaiqejr.onion/)
 * ![Hidden Wiki Fresh 2020](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hwf20_icon.png) [Hidden Wiki Fresh 2020](http://hdwikiueikaeviwk.onion/)
@@ -166,6 +198,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![Hidden Links](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hiddenlinks_icon.png) [Hidden Links](http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion/)
 * ![Tor Links](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torlinks_icon.png) [Tor Links v1](http://torlinkbgs6aabns.onion/)
 * ![Tor Links](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torlinks_icon.png) [Tor Links v2](http://torlinkglejjnyof.onion/)
+* ![Tor Links](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torlinks_icon.png) [Tor Links v2 (Mirror)](http://torlinkyrd26ovflctq7j3edrcamticj2tikyjghbehnow73av2dtmqd.onion/)
 * ![Tor Links](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torlinks_icon.png) [Tor Links v3](http://tor3ypms2vlohh2e.onion/)
 * ![Tor Links 2](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torlinks2_icon.png) [Tor Links 2](http://torlinkswwqg3lwt.onion/)
 * ![LinkDir](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/linkdir_icon.png) [LinkDir](http://linkdir7ekbalksw.onion/)
@@ -174,6 +207,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![Onion List 2](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionlist2_icon.png) [Onion List 2](http://jh32yv5zgayyyts3.onion/)
 * ![OnionLinks](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionlinks_icon.png) [Onion Links](http://onionlinksv3zit3.onion/)
 * ![Onion Links Directory](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/old_icon.png) [Onion Links Directory](http://aaalinktbyhxngho.onion/)
+* ![Onion Links Directory](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/old_icon.png) [Onion Links Directory (Mirror)](http://aaalinktbyhxngho.onion/)
 * ![Dark Net Links](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Dark Net Links](http://aetmdmazqr5hacyus5iw3foutnj5swzuj3kjyk2hwoxve2pkgilcjkqd.onion/)
 * ![HD Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hdwiki_icon.png) [HD Wiki](http://hdwikicorldcisiy.onion/)
 * ![UnderDir](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/underdir_icon.png) [UnderDir](http://underdj5ziov3ic7.onion/)
@@ -185,6 +219,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * ![Dark Web Links 2017](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Dark Web Links 2017](http://wiki5kauuihowqi5.onion/)
 * ![Project PM](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/projectpm_icon.png) [Project PM](http://projpmcxufvim7be.onion/)
 * ![Raptor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/raptor_icon.png) [Raptor](http://raptortiabg7uyez.onion/)
+* ![Raptor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/raptor_icon.png) [Raptor (Clearnet)](https://raptor.life/)
 * ![Grams](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Grams Wiki](http://uepurdryqkrheiqs.onion/)
 * ![Uncensored Onion List](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ucol_icon.png) [Uncensored Onion List](http://list4ywgch4gsd56.onion/)
 * ![Dir](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Dir](http://5kgkvealcpsrgsfmxo4fssmr7zcemq7zp5qfvsuppnio5cr6harqq2id.onion/)
@@ -192,6 +227,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 
 ## Monitors
 * ![DarkEye](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkeye_icon.png) [DarkEye](http://t7tb43a7gvl6wb7j.onion/)
+* ![DarkEye](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkeye_icon.png) [DarkEye (Mirror)](http://darkeyepxw7cuu2cppnjlgqaav6j42gyt43clcn4vjjf7llfyly5cxid.onion/)
 * ![Onion Scanner](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionscanner_icon.png) [Onion Scanner](http://4r4zaei5qa7qq5ha.onion/)
 * ![CodeDir](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/codedir_icon.png) [CodeDir](http://67xkew7pvctdcj526yl7gl6pc6e2dwqwx3ugbe67g2hfjdnbwjd7euad.onion/)
 
@@ -223,43 +259,152 @@ Verify Darkweb Vendors Via These Sites
 * ![Recon](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/recon_icon.png) [Recon](http://reconponydonugup.onion/)
 * ![DarknetTrust](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Darknet Trust](http://ohivsd7ze7rgdir4.onion/)
 
-# Mirrors
-I'm too lazy to sort out the links into their respective categories again so just deal with it. I may do this in the future when I have time.
+## Drugs
+* ![BigBlue](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Big Blue Market (Main)](http://44v6hk7cm4gowwe2wottcnqgndwkab4qvva2n3gvjk4lrbgmqu5uw2ad.onion/)
+* ![BigBlue](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Big Blue Market (Mirror 1)](http://7yyhqf23cnzc2vnbeymzwwy4gzxw47e57jfitzaqahzvqlzyejr776ad.onion/)
+* ![BigBlue](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Big Blue Market (Mirror 2)](http://lnwsu7hcfft5ajpteyvtfbxdf2blwzxfilx5wuewdf76g7srg65voiid.onion/)
+* ![BigBlue](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Big Blue Market (Mirror 3)](http://e6rtmrtkbrdm7imjb5l5fx6lpia6uozj5g5n2kffh3tje46ktv47x3yd.onion/)
+* ![BigBlue](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Big Blue Market (Mirror 4)](http://kg42jvyhpekk4q3bskb2ea2qmpmdb4unf2zlen557j365jpoqtbvsyyd.onion/)
+* ![BigBlue](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Big Blue Market (Mirror 5)](http://o7te6mf4awkpm2hckohyqr665on2ugntt5iioraayfepcgwidtxm7byd.onion/)
+* ![BitBazaar](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bitbazaar_icon.png) [BitBazaar (Main)](http://bbazaarkntrz5vji.onion/)
+* ![BitBazaar](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bitbazaar_icon.png) [BitBazaar (Rotating Mirror 1)](http://bbazaarh65l2z4vh.onion/)
+* ![BitBazaar](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bitbazaar_icon.png) [BitBazaar (Rotating Mirror 2)](http://bbazaarabwzpdzku.onion/)
+* ![BitBazaar](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bitbazaar_icon.png) [BitBazaar (Rotating Mirror 3)](http://bbazaar54ya5nz7t.onion/)
+* ![BitBazaar](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bitbazaar_icon.png) [BitBazaar (Rotating Mirror 4)](http://jcjbfbbyqhwmjslo.onion/)
+* ![BitBazaar](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bitbazaar_icon.png) [BitBazaar (Rotating Mirror 4)](http://5ohwoy6w5dglk7sp.onion/)
+* ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v2 Main)](http://darkevuygggqkqhq.onion/)
+* ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v2 Mirror 1)](http://darkevuygggqkqhq.onion/)
+* ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v2 Mirror 2)](http://darkmarkl7f5hz5f.onion/)
+* ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v2 Mirror 3)](http://darkmarkhbh2xyel.onion/)
+* ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v3 Main)](http://darkmarketsomqvzqfjudpd6t5eabgvvpplrbtzq6prervyogenlrlqd.onion/)
+* ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v3 Mirror 1)](http://darknet3ysxpbjtvbtyqorzuq3bp4pk3vt4fuhqxz6h2bzj2kyjbisqd.onion/)
+* ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v3 Mirror 2)](http://darknet4rbfizlg53dwc5lt5hj4mewcgltubcpvrfpvjavm64inaf3ad.onion/)
+* ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v3 Mirror 3)](http://darknet5kpf7i3kulnljiwvf3q4sm2z66kbrdeuxyyhxutyt3inp7fid.onion/)
+* ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v3 Mirror 4)](http://7l6nfl2rj3gy7qipdj2yac575wiwli43z6mqxmdoqjtuat7slyrik7qd.onion/)
+* ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 1)](http://wahcoxxucz5ae5akrmenjxufne2ci4lkbw75uxqwf6kjzzorpm7r2ryd.onion/)
+* ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 2)](http://k6ggxyjcmdy7tv3xwgak4osnygb7yotxoqiwvgjuxp5iopavkicj7bqd.onion/)
+* ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 3)](http://xgcjbel2wgd2hvlk7bhrvoyy4k5ctmoe2mcmmqjify77kqhwe5oxwgid.onion/)
+* ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 4)](http://rgamajuhd5kirb7ppuczu64gqhcdimdv7owbknin7tjypx557hhg2xyd.onion/)
+* ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 5)](http://3uv2nhqozxfun2gxvdg6srqobkk7wobawv7d3dkxiz65wkw2ig3vhqad.onion/)
+* ![Hidden Marketplace](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hiddenmarket_icon.png) [Hidden Marketplace (Main)](http://hidden24vowyrcic.onion/)
+* ![Hidden Marketplace](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hiddenmarket_icon.png) [Hidden Marketplace (Mirror 1)](http://hiddenmark43cbxd.onion/)
+* ![Hidden Marketplace](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hiddenmarket_icon.png) [Hidden Marketplace (Mirror 2)](http://hidden24tha4plsx.onion/)
 
-* ![Tor Project](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Tor Project](http://sbe5fi5cka5l3fqe.onion/)
-* ![The Way Into The Dark Web](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Way Into The Dark Web (Mirror)](http://guideyeb5ew6plwj.onion/)
-* ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 1)](http://roey5smpp67p4fxq.onion/)
-* ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 2)](http://y7zigmjrpm2pkgzi.onion/)
-* ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor (Mirror 3)](http://jancwqly2wrh35ab.onion/)
-* ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 1)](http://ba7fsz4656jjxs3p.onion/)
-* ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 2)](http://vzii5edzuyvjb4kf.onion/)
-* ![Scam List Of Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Scam List Of Tor 2 (Mirror 3)](http://pag7cizw7yi4teop.onion/)
-* ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (Mirror)](http://5u56fjmxu63xcmbk.onion/)
-* ![OnionLand](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionLand Search Engine](http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/)
-* ![SearX](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/searx_icon.png) [SearX (Mirror)](http://5plvrsgydwy2sgce.onion/)
-* ![Tor66](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor66_icon.png) [Tor66 (Mirror)](http://tor77orrbgejplwp.onion/)
-* ![Torch](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torch_icon.png) [Torch (Mirror)](http://26ozf35d2rwtmqbk.onion/)
-* ![Onion Links Directory](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/old_icon.png) [Onion Links Directory (Mirror)](http://aaalinktbyhxngho.onion/)
-* ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Hidden Wiki (Mirror)](http://wikitjerrta4qgz4.onion/)
-* ![Tor Links](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torlinks_icon.png) [Tor Links v2 (Mirror)](http://torlinkyrd26ovflctq7j3edrcamticj2tikyjghbehnow73av2dtmqd.onion/)
-* ![DarkEye](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkeye_icon.png) [DarkEye (Mirror)](http://darkeyepxw7cuu2cppnjlgqaav6j42gyt43clcn4vjjf7llfyly5cxid.onion/)
+# Non-Commercial Services
 
-# Clearnet Mirrors
-I'm not going to put clearnet links of popular sites that have .onion links (Facebook, Portonmail, The New York Times, etc...) as a quick search in your preferred search engine would easily find them and its a waste of time for me.
+## Email
 
-* ![Dark Fail](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkfail_icon.png) [Dark.Fail (Clearnet)](https://dark.fail/)
+## Hosting
 
-* ![Ahmia](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ahmia_icon.png) [Ahmia (Clearnet)](https://ahmia.fi/)
-* ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (North America Clearnet)](https://onionsearchengine.com/)
-* ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (Europe Clearnet)](https://eu.onionsearchengine.com/)
-* ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (Asia Clearnet)](https://as.onionsearchengine.com/)
-* ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (Africa Clearnet)](https://af.onionsearchengine.com/)
-* ![OnionLand Search](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionLand Search (Clearnet)](https://onionlandsearchengine.com/)
-* ![SearX](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/searx_icon.png) [SearX (Clearnet)](https://searx.space/)
+## File Sharing
 
-* ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Hidden Wiki (Clearnet)](https://thehiddenwiki.org/)
-* ![Raptor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/raptor_icon.png) [Raptor (Clearnet)](https://raptor.life/)
+# Social
 
-## Security & Privacy
+## Networks
+* ![Dread](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/dread_icon.png) [Dread](http://dreadditevelidot.onion/)
+* ![Facebook](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/facebook_icon.png) [Facebook](https://www.facebookcorewwwi.onion/)
+* ![Connect](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/connect_icon.png) [Connect](http://connectkjsazkwud.onion/)
+* ![Galaxy3](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/galaxy3_icon.png) [Galaxy3](http://galaxy3m2mn5iqtn.onion/)
+
+## Forums
+* ![Torum](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torum_icon.png) [Torum](http://torum43tajnrxritn4iumy75giwb5yfw6cjq2czjikhtcac67tfif2yd.onion/)
+* ![DNMAvengers](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Darknet Avengers](http://avengersdutyk3xf.onion/)
+* ![Hidden Answers](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Hidden Answers](http://answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/)
+* ![Envoy](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Envoy](http://envoys5appps3bin.onion/)
+* ![Hermes](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Hermes](http://hermesibuzda3rtv.onion/)
+* ![Suprbay](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Suprbay](http://suprbayoubiexnmp.onion/)
+* ![Hub](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hub_icon.png) [The Hub Link List (v2 Mirror)](http://thehub7xbw4dc5r2.onion/)
+* ![Hub](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hub_icon.png) [The Hub Link List (v3 Mirror)](http://thehubpkeu7x6ddq5tc4gali6ldsi4ly6bqlhsid7pztwhbirahu6vqd.onion/)
+* ![Hub](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hub_icon.png) [The Hub Forum (Main)](http://thehubpkeu7x6ddq5tc4gali6ldsi4ly6bqlhsid7pztwhbirahu6vqd.onion/)
+* ![Hub](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hub_icon.png) [The Hub Forum (Mirror 1)](http://thehubdpfbw54ujdgwdhvgsaicvtc5jz4ncthfcbriny2dzsimlifoqd.onion/)
+* ![Hub](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hub_icon.png) [The Hub Forum (Mirror 2)](http://thehube5dbng3dwww4fhbiihruloenvh66536cot3wrpc4hvhm2bdayd.onion/)
+* ![Hub](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hub_icon.png) [The Hub Forum (Mirror 3)](http://thehubeebh6z6pqdy4wmxdd6d45gmchjm3xe5sdppadna7m3qtmksmid.onion/)
+* ![Hub](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hub_icon.png) [The Hub Forum (Mirror 4)](http://thehuboy27kracz6sdql2r7c324vrs5aok2e33gorrikccaqhvzfcvad.onion/)
+
+## Chat
+* ![ChatWithStrangers](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/chatwithstrangers_icon.png) [Chat With Strangers](http://tetatl6umgbmtv27.onion/)
+* ![Ableonion](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Ableonion](http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/)
+
+## Chans
+
+## Blogs
+* ![Asocial](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/asocial_icon.png) [The Asocial](http://asocialfz7ncw5ui.onion/)
+* ![GoBeyond](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/gobeyond_icon.png) [Go Beyond](http://potatoynwcg34xyodol6p6hvi5e4xelxdeowsl5t2daxywepub32y7yd.onion/)
+* ![YBTI](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ybti_icon.png) [You Broke The Internet](http://ybti.cheettyiapsyciew.onion/)
+* ![Superkuh](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Superkuh](http://superkuhbitj6tul.onion/)
+* ![OnionSoup](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsoup_icon.png) [Onion Soup](http://soupksx6vqh3ydda.onion/)
+* ![Untitled](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Untitled Blog](http://n3ip6btaskerrbyg.onion/)
+* ![Dan Luu](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Dan Luu's Blog](https://danluu.com/)
+* ![Julia Evans](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/juliaevans_icon.png) [Julia Evan's Blog](https://jvns.ca/)
+* ![CodingHorror](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/codinghorror_icon.png) [Jeff Atwood's Blog - Coding Horror](https://blog.codinghorror.com/)
+
+# News
+* ![The New York Times](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nyt_icon.png) [The New York Times](https://www.nytimes3xbfgragh.onion/)
+* ![OnionWeb](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionweb_icon.png) [The Onion Web](http://onionwsoiu53xre32jwve7euacadvhprq2jytfttb55hrbo3execodad.onion/)
+* ![Tape](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tape_icon.png) [Tape](http://tapeucwutvne7l5o.onion/)
+* ![DarknetLive](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darknetlive_icon.png) [Darknet Live](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/)
+* ![DarkWebLink](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkweblink_icon.png) [Dark Web Link](http://dwlonion3o3pjqsl.onion/)
+* ![DNMLive](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/dnmlive_icon.png) [DNMLive](http://dnmliveahwgu7nvu.onion/)
+
+# Miscellaneous
+
+## Security And Privacy
 * ![Surveillance Self-Defense](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ssd_icon.png) [Surveillance Self-Defense](https://ssd.eff.org/)
 * ![Open Observatory Of Network Interference](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ooni_icon.png) [Open Observatory Of Network Interference](https://ooni.org/)
+
+# Non-English
+## Spanish / Español
+* ![Cebolla](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cebolla_icon.png) [CebollaChan 3.0](http://s6cco2jylmxqcdeh.onion/)
+* ![Respuestas Ocultas](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Respuestas Ocultas](http://es.answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/)
+
+## French / Français
+* ![Hidden Directory](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Hidden Directory](http://irgrtpxhivfdq6o5.onion/)
+* ![Trollodrome](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Le Trollodrôme 2.0](http://trollodrome2.torpress2sarn7xw.onion/)
+* ![Le Circle](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Le Circle Forum](http://lecercle2bxxqlmvqzcu34g7t4wh7majp34cxihnlcrhbdghke2in4ad.onion/)
+* ![Accueil](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/accueil_icon.png) [Accueil - No Limit French Zone](http://m37rczgigmnvycc7b6ihkiatjv6kyobv7lp2tvvfxl43qaowqyue3qid.onion/)
+* ![FFZ](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [French Freedom Zone](http://ffzonepk5v476zc7cvpamt6qvhq3z7xixnu5lb35v627vxqz6sms7yyd.onion/)
+* ![Cyberdéfenseur](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cyberdefenseur_icon.png) [Cyberdéfenseur](http://cyberdefwik65ywa.onion/)
+* ![Démocratie Participative](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/dp_icon.png) [Démocratie Participative](http://dp742web5fzh674o.onion/)
+
+## German / Deutsch
+* ![Konkret](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Konkret](http://konkretzdxpqygow.onion/)
+* ![MadIRC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/madirc_icon.png) [MadIRC](http://wbi67emmdx6i6rcr6nnk3hco3nrvdc2juxrbvomvt6nze5afjz6pgtad.onion/)
+
+## Italian / Italiano
+* ![BlackHost](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [BlackHost](http://blackhost5xlrhev.onion/)
+* ![NSD](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [New System Disorder](http://xodijruknc2fcsyj.onion/)
+* ![IDC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [IDC Reloaded](http://2qrdpvonwwqnic7j.onion/)
+
+## Russian / Русский
+* ![Словесный Богатырь](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ruslib_icon.png) [Словесный Богатырь](http://sblib3fk2gryb46d.onion/)
+* ![РосПравосудие](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/rosprav_icon.png) [РосПравосудие](http://rospravovkdvaobr.onion/)
+* ![Рынок Китая](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/chinamarket_icon.png) [Рынок Китая](http://chinamksmy54x46x.onion/)
+* ![Скрытые Ответы](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Скрытые Ответы](http://ru.answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/)
+* ![Rutor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/rutor_icon.png) [Rutor](http://rutorzzmfflzllk5.onion/)
+* ![Флибуста](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/flibusta_icon.png) [Флибуста](http://flibustahezeous3.onion/)
+
+## Chinese / 中国語
+* ![中文论坛](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [中文论坛](http://almvdkg6vrpmkvk4.onion/)
+* ![隐藏链接](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [隐藏链接](http://zw5atj5ckiw6rh46.onion/)
+
+## Japanese / 日本語
+* ![OnionChannel](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionChannel](http://xiwayy2kn32bo3ko.onion/tor)
+* ![JHW](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Japan Hidden Wiki](http://poverty4657tlx6h.onion/wiki/index.php)
+
+## Portuguese / Português
+* ![Magia e Ocultismo](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Tudo Sobre Magia e Ocultismo](http://2izlbbg42mgtdh2w.onion/)
+* ![Respostas Ocultas](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Respostas Ocultas](http://pt.answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/)
+* ![Terminal Internet Livre](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Terminal Internet Livre](http://4bts7m4wlvwd7zrp.onion/)
+
+## Polish / Polski
+* ![Teczkohen](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Teczkohen](http://ocun3jhbmhvqwggn.onion/)
+* ![PUW](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Polska Ukryta Wiki](http://ocun3jhbmhvqwggn.onion/wiki/)
+* ![Cebulka](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Cebulka](http://qd73mvvc7v7zewwl.onion/)
+
+## Finnish / Suomi
+* ![Thorlauta](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Thorlauta](http://zqiirytam276uogb.onion/)
+* ![Silkkitie](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Silkkitie](http://silkkitiehdg5mug.onion/)
+
+## Swedish / Svenska
+* ![KognitionsKyrkan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cognitive_icon.png) [Kognitions Kyrkan](https://www.kognitionskyrkan.nu/)
+* ![Moral](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/moral_icon.png) [Moral](https://web.archive.org/web/20180705232420/http://moral.nu/)
