@@ -323,11 +323,16 @@ Verify Darkweb Vendors Via These Sites
 * ![Secmail](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/secmail_icon.png) [Secmail (Mirror)](http://giyzk7o6dcunb2ry.onion/)
 * ![Elude](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/elude_icon.png) [EludeMail](http://eludemaillhqfkh5.onion/)
 * ![Elude](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/elude_icon.png) [EludeMail (Clearweb)](https://elude.in/)
+* ![Cockli](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cockli_icon.png) [Cock.li](http://cockmailwwfvrtqj.onion/)
+* ![Cockli](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cockli_icon.png) [Cock.li (Mirror)](http://xdkriz6cn2avvcr2vks5lvvtmfojz2ohjzj4fhyuka55mvljeso2ztqd.onion/)
+* ![Cockli](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cockli_icon.png) [Cock.li (Clearweb)](https://cock.li/)
 * ![DNMX](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Dark Net Mail Exchange](http://hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion/)
 * ![Daniel](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/daniel_icon.png) [Daniel's Email Hosting](http://danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion/mail/index.php)
 * ![Daniel](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/daniel_icon.png) [Daniel's Email Hosting (Clearweb)](https://danwin1210.me/mail/index.php)
 * ![Mail2Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/mail2tor_icon.png) [Mail2Tor](http://mail2tor2zyjdctd.onion/)
 * ![TorBox](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [TorBox](http://torbox3uiot6wchz.onion/)
+* ![Underwood](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Underwood's Mail](http://underwood2hj3pwd.onion/)
+* ![Nonwo](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nonwo_icon.gif) [Nonwo OnionMail Server](http://underwood2hj3pwd.onion/)
 * ![Tutanota](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tutanota_icon.png) [Tutanota (Clearweb)](https://tutanota.com/)
 
 ## Hosting
@@ -337,6 +342,7 @@ Verify Darkweb Vendors Via These Sites
 * ![FHR](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/freehostreload_icon.png) [Freedom Hosting Reloaded](http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/)
 * ![OneHost](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OneHost](http://q3lgwxinynjxkor6wghr6hrhlix7fquja3t25phbagqizkpju36fwdyd.onion/)
 * ![OneHost](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OneHost (Clearweb)](https://onehostcloud.hosting/)
+* ![Cockbox](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Cockbox (Clearweb)](https://cockbox.org/)
 * ![0xacab](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/0xacab_icon.png) [0xacab](http://wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion/)
 
 ## File Sharing
