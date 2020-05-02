@@ -332,6 +332,7 @@ Verify Darkweb Vendors Via These Sites
 * ![Mail2Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/mail2tor_icon.png) [Mail2Tor](http://mail2tor2zyjdctd.onion/)
 * ![TorBox](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [TorBox](http://torbox3uiot6wchz.onion/)
 * ![Underwood](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Underwood's Mail](http://underwood2hj3pwd.onion/)
+* ![SafeMail](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/safemail_icon.png) [Safe Mail (Clearweb)](https://www.safe-mail.net/)
 * ![Nonwo](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nonwo_icon.gif) [Nonwo OnionMail Server](http://underwood2hj3pwd.onion/)
 * ![Tutanota](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tutanota_icon.png) [Tutanota (Clearweb)](https://tutanota.com/)
 
