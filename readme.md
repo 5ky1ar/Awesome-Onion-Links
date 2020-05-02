@@ -385,6 +385,9 @@ Verify Darkweb Vendors Via These Sites
 * ![Ricochet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ricochet_icon.png) [Ricochet (Clearweb)](https://ricochet.im/)
 * ![Stem](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/stem_icon.png) [Stem](http://vt5hknv6sblkgf22.onion/)
 * ![Usenet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/usenet_icon.png) [Usenet (Clearweb)](https://usenet.nl/)
+* ![TxTorCon](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/txtorcon_icon.png) [TxTorCon](http://timaq4ygg2iegci7.onion/)
+* ![TxTorCon](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/txtorcon_icon.png) [TxTorCon (Mirror)](http://fjblvrw2jrxnhtg67qpbzi45r7ofojaoo3orzykesly2j3c2m3htapid.onion/)
+* ![TxTorCon](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/txtorcon_icon.png) [TxTorCon (Clearweb)](https://txtorcon.readthedocs.org/)
 * ![JitJat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [JitJat](http://jitjatxmemcaaadp.onion/)
 
 ## Multipurpose
