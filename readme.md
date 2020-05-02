@@ -369,6 +369,7 @@ Verify Darkweb Vendors Via These Sites
 * ![Ricochet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ricochet_icon.png) [Ricochet (Clearweb)](https://ricochet.im/)
 * ![Stem](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/stem_icon.png) [Stem](http://vt5hknv6sblkgf22.onion/)
 * ![Usenet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/usenet_icon.png) [Usenet (Clearweb)](https://usenet.nl/)
+* ![JitJat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [JitJat](http://jitjatxmemcaaadp.onion/)
 
 # Social
 
@@ -396,6 +397,7 @@ Verify Darkweb Vendors Via These Sites
 ## Chat
 * ![ChatWithStrangers](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/chatwithstrangers_icon.png) [Chat With Strangers](http://tetatl6umgbmtv27.onion/)
 * ![Ableonion](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Ableonion](http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/)
+* ![Torichat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Torichat](http://hss33mlbykbsxmug.onion:1488/)
 
 ## Chans
 
