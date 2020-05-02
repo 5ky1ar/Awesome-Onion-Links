@@ -263,6 +263,10 @@ Verify Darkweb Vendors Via These Sites
 * ![OnionWallet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionwallet_icon.png) [Onion Wallet](http://ow24et3tetp6tvmk.onion/)
 
 ## Credit Cards
+* ![Bitcards](https://raw.githubusercontent.com/xMG-ReduX/xmg-redux.github.io/master/assets/img/bitcards_icon.png) [Bitcards](http://bitccsaxbrxb6iiv.onion/)
+* ![EasyCards](https://raw.githubusercontent.com/xMG-ReduX/xmg-redux.github.io/master/assets/img/easycards_icon.png) [EasyCards](http://hlpg5p2rc3uou7wr.onion/)
+* ![Hidden Financial Services](https://raw.githubusercontent.com/xMG-ReduX/xmg-redux.github.io/master/assets/img/hiddenfinancial_icon.png) [Hidden Financial Services](http://morhx3irxknskwu5.onion/)
+* ![StackDW](https://raw.githubusercontent.com/xMG-ReduX/xmg-redux.github.io/master/assets/img/stackdw_icon.png) [Stack Of DW](http://stacvvulbayktqlf.onion/)
 
 ## CryptoCurrency
 * ![WeBuyBitcoin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/wbb_icon.png) [We Buy Bitcoins](http://jzn5w5pac26sqef4.onion/)
