@@ -39,11 +39,13 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Crytocurrency](#crytocurrency)
 * [Commercial Services](#commercial-services)
   * [Drugs](#drugs)
+  * [Multipurpose]
 * [Non-Commercial Services](#non-commercial-services)
   * [Email](#email)
   * [Hosting](#hosting)
   * [File Sharing](#file-sharing)
   * [Security And Privacy](#security-and-privacy)
+  * [Multipurpose](#multipurpose)
 * [Social](#social)
   * [Networks](#networks)
   * [Forums](#forums)
@@ -313,6 +315,9 @@ Verify Darkweb Vendors Via These Sites
 * ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 5)](http://3uv2nhqozxfun2gxvdg6srqobkk7wobawv7d3dkxiz65wkw2ig3vhqad.onion/)
 * ![Metropolis](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/metropolis_icon.png) [Metropolis Market](http://p5iib2dirlbm5zuizzupmoidm43s6qoyfa3vas5xjrgja4lxapdr22yd.onion/)
 
+## Multipurpose
+* ![The Brotherhood](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/brotherhood_icon.png) [The Brotherhood](http://brohoodahjzxriv7.onion/)
+
 # Non-Commercial Services
 
 ## Email
@@ -324,6 +329,8 @@ Verify Darkweb Vendors Via These Sites
 * ![Elude](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/elude_icon.png) [EludeMail](http://eludemaillhqfkh5.onion/)
 * ![Elude](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/elude_icon.png) [EludeMail (Clearweb)](https://elude.in/)
 * ![DNMX](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Dark Net Mail Exchange](http://hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion/)
+* ![Riseup](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/riseup_icon.png) [Riseup](http://zsolxunfmbfuq7wf.onion/)
+* ![Riseup](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/riseup_icon.png) [Riseup (Clearweb)](https://riseup.net/)
 * ![Cockli](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cockli_icon.png) [Cock.li](http://cockmailwwfvrtqj.onion/)
 * ![Cockli](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cockli_icon.png) [Cock.li (Mirror)](http://xdkriz6cn2avvcr2vks5lvvtmfojz2ohjzj4fhyuka55mvljeso2ztqd.onion/)
 * ![Cockli](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cockli_icon.png) [Cock.li (Clearweb)](https://cock.li/)
@@ -378,6 +385,11 @@ Verify Darkweb Vendors Via These Sites
 * ![Stem](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/stem_icon.png) [Stem](http://vt5hknv6sblkgf22.onion/)
 * ![Usenet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/usenet_icon.png) [Usenet (Clearweb)](https://usenet.nl/)
 * ![JitJat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [JitJat](http://jitjatxmemcaaadp.onion/)
+
+## Multipurpose
+* ![Volatile](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/volatile_icon.png) [Volatile](http://vola7ileiax4ueow.onion/)
+* ![KLOS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/volatile_icon.png) [Kaizushi's Little Onion Service](http://kaizushih5iec2mxohpvbt5uaapqdnbluaasa2cmsrrjtwrbx46cnaid.onion/)
+* ![KLOS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/volatile_icon.png) [Kaizushi's Little Onion Service (Clearweb)](https://kloshost.online/)
 
 # Social
 
