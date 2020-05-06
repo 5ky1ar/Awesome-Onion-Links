@@ -50,6 +50,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Chat](#chat)
   * [Chans](#chans)
   * [Blogs](#blogs)
+  * [Political Movements](#political-movements)
 * [News](#news)
 * [Miscellaneous](#miscellaneous)
 * [Non-English](#non-english)
@@ -441,6 +442,10 @@ Verify Darkweb Vendors Via These Sites
 * ![CodingHorror](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/codinghorror_icon.png) [Jeff Atwood's Blog - Coding Horror (Clearweb)](https://blog.codinghorror.com/)
 * ![Phrozen](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/phrozen_icon.png) [Phrozen (Clearweb)](https://www.phrozen.io/)
 
+## Political Movements
+* ![Crypto Party](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cryptoparty_icon.png) [Crypto Party](http://crypty22ijtotell.onion/)
+* ![Crypto Party](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cryptoparty_icon.png) [Crypto Party (Mirror)](http://cpartywvpihlabsy.onion/)
+
 # News
 * ![The New York Times](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nyt_icon.png) [The New York Times](https://www.nytimes3xbfgragh.onion/)
 * ![OnionWeb](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionweb_icon.png) [The Onion Web](http://onionwsoiu53xre32jwve7euacadvhprq2jytfttb55hrbo3execodad.onion/)
@@ -450,6 +455,10 @@ Verify Darkweb Vendors Via These Sites
 * ![DarkWebLink](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkweblink_icon.png) [Dark Web Link](http://dwlonion3o3pjqsl.onion/)
 * ![DNMLive](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/dnmlive_icon.png) [DNMLive](http://dnmliveahwgu7nvu.onion/)
 * ![Dimension X](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/dimensionx_icon.png) [Dimension X](http://uo57sqpw4h3g3y3w2j346vxidgcv2iwfaxeyt3ww3tzkj2i5k7a5tpqd.onion/)
+* ![DeepWebFeed](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/deepwebfeed_icon.png) [Deep Web Feed](http://deepfeedingbliob.onion/)
+* ![OnionNews](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Onion News](http://newsiiwanaduqpre.onion/)
+* ![OnionNews](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Onion News (Mirror)](http://t4is3dhdc2jd4yhw.onion/)
+* ![Soylent News](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/soylent_icon.png) [Soylent News](http://7rmath4ro2of2a42.onion/)
 
 # Miscellaneous
 
