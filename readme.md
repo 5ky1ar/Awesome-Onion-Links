@@ -439,6 +439,7 @@ Verify Darkweb Vendors Via These Sites
 * ![Dan Luu](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Dan Luu's Blog (Clearweb)](https://danluu.com/)
 * ![Julia Evans](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/juliaevans_icon.png) [Julia Evan's Blog (Clearweb)](https://jvns.ca/)
 * ![CodingHorror](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/codinghorror_icon.png) [Jeff Atwood's Blog - Coding Horror (Clearweb)](https://blog.codinghorror.com/)
+* ![Phrozen](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/phrozen_icon.png) [Phrozen (Clearweb)](https://www.phrozen.io/)
 
 # News
 * ![The New York Times](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nyt_icon.png) [The New York Times](https://www.nytimes3xbfgragh.onion/)
