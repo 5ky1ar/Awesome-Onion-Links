@@ -163,6 +163,8 @@ sites that help people avoid scams on the dark web, as they are VERY common
 services that allow you to find .onion sites, just like google would on the clearweb
 * ![Ahmia](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ahmia_icon.png) [Ahmia](http://msydqstlz2kzerdg.onion/)
 * ![Ahmia](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ahmia_icon.png) [Ahmia (Clearweb)](https://ahmia.fi/)
+* ![BTDigg](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/btdigg_icon.png) [BTDigg](http://btdiggwzoyrwwbiv.onion/)
+* ![BTDigg](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/btdigg_icon.png) [BTDigg (Clearweb)](https://btdig.com/)
 * ![Candle](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/candle_icon.png) [Candle](http://gjobqjj7wyczbqie.onion/)
 * ![Dark Web Links](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkweblinks_icon.png) [Dark Web Links](http://jdpskjmgy6kk4urv.onion/)
 * ![DuckDuckGo](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/duckduckgo_icon.png) [DuckDuckGo](https://3g2upl4pq6kufc4m.onion/)
