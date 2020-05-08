@@ -66,6 +66,11 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Polish / Polski](#polish--polski)
   * [Finnish / Suomi](#finnish--suomi)
   * [Swedish / Svenska](#swedish--svenska)
+  * [Dutch / Nederlands](#dutch--nederlands)
+* [Unknown](#unknown)
+* [Broken Links](#broken-links)
+  * [Broken](#broken)
+  * [Seized](#seized)
 * [JavaScript Bookmarks](#javascript-bookmarks)
 * [Donate](#donate)
 
@@ -420,6 +425,8 @@ Verify Darkweb Vendors Via These Sites
 * ![Envoy](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Envoy](http://envoys5appps3bin.onion/)
 * ![Hermes](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Hermes](http://hermesibuzda3rtv.onion/)
 * ![Suprbay](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Suprbay](http://suprbayoubiexnmp.onion/)
+* ![HM](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hm_icon.png) [HM](http://wtj5psom5zufu4yo.onion/)
+* ![AnonGTS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/anongts_icon.png) [AnonGTS](http://ocu3errhpxppmwpr.onion/)
 * ![Hub](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hub_icon.png) [The Hub Link List (v2 Mirror)](http://thehub7xbw4dc5r2.onion/)
 * ![Hub](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hub_icon.png) [The Hub Link List (v3 Mirror)](http://thehubpkeu7x6ddq5tc4gali6ldsi4ly6bqlhsid7pztwhbirahu6vqd.onion/)
 * ![Hub](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hub_icon.png) [The Hub Forum (Mirror 1)](http://thehubpkeu7x6ddq5tc4gali6ldsi4ly6bqlhsid7pztwhbirahu6vqd.onion/)
@@ -526,6 +533,17 @@ Verify Darkweb Vendors Via These Sites
 ## Swedish / Svenska
 * ![KognitionsKyrkan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cognitive_icon.png) [Kognitions Kyrkan](https://www.kognitionskyrkan.nu/)
 * ![Moral](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/moral_icon.png) [Moral](https://web.archive.org/web/20180705232420/http://moral.nu/)
+
+## Dutch / Nederlands
+* ![Tweakers](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tweakers_icon.png) [Tweakers](http://2arj33oil5dbrpyu.onion/)
+
+# Unknown
+* ![CentralShop](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/centralshop_icon.png) [CentralShop (Invite Only)](http://qhd6aon2fyjjan4e.onion/)
+
+# Broken Links
+## Broken
+
+## Seized
 
 # Javascript Bookmarks
 these are some javascript bookmarks that work with the Tor Browser
