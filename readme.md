@@ -323,6 +323,16 @@ Verify Darkweb Vendors Via These Sites
 * ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 4)](http://rgamajuhd5kirb7ppuczu64gqhcdimdv7owbknin7tjypx557hhg2xyd.onion/)
 * ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 5)](http://3uv2nhqozxfun2gxvdg6srqobkk7wobawv7d3dkxiz65wkw2ig3vhqad.onion/)
 * ![Metropolis](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/metropolis_icon.png) [Metropolis Market](http://p5iib2dirlbm5zuizzupmoidm43s6qoyfa3vas5xjrgja4lxapdr22yd.onion/)
+* ![VanillaSurf](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 1)](http://pz6vxxda6k7dp56edb64lmd7q6gb2ram3vyksdcvdeyc74r3uod7zeyd.onion/)
+* ![VanillaSurf](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 2)](http://bp3mm7tdfa4ft2ucjlqiu3w2hkibsm4cpg3hxyoak4oer5gzdzczjwad.onion/)
+* ![VanillaSurf](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 3)](http://5w2u7gtsjg4nu7i4ya6owvadyblsgjsmvrark6g26yglzg6v5b55tsqd.onion/)
+* ![VanillaSurf](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 4)](http://zoe4mqxk6zy3ycgy7tlkrchaqmw3gpxv65hfuhztlshrm2hfnitgoeyd.onion/)
+* ![VanillaSurf](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 5)](http://ylqod3ehjtbvxia3ij33mgcwqgabhpxc3iaty5w73lt6noo7ybw7fuqd.onion/)
+* ![VanillaSurf](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 6)](http://iegsccfx4waxcnhygotbu7i3a4divrlj7xuqbu5lda5o5krr4tyfshyd.onion/)
+* ![VanillaSurf](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 7)](http://fp7bzhthb3sqlyk5vyridxhy3at7xzukoicz27j4xkotooxcmmu4yeyd.onion/)
+* ![VanillaSurf](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 8)](http://d5woreuky65a4rkyuioz2sdckxmmmi4ke3yjjorw6e7cr2r3vmmi2kyd.onion/)
+* ![VanillaSurf](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 9)](http://zgr4w7undatjwh33jdg62nqlrugq7tcdgqidnawvrycguf3agjpj7kqd.onion/)
+* ![VanillaSurf](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 10)](http://3xtlctto7succncmyzh567ltt2cwfvh4uwewj3uv63wftayo34jw6ryd.onion/)
 
 ## Pharmacies
 * ![24PPC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/24hrsppc_icon.png) [24 Hours PPC](http://2c5whdbcb6m2c2xx.onion/)
