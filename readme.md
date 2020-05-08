@@ -37,6 +37,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Crytocurrency](#crytocurrency)
 * [Commercial Services](#commercial-services)
   * [Drugs](#drugs)
+  * [Pharmacies](#pharmacies)
   * [Electronics](#electronics)
   * [Multipurpose](#multipurpose)
 * [Non-Commercial Services](#non-commercial-services)
@@ -321,6 +322,9 @@ Verify Darkweb Vendors Via These Sites
 * ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 4)](http://rgamajuhd5kirb7ppuczu64gqhcdimdv7owbknin7tjypx557hhg2xyd.onion/)
 * ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 5)](http://3uv2nhqozxfun2gxvdg6srqobkk7wobawv7d3dkxiz65wkw2ig3vhqad.onion/)
 * ![Metropolis](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/metropolis_icon.png) [Metropolis Market](http://p5iib2dirlbm5zuizzupmoidm43s6qoyfa3vas5xjrgja4lxapdr22yd.onion/)
+
+## Pharmacies
+* ![24PPC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/24hrsppc_icon.png) [24 Hours PPC](http://2c5whdbcb6m2c2xx.onion/)
 
 ## Electronics
 * ![Z33 Shop](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/z33shop_icon.png) [Z33 Shop](http://2wkwv7m4hetvqo3d.onion/)
