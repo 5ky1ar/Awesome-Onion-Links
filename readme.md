@@ -37,6 +37,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Crytocurrency](#crytocurrency)
 * [Commercial Services](#commercial-services)
   * [Drugs](#drugs)
+  * [Electronics](#electronics)
   * [Multipurpose](#multipurpose)
 * [Non-Commercial Services](#non-commercial-services)
   * [Email](#email)
@@ -315,6 +316,11 @@ Verify Darkweb Vendors Via These Sites
 * ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 4)](http://rgamajuhd5kirb7ppuczu64gqhcdimdv7owbknin7tjypx557hhg2xyd.onion/)
 * ![DarkMarket](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 5)](http://3uv2nhqozxfun2gxvdg6srqobkk7wobawv7d3dkxiz65wkw2ig3vhqad.onion/)
 * ![Metropolis](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/metropolis_icon.png) [Metropolis Market](http://p5iib2dirlbm5zuizzupmoidm43s6qoyfa3vas5xjrgja4lxapdr22yd.onion/)
+
+## Electronics
+* [Z33 Shop](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/z33shop_icon.png) [Z33 Shop](http://2wkwv7m4hetvqo3d.onion/)
+* [Apples 4 BTC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/apple4btc_icon.png) [Apples 4 Bitcoin](http://tfwdi3izigxllure.onion/)
+* [Mobile Store](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/mobilestore_icon.png) [Mobile Store](http://mobil7rab6nuf7vx.onion/)
 
 ## Multipurpose
 * ![The Brotherhood](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/brotherhood_icon.png) [The Brotherhood](http://brohoodahjzxriv7.onion/)
