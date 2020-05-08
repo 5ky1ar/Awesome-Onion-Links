@@ -335,7 +335,7 @@ Verify Darkweb Vendors Via These Sites
 * ![VanillaSurf](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 10)](http://3xtlctto7succncmyzh567ltt2cwfvh4uwewj3uv63wftayo34jw6ryd.onion/)
 
 ## Pharmacies
-* ![24HoursPPC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/24hrsppc_icon.png) [24 Hours PPC](http://2c5whdbcb6m2c2xx.onion/)
+* ![24HoursPPC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/24hoursppc_icon.png) [24 Hours PPC](http://2c5whdbcb6m2c2xx.onion/)
 
 ## Electronics
 * ![Z33 Shop](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/z33shop_icon.png) [Z33 Shop](http://2wkwv7m4hetvqo3d.onion/)
