@@ -45,6 +45,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Hosting](#hosting)
   * [File Sharing](#file-sharing)
   * [Security And Privacy](#security-and-privacy)
+  * [Music](#music)
   * [Multipurpose](#multipurpose-1)
 * [Social](#social)
   * [Networks](#networks)
@@ -409,6 +410,10 @@ Verify Darkweb Vendors Via These Sites
 * ![AspireCrypt](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [AspireCrypt](http://j36f2zfz7v3neai7.onion/)
 * ![PrivacyBox](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [PrivacyBox](http://j36f2zfz7v3neai7.onion/)
 
+## Music
+* ![Deep Web](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/deepwebradio_icon.png) [Deep Web Radio](http://76qugh5bey5gum7l.onion/)
+* ![HFS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hfs_icon.png) [HFS](http://wuvdsbmbwyjzsgei.onion/)
+
 ## Multipurpose
 * ![Volatile](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/volatile_icon.png) [Volatile](http://vola7ileiax4ueow.onion/)
 * ![KLOS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Kaizushi's Little Onion Service](http://kaizushih5iec2mxohpvbt5uaapqdnbluaasa2cmsrrjtwrbx46cnaid.onion/)
@@ -417,7 +422,7 @@ Verify Darkweb Vendors Via These Sites
 # Social
 
 ## Networks
-* ![Dread](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/dread_icon.png) [Dread](http://dreadditevelidot.onion/)
+* ![Dread](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/dread_icon.png) [Dread](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/)
 * ![Facebook](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/facebook_icon.png) [Facebook](https://www.facebookcorewwwi.onion/)
 * ![Connect](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/connect_icon.png) [Connect](http://connectkjsazkwud.onion/)
 * ![Galaxy3](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/galaxy3_icon.png) [Galaxy3](http://galaxy3m2mn5iqtn.onion/)
