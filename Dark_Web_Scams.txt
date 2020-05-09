@@ -6,35 +6,23 @@
 !-------------------------------------------------------------!
 !-------------------------- Dark.Fail ------------------------!
 !-------------------------------------------------------------!
-! Dark.Fail
 @@||darkfailllnkf4vf.onion
-! Darknet Live
 @@||darknet7rl4epe24.onion
 @@||darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion
-! Darknet Avengers
 @@||avengersdutyk3xf.onion
-! Dread
 @@||dreadditevelidot.onion
-! Envoy Forum
 @@||envoys5appps3bin.onion
-! Kilos
 @@||dnmugu4755642434.onion
-! The Hub Forum
 @@||thehub7xbw4dc5r2.onion
-! The Majestic
 @@||kznam6basvxxdcpf.onion
 @@||nzlbyrcvvqtrkxiu.onion
 @@||p6afzcaghpulzr5r.onion
 @@||2oywvwmtzdelmiei.onion
 @@||talismanrestz7mr.onion
-! Torum
 @@||torum6uvof666pzw.onion
 @@||torum43tajnrxritn4iumy75giwb5yfw6cjq2czjikhtcac67tfif2yd.onion
-! Empire
 @@||vg43c6zaobirjlm3g25v7l7qw5huxuom2b5ksdh247fz3c2uv4gsnzad.onion
-! Monopoly Market
 @@||monopolyberbucxu.onion
-! White House Market
 @@||zefmozbmelwjc4elhoim2q3t3y4z3yoodczvqagtquvwzhx763f4jtyd.onion
 @@||auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion
 @@||7yipwxdv5cfdjfpjztiz7sv2jlzzjuepmxy4mtlvuaojejwhg3zhliqd.onion
@@ -43,61 +31,42 @@
 @@||flkzk2qjqe2yo5etsb7klxjihgrj7bi54k3iscccvkk7xbkif6x5etad.onion
 @@||d3vkr3i737xplkyqto2attd2wruprpzeeroxuf7xkuehafdfitzynhid.onion
 @@||voh5342e6nnxieprcsafwk5rfphgfbrbq2ihftfzrjsbndmb6u5jx4id.onion
-! DarkMarket
 @@||darkevuygggqkqhq.onion
 @@||darkmarkmxukc633.onion
 @@||darkmarkhbh2xyel.onion
 @@||darkmarkl7f5hz5f.onion
-! Tor Market
 @@||tt2mopgckifmberr.onion
-! Avaris Market
 @@||fv3736pt5xix6sc3vaqnmnnkiwsutgpem45wlgftjif7xuyg7t3p62qd.onion
 @@||eaalimnbtzku5a2jnynclke2cww6era2oyjet4ectljouofooexzqcqd.onion
 @@||ne27ipjaf5ao2kede3lrkiebskqaayjw323n35ecnfdush3jcuahmfyd.onion
 @@||irmxoj43mqxhsal7hxqjq3svuqpqrvgk7ya3bwgr7culzsefnk7jgwqd.onion
-! The Versus Project
 @@||4jglhfy7hndevfg6a6trutdrc23acofi7caso7pz3ngse5qkrcradhad.onion
 @@||h64sohccgf2jp2hlhkyfynmyoaq46yuptkoyoqbmrvzk4zjti6bxg6yd.onion
 @@||eoi3ey63kmh5m35bl2miqn7ewsqyidvpkldjjkid2avng5fd4ov4w2ad.onion
 @@||jiujfvropivzmaj6slgtfz5hljfrdk77elcg3np43zrnjrlolpbctjqd.onion
-! Cannahome
 @@||cannahome3ke3366.onion
 @@||cannahomekql6hhg.onion
-! Cannazon Market
 @@||cannazon4gbjluus.onion
 @@||sxwjdzct7jnoef7o.onion
-! Hydra
 @@||hydraruzxpnew4af.onion
-! Exploit.In
 @@||exploitinqx4sjro.onion
-! Sanwell
 @@||sanwellsr2fiwriu.onion
-! Tochka Git Repository
 @@||qxklmrhx7qkzais6.onion
-! Tochka Market
 @@||34n4am6fxu4dnv66.onion
 @@||pointgg344ghbo2s.onion
-! Verified Forum
 @@||verified2ebdpvms.onion
-! CanadaHQ
 @@||canadahq2lo3logs.onion
 @@||canadahqx53lcurj.onion
-! DarkBay
 @@||oh33m3pka6lvc2sb.onion
 @@||darkbayupenqdqvv.onion
 @@||bfc3czua5idp5d5y.onion
 @@||zwcgtqtdviw7gkbn.onion
-! Deutschland Im Deep Web Forum
 @@||germanyruvvy2tcw.onion
-! Grey Market
 @@||greymtqdzxqec5ox.onion
 @@||greymtjdnzgc2ok7.onion
 @@||grymktsp52wnz6ib.onion
-! UAS Service RDP
 @@||2x4tmsirlqvqmwdz.onion
-! Wannabuy RDP
 @@||wannabuyaynozvmz.onion
-! Yellow Brick Market
 @@||7wxzaxsqibuinpyc3muazc374glv32ve73jw6zf7q6bqtc4mfynsjjyd.onion
 @@||ck73ugjvx5a4wkhsmrfvwhlrq7evceovbsb7tvaxilpahybdokbyqcqd.onion
 @@||cahf7uieozj7tolvsygjynzutswn4eflnrzuczwroprve72ygt7kftid.onion
@@ -107,532 +76,286 @@
 @@||a7vxrkx7p3hcqgqfqdekl4r3qzhmkxfc6s5q54svtvg45k6jpkzs2byd.onion
 @@||sffd6slbwemqphhqqgrocw5ldmwgvjxpgjebxy342qec5g4wxd7myqqd.onion
 @@||uftnwdfzt3fhjjwlnr7m47xzueotmhzksqhq4i6buvz322xhuuerlgqd.onion
-! Wayaway
 @@||wayawaytcl3k66fl.onion
-! BBC
 @@||bbcnewsv2vjtpsuy.onion
-! Bitmessage Gateway
 @@||bitmailendavkbec.onion
-! Deutsche Welle
 @@||dwnewsvdyyiamwnp.onion
-! Pornhub
 @@||pornhubthbh7ap3u.onion
-! ProPublica
 @@||propub3r6espa33w.onion
-! Protonmail
 @@||protonirockerxow.onion
-! Riseup
 @@||nzh3fv6jc6jskki3.onion
 @@||j6uhdvbhz74oefxf.onion
 @@||cwoiopiifrlzcuos.onion
 @@||zsolxunfmbfuq7wf.onion
-! The Calyx Insitute (Jabber)
 @@||ijeeynrc6x2uy5ob.onion
-! The New York Times
 @@||nytimes3xbfgragh.onion
-! TorBox Email
 @@||torbox3uiot6wchz.onion
-! AgoraDesk
 @@||agoradeska6jfxpf.onio
-! LocalMonero.Co
 @@||localmonerogt7be.onion
-! The Tor Project
 @@||expyuzz4wqqyqhjn.onion
-! XMRGuide
 @@||xmrguide42y34onq.onion
-! ExpressVPN
 @@||expressobutiolem.onion
-! Crytostorm VPN
 @@||stormgm7blbk7odd.onion
-! IPredator VPN
 @@||fwtnuwekoeayj3s7.onion
-! Mullvad VPN
 @@||xcln5hkbriyklr6n.onion
-! Njal.La
 @@||njalladnspotetti.onion
-! Archive.Is
 @@||archivecaslytosk.onion
-! DuckDuckGo
 @@||3g2upl4pq6kufc4m.onion
-! Facebook
 @@||facebookcorewwwi.onion
-! KeyBase
 @@||fncuwbiisyh6ak3i.onion
 @@||keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion
-! Psychonaut Wiki
 @@||psychonaut3z5aoz.onion
-! 8chan
 @@||oxwugzccvk3dk6tj.onion
-! 8kun
 @@||jthnx5wyvjvzsxtu.onion
-! Endchan
 @@||s6424n4x4bsmqs27.onion
 @@||endchan5doxvprs5.onion
 @@||enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion
-! Elude Email
 @@||eludemaillhqfkh5.onion
-! Secmail
 @@||secmailw453j7piv.onion
-! CoinPayments
 @@||coinpaymtstgtibr.onion
-! SKS PGP Keyserver Tool
 @@||jirk5u4osbsr34t5.onion
-! The Priate Bay
 @@||suprbayoubiexnmp.onion
-! Torch Search
 @@||xmh57jrzrnw6insl.onion
-! WikiLeaks
 @@||wlchatc3pjwpli5r.onion
-! Chronos
 @@||chronosu3ulk3o3a.onion
-! Tape
 @@||tapeucwutvne7l5o.onion
-! National Police Of The Netherlands
 @@||politiepcvh42eav.onion
-! Central Intelligence Agency
 @@||ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion
-! The Northern California Illicit Digital Economy Task Force
 @@||ncidetf3j26mdtvf.onion
-! Dream Market's Partner
 @@||weroidjkazxqds2l.onion
 !-------------------------------------------------------------!
 !---------------------------- NoScam -------------------------!
 !-------------------------------------------------------------!
-! Stack Wolf's
 ||stackublfq5ipqlj.onion
-! Silk Road
 ||silkroad4n7fwsrw.onion
-! Kingdom Come
 ||sgkvfgvtxjzvbadm.onion
-! Bankor
 ||bankors4d5cdq2tq.onion
-! Plastic Market
 ||plasticzxmw4gepd.onion
-! Apple Market
 ||applekpoykqqdjo5.onion
-! Snov Market
 ||snovzruogrfrh252.onion
-! YES! Market
 ||oqrz7kprdoxd7734.onion
-! Bitcoin Escrow
 ||arcbaciyv5xwguic.onion
-! Tenebra
 ||3twqowj7hetz3dwf.onion
-! Card Shop
 ||vgw2tqqp622wbtm7.onion
-! On-Line Market
 ||y2vrbi2eg6hpghmt.onion
-! Shop Card
 ||hqcarderxnmfndxk.onion
-! Rosner Bank
 ||rosnerqw5bcwfpfb.onion
-! Horizon Store
 ||horizontjsecs65q.onion
-! Fusion Cards
 ||fusionvlc7cvltmy.onion
-! EU Benzos
 ||mlj4iyalawb2ve2u.onion
-! Emperor
 ||empererwidlf7kmb.onion
-! The Money Brothers
 ||moneytkfgglev7nr.onion
-! CC Kingdom
 ||cckingdomtmf7w7l.onion
-! Darkside
 ||dark73adlkrgr6u7.onion
-! Queen Galaxy
 ||queeniooaa7sziqo.onion
-! Credit Card Market
 ||gmarketmtv62pdkp.onion
-! Plastic Sharks
 ||sharkjo6ramnxc6s.onion
-! CCBay
 ||ccbay3yanmktpr3s.onion
-! CC Galaxy
 ||galaxyaonv32reim.onion
-! AltBay
 ||6yid7vhjltxgefhm.onion
-! Krush Market
 ||krushux2j2feimt6.onion
-! Lordpay
 ||lordpay3t52brqwf.onion
-! Queen Cash
 ||queencdcguevwedi.onion
-! PP&CC
 ||s7ccy6bman4zb6lh.onion
-! Football Money
 ||footballsge4ocq3.onion
-! Bit Escrow
 ||vqbintgn7d2l7z43.onion
-! Euphoric Oblivion
 ||prepaid3jdde64ro.onion
-! Choose Better
 ||choicecbtavv4cax.onion
-! European Leagues Fixed Matches
 ||matchfixube5iwgs.onion
-! XMatches
 ||xmatchesfmhuzgfb.onion
-! Guttenbergs Print
 ||gutprintbqe72yuy.onion
-! FakeNote Factory
 ||fakenotefzutekmq.onion
-! Counterfeits GBP
 ||gbpoundzv2ot73eh.onion
-! Money 4 Money
 ||mo4moybqbtmdex44.onion
-! Skimmed Cards
 ||777o6suetmexlesv.onion
-! MoneyMaster
 ||moneydtbosp6ygfx.onion
-! NobleCards
 ||rjye7v2fnxe5ou6o.onion
-! Black And White
 ||blackph5fuiz72bf.onion
-! Crypto Pump & Dump Bot
 ||pumpdumppqgxwu4k.onion
-! DW Gift Cards
 ||cww3ggjgpw56wter.onion
-! Paypal Plaza
 ||22ppp3cboaonwjwl.onion
-! MoneyMaster
 ||moneycvbr2ihsv3j.onion
-! Black And White Cards
 ||bnwcards4xuwihpj.onion
-! 1000x Your Bitcoins In Only 24 Hours
 ||btcmultiimolu2fo.onion
-!! CCPPShop
 ||ccppshopsndysr45.onion
-! CCSale
 ||ccsalewb7nujwnks.onion
-! Cloned Cards
 ||clonedusbmna6mmw.onion
-! CloneXP
 ||clonexp3j3qdjdvp.onion
-! Hootmixer
 ||tei5mg2z36lyq7jd.onion
-! CC Vendor
 ||cvendorzr7w3gdtq.onion
-! Financial Oasis
 ||financo6ytrzaoqg.onion
-! Bisscrow
 ||jeuzg7g3xkslpf6k.onion
-! Under Market
 ||un62d2ywi33bho53.onion
-! EasyCoin
 ||easycoinsayj7p5l.onion
-! Cloned CC
 ||2k3wty376idyonjt.onion
-! SafePay Escrow
 ||safepayjlz76pnix.onion
-! Global Trading Forum
 ||qr5rw75na7gipe62.onion
-! Queen Of Cards
 ||efb6om7tze6aab25.onion
-! Bucephalus
 ||bucepafkui6lyblt.onion
-! Accounts Of Paypal
 ||7uxohh5bat7kouex.onion
-! Bit Cards
 ||bitcardsqucnyfv2.onion
-! Krypto Paypal
 ||kryptocg6rptq3wd.onion
-! Uncensored Hosting
 ||dcm6xhlrfyaek4si.onion
-! 1A Quality Credit Cards
 ||2222ppclgy2amp23.onion
-! CC Budies
 ||r26liax2opq7knn3.onion
-! Blackhat Lounge Market
 ||32orihrbrhpk5x6o.onion
-! USJUD
 ||usjudr3c6ez6tesi.onion
-! Delta Market
 ||htqhl25peesc3lrm.onion
-! Medusa Market
 ||medusas6rqee6x6e.onion
-! A-Z World
 ||azworldjqhsr4pd5.onion
-! Best Fixed Match
 ||hbetshipq5yhhrsd.onion
-! Multi Escrow
 ||mesc5wozvbdqbh2y.onion
-! E-Shop
 ||sn2vwdleom47kzqp.onion
-! Black & White Cards
 ||ju5iiyel2glsu3mh.onion
-! Dark Sea Market
 ||amgic2ym32odxor2.onion
-! Escrow Service
 ||escrowkaw72yld57.onion
-! Underground Technology
 ||ugtech6yot3p5n3u.onion
-! Freedom Finance
 ||cashoutxdrebmlj2.onion
 !-------------------------------------------------------------!
 !------------------------- Tor Scam List ---------------------!
 !-------------------------------------------------------------!
-! Tor Scam List Fake Clone
 ||trnf7mcbf6ko6h6w.onion
-! 1A Quality Credit Cards Store
 ||64fgu54a3tlsgptx.onion
-! MoneyBingo
 ||uqzht2vfz5moumdd.onion
-! EasyCash
 ||cr567grrbfpsyrz6.onion
-! Cash God
 ||cashgodr53umth4z.onion
-! MantiCore
 ||fp5xenfxy7o5a2vq.onion
-! HiddenTrove
 ||owsb6hydgnalalht.onion
-! Welfare
 ||nlsx24j23uyyqct7.onion
-! NetAuth
 ||netauth3qialu2ha.onion
-! Bitcoin Escrow
 ||escrow43eaperqie.onion
-! BMG
 ||5xxqhn7qbtug7cag.onion
-! YES! Market
 ||sf6pmq4fur5c22hu.onion
-! Apple Shop
 ||h4y5xramfiooe3mz.onion
-! Apple Merch
 ||applei7nkshrsnih.onion
-! Legends' Best Shop
 ||bestshop3neaglxk.onion
-! Alibaba Market
 ||tbaown3pd2sfidwx.onion
-! Maghreb
 ||mghreb4l5hdhiytu.onion
-! ThePromisedLand
 ||stppd5as5x4hxs45.onion
-! SafePay Escrow
 ||safepayab3enffl2.onion
-! Dumps Market
 ||marketdftsaewyfx.onion
-! The Green Machine
 ||zzq7gpluliw6iq7l.onion
-! Midland City
 ||midcity7ccxtrzhn.onion
-! Counterfeiting Center
 ||countfe766hqe4qd.onion
-! Lima
 ||limaconzruthefg4.onion
-! Torcard
 ||aqdkw4qjwponmlt3.onion
-! Best Shop
 ||bestshop5zc7t3mf.onion
-! New Shit
 ||newshit5g5lc5coc.onion
-! 7 Years In Tibet
 ||ppccpzam4nurujzv.onion
-! PayPal&CC
 ||xsqp76ka66qgue2s.onion
-! Drugs Store
 ||w2k5fbvvlfoi62tw.onion
-! Top BTC Project
 ||topbtc.torpress2sarn7xw.onion
-! Double Your BTC
 ||jmkxdr4djc3cpsei.onion
-! Cash Machine
 ||hcutffpecnc44vef.onion
-! NLGrowers
 ||25ffhnaechrbzwf3.onion
-! PP Cards With Pin
 ||ppcwp.torpress2sarn7xw.onion
-! Counterfeit USD
 ||qkj4drtgvpm7eecl.onion
-! EasyCoin
 ||ts4cwattzgsiitv7.onion
-! Freedom Finance
 ||cashoutsdkyirll4.onion
-! EasyVisa
 ||easyvisa5i67p2hc.onion
-! Hidden Wallet
 ||nql7pv7k32nnqor2.onion
-! CCSeller
 ||rtwtyinmq4wzzl6d.onion
-! Low Balance Cards
 ||65px7xq64qrib2fx.onion
-! Amazon Giftcards
 ||nh5hqktdhe2gogsb.onion
-! Real Seller Cards
 ||ab2moc6ot2wkvua7.onion
-! Cards High Balance
 ||djn4mhmbbqwjiq2v.onion
-! Agartha
 ||agarthazdeeoph2a.onion
-! E-Shopper
 ||o6maqsjp23l2i45w.onion
-! Safescrow
 ||mjturxqbtbncbv6i.onion
-! LECards
 ||lecards.torpress2sarn7xw.onion
-! Underground Technology
 ||ugtechlr4a6x5eab.onion
 ||ugtech3haoipeh3s.onion
-! Peoples Drug Store
 ||newpdsuslmzqazvr.onion
-! BankRoll
 ||bankrollc2qbvqn3.onion
-! BitCards
 ||avituul2qflk55yd.onion
-! Bitcoin Bank of Switzerland
 ||ubivqf757ysk53t7.onion
-! AppleWorld
 ||35flmpspwpnarbos.onion
-! CashCow
 ||upv3wvf6sikfiluy.onion
-! Premium Cards
 ||emufy7tn3dhg45wp.onion
-Trusted Gun Shop
 ||gunshopzpqbe4kgl.onion
-! OnionBank
 ||bankcrpbhxfnmmd6.onion
-! Silkcard
 ||3xyzrjb72jzmshoq.onion
-! Steriod King
 ||xdsa5xcrrrxxxolc.onion
-! Fusion Cards
 ||fusifrndcjrcewvm.onion
-! FraudFox
 ||eushopsprwnxudic.onion
-! DreamWeavers
 ||dreamrvfuqrpzn4q.onion
-! Rocky Market
 ||jlshyuiizag3m4hp.onion
-! CC Shop
 ||ccshophv5gxsge6o.onion
-! MultiEscrow
 ||mescrowbshprfzgg.onion
-! Deutsche Bank
 ||debankckcgq2exv5.onion
-! Amazon Gift Cards
 ||gc4youec2ulsdkbs.onion
-! DrugMarket
 ||4yjes6zfucnh7vcj.onion
-! The CC Buddies
 ||4lq4prlyxiifarmj.onion
-! Cash Company
 ||3cash3sze3jcvvox.onion
-! PayPal & CC
 ||or7amhxzp7jc77xr.onion
 ||5jqvh54jxaftdav6.onion
-! 100x Your Bitcoins
 ||xduacuj2tz4z23l6.onion
 ||multidxltunesmv6.onion
-! Empire Market
 ||empirembpcpuelxd.onion
 ||mikffhylznwnc25o.onion
-! CCBay
 ||ccbay2jxd5dcobl2.onion
 ||ccbay4wqgbxa2igl.onion
 ||ccbay5gv4az6ewgv.onion
-! Apple Shop
 ||fzbsxc4xa4w4tgzufa3knvuerjhmgvbnrd7igye5ot5mfywuiu3h3bad.onion
-! New Money
 ||zvvtba2a37mcydnntjkzy26lrv3y5elfyotr4glujkaaanyz5a4uerqd.onion
-! Mr.Millionaire's
 ||avn3xbtzud7bp75pjl42px6xkpj5vyiymnnz4htonlzcnm2uwcfcflyd.onion
-! Yellow Brick
 ||ck73ugjvx5a4wkhsmrfvwhlrq7evceovbsb7tvaxilpahybdokbyqcqd.onion
-! Bitcoin Generator
 ||k35yauzkptmemr5nbwhyigihw2tfcytbvm4fq2yzfzyzi2nwh7ty7xyd.onion
 !-------------------------------------------------------------!
 !----------------------- Tor Scam List v2 --------------------!
 !-------------------------------------------------------------!
-! 联合中文担保交易市场
 ||cn56mmvuv6toexq3.onion
-! Team Premium
 ||6thhimkhby4az3vz.onion
-! Carding
 ||bfgsu4uktbrbue3p.onion
-! Premium Cards
 ||slwc4j5wkn3yyo5j.onion
-! Financial Oasis
 ||oazis64odog3oorh.onion
-! Apple Shop
 ||applexgrqv3ihh6f.onion
-! Shop Card
 ||cmhqrgwwpaxcquxp.onion
-! OnionWallet
 ||onionw75v3imttfa.onion
-! Counterfeiting Center
 ||countercedyd3fbc.onion
-! The Armory
 ||armoryetem5mclq4.onion
-! MultiEscrow
 ||mescrowvbbfqihed.onion
-! RockSolid Escrow
 ||rsescrowtybxf43d.onion
-! Bitcoins Escrow
 ||escrow26gdxwbzjb.onion
-! DarkMamba
 ||darkma35pkdraq2b.onion
-! Rent A Hacker
 ||hacker3r3cbxxbni.onion
-! 18th Street Gang
 ||h4gca3vb6v37awux.onion
-! Under Market
 ||z57whuq7jaqgmh6d.onion
-! WalletCards
 ||waltcard74gwxkwj.onion
 ||gdaqpaukrkqwjop6.onion
 ||undrol7rt4yu5zzd.onion
-! The PayPal Cent
 ||paypalmkwfrikwlw.onion
 ||ppcentrend4erspk.onion
 ||nare7pqnmnojs2pg.onion
-! Silk Road
 ||silkroad7rn2puhj.onion
 ||silkdljpnclgdc2eecu5k3b55d5nikky7r4ljmpgapr5rnzeupsgbzid.onion
-! Imperial
 ||zrgv5miyjb4pdxaxyicbkp74hdxjdks44ahls5qiqr7puwa7qgjz45qd.onion
-! BitHacker
 ||ca3sii6jljzxqtwa4y3tunww5nfevwolrhn3cowzoobpciofldkdksqd.onion
-! King Cards
 ||pdixgp5s27jkd26pc2oenismtlumi7cbkywanlzvf62kcau6ro4hbsad.onion
-! RickWallets
 ||vk5akdnqjyupp34lpz65oj4pomlu3jxz663tp4xmxnz22crt2qpojtid.onion
-! SoS Handle
 ||7j5c24itghnglnodmlg76j6dxo64hn5sgtrm7q7z4pv4hoexemr2pmid.onion
-! Cash Cards
 ||qeybpwjb7qn2ws2dein5zvsqgxral3shzsobgypzom4oihqfdlvl4uid.onion
 ||wth474sv6ct4glwiowjipvr6ydeg6tbxlenxqibe5vno7ivmeqlumnid.onion
 !-------------------------------------------------------------!
 !--------------------------- Tor Links -----------------------!
 !-------------------------------------------------------------!
-! Hidden Marketplace
 ||hidden24vowyrcic.onion
-! Millionaire Exclusive Club
 ||tj2djlce6qtevcai.onion
-! Buy Real Money
 ||stacvvulbayktqlf.onion
-! Tenebra Marketplace
 ||vzmvmmaldx3h7vx6.onion
-! BitHacker
 ||bithackm5geoeeuu.onion
-! Midnight Market
 ||midnightkt43f3fk.onion
-! Pax Romana
 ||paxromanadfudhte.onion
-! Light Money
 ||lmoney4rw45hrqfm.onion
-! El Cub
 ||zw5atj5ckiw6rh46.onion
-! Alpha Cards
 ||alphac5biyz7adb4.onion
-! DeepMarket
 ||deepmartyqzffl5n.onion
 ||deepmart55jnyjvd.onion
 ||deepmarbql25sagu.onion
-! CreditCardMixer
 ||cccentersemzrqne.onion
 ||ccenter3wl2ojn7r.onion
 ||cccetxnsai5dfm3t.onion
 ||5p32k6mwxbmvqbgwepssmuxluiodr5qtulw73pe3yekkbymk6hwcujyd.onion
-! Imperial / One Stop Shop
 ||ksotfkmgxgcoj4tp.onion
 ||p4mvyqmtczqnor5k.onion
 ||yuul2gjh6lntsrya.onion
@@ -641,17 +364,13 @@ Trusted Gun Shop
 ||imperia6tjbaa2lt.onion
 ||hhhzuo2aqjb6qzlk.onion
 ||imperiali5phcpa3.onion
-||yuul2gjh6lntsrya.onion
 !-------------------------------------------------------------!
 !--------------------------- UnderDir ------------------------!
 !-------------------------------------------------------------!
-! UnderDir Fake Clones
 ||underdj5pebcmfqf.onion
 ||undedfdvagdsov4z.onion
 ||undeqvfyhefptjtc.onion
-! Hidden Wiki Fake Clones
 ||z5taguvepvuevyp3.onion
-! LinkDirection Fake Clones
 ||linkdih75f4psumn.onion
 ||linkdchaw32pg5ju.onion
 ||linkdt43zhpn4zic.onion
@@ -660,7 +379,6 @@ Trusted Gun Shop
 ||linkd4izufb4qzqm.onion
 ||linkd3q4qudvpctn.onion
 ||linkd4j64dc4grf2.onion
-! Dir Fake Clones
 ||auutwvpmfqfsmcen.onion
 ||4om2jscnc2e3vpie.onion
 ||jwyngqi6njcgsgbb.onion
@@ -673,188 +391,306 @@ Trusted Gun Shop
 ||2222222mienbekqf.onion
 ||2222222wxkqnjz25.onion
 ||22222225lbh45mmt.onion
-! Chinese Hidden Answers Knockoff "暗网问道"
 ||jvhp2iv7vfwuurva.onion
-! Hack Facebook Account
 ||hackfbqeihaagbff.onion
-! Drugs
 ||2rgxdk7qtawadebofm6jurur5v5ee26o23uwvbmit23uhsledpy6cbyd.onion
-! Empire Market Fake Clone
 ||5crsrbqukiefmkrv.onion
-! Free Bitcoin
 ||3idjhshoxzqm5nuz.onion
-! Pre-Shredded Cash
 ||3ljugjydhuwr6fux.onion
-! Sell Passport Forge Master
 ||fobgemanrtpvbxok.onion
-! 100x Your Bitcoins In 24 Hours
 ||22222222gkxknocu.onion
 ||37nj3wqjq4pxt6tgb4yfhejgd5k6yhfu3wp7dtbi6hgsdxkpj6rhhsid.onion
-! NorthwestNuggets Phishing Clone
 ||3zopytflp2tat7aq.onion
-! Miscellaneous
 ||3qjxmxweyvpnfczm.onion
 ||zkqsx2wbxusrefjw.onion
 ||iinjakjk2ydhj7al.onion
 !-------------------------------------------------------------!
 !---------------------- Dark Web Magazine --------------------!
 !-------------------------------------------------------------!
-! DeepMart
 ||deepmarticgyp6if.onion
 ||deepmartrigqwenz.onion
 ||deepmartmfvbijza.onion
 ||deepmarbaaaiwpph.onion
 ||deepmar57fbonfiw.onion
-! Hidden Markerplace
 ||hiddenmarketplace.org
 ||hidden24tha4plsx.onion
 ||hiddenmark43cbxd.onion
 ||hiddenmagmteisz2.onion
 ||hidden24qtvlgaxp.onion
-! Popbuy Market
 ||nu5grt6sqv4imico.onion
 ||nu5grt6sxtkep757.onion
-! Tenebra Marketplace
 ||tenebra5nlfxplf5.onion
 ||d6icqld2aunwupgp.onion
-! UnderMarket 2.0
 ||2tq6nz2a3ijn4yhh.onion
-! UnderMarket Status Page
 ||statv2gccyh7roto.onion
-! Ali Marketplace
 ||alimic5a3ecaeywv.onion
-! New Era Market
 ||neweram2ko7qacon.onion
-! StealthBay
 ||6qdvcew6jhxifqge.onion
-! BitMarket
 ||bmarketyyx64v54x.onion
-! Card The World Marketplace
 ||lg7iwjj3ajzz2cmd.onion
-! Gift Card Mania
 ||a534p6bdxbf2niq7.onion
-! HQCards
 ||hqcards3mrbxrfak.onion
-! BitCards
 ||oz2l3ihpg6j5vxkb.onion
-! EasyCards
 ||hlpg5p2rc3uou7wr.onion
-! Counterfeiting Center
 ||c2qzddqjccyy4qem.onion
-! FastTransfers
 ||2ljfiwqcup2kc3u3.onion
-! Black Shop
 ||ebkjlvge7furmo6y.onion
-! Buy Real Money
 ||bnrusds5aw6b3iul.onion
-! Fast Money
 ||tj2dl4f4piiyke4i.onion
-! Alpha Cards
 ||alphaca4pxfzfyvm.onion
-! DashTor
 ||xilliayhoiuv5qmk.onion
-! VendorPal
 ||2pneiouz2aj27kjs.onion
-! PayPal Bazaar
 ||itilyljv4vf6qgqm.onion
-! Hidden Financial Services
 ||lox7ibfj7e3pw3c6.onion
-! Cash Cards
 ||cashyjun2yp4tiub.onion
-! Shop Cards
 ||fmp2arn5ftrxzoba.onion
-! CaptitalVentures
 ||prepaidojhtmroco.onion
-! BlackMarket CC
 ||ub2fkkeeyl3jgwwz.onion
-! Hidden Cards
 ||o3fkhst6gymb6duo.onion
-! 21 Dump Street
 ||carddumpa36spoya.onion
-! JokerCCs
 ||jokerooxzda6ruf4.onion
-! TCW
 ||caworldwyrxypvqm.onion
-! ZenithCC
 ||zenithccalwhzy26.onion
-! ECash Cards
 ||ecashpkvsc2qroz6.onion
-! DeepPoint
 ||deepointokustfwk.onion
-! Easy Debit Cards
 ||qdoqihbtet5jt5qx.onion
-! Black Store
 ||blackccyuvti57v7.onion
-! Dark Shop
 ||dark2w4t34jlb5nt.onion
-! EasyCards
 ||j7cd2za5dxcw4uan.onion
-! Shop Card
 ||cardshopffielsxi.onion
-! Bazaar Plastic
 ||darkrawbz4fkib2c.onion
-! LordPay
 ||lordpg3nluytdenw.onion
-! Traveler
 ||travelziverr35bk.onion
-! PayPal Account
 ||paypal6qqdpo2jhc.onion
-! FastPayPal
 ||paypalp2l6xiemsy.onion
-! EasyPayPal
 ||easyppslbft37xq7.onion
-! Top Sell
 ||45l7ejfvg6tocxjg.onion
-! TorCard
 ||ioqkxhnm3uivbtth.onion
-! CCDump
 ||22222222ss554wof.onion
-! Automated Store
 ||g5b5erkjomqen6nm.onion
-! A Cheap PayPal Store
 ||22227zvkbytnwlrt.onion
-! EGift Kingz
 ||7yrwexuvl2horzr2.onion
-! Amazon Gift Cards
 ||buygc467q5ez2fg7.onion
-! Premium Land Credit Cards Market
-||debitcards.torpress2sarn7xw.onion.onion
-! VendorCC
+||debitcards.torpress2sarn7xw.onion
 ||vend2qz3bva3jhol.onion
 ||vendor5in7aid2nb.onion
-! Credit Card Center
 ||cccenterjb27ubnm.onion
 ||cccenterse4ofwp6.onion
 ||3223onhiaeolkhbe.onion
 ||3s7hfvharztoevy5zpbq6jk7rzvwvvviqz45v6cxq2kovq4yfxxq4sqd.onion
-! Estore Market
 ||aestjoovxnehn5mlcnhvmyarl3oyozmqbxvmtppl65j67jazz5yu66qd.onion
-! Prica Market
 ||7g6osvevkboz5ce3ytn42tefk2bzrzp53ugqapdrzwcjhuxfv6yup7yd.onion
-! Tor66
 ||7b4vsorl3pjq5f4fqy2dmsqlbgqy7gbgb7wvnggjfpcudmbh4hhkawad.onion
-! Ruddy Market
 ||mzeh627q7bmzsoxozampnsstkfnby2zvm3y73qcsy43n3eaveehqjoyd.onion
-! Tor Top Market
 ||w7syjbv4tqzudakassr6yzuxsmtdovihlwedwzvz4x7a7tzpjgtoqjqd.onion
-! Imperial Market
 ||srwmltrmx5uy3j74adakpixaptlr2lie42cshrlglsyy2mml24hcs4id.onion
-! BitHacker
 ||4jnwltgnjvb44xh4jzfqe2tlq37bkyknnnhpx4ia4yyz5qgbpamvntqd.onion
-! Best CC's
 ||bestcc5xpfjihry2nlc25pj5ujxzrezrjh4egzugvs3u2eopjk5u5zid.onion
-! Western Union Hack And Bank Transfers
 ||nu25zvegynpgpgbywuudtov7g37h2jsxfa2avz5dyqx32kmqzsp2qjyd.onion
-! Largest PayPal And Credit Card Market
 ||fiw27htrk5av3bnhfjtl23dn62fa6e3rwlhtvkimthy46jbuxuy3jdyd.onion
+||darkf2d7zte4t7ys.onion
+||dumpscciolcwmacb.onion
+||2222222mm67h6ypm.onion
+||3ld7ttejt76spqxv.onion
+||buyccvhbq25t5l3y.onion
+||hcutffpxiq6zdpqm.onion
+||amazonhh6bvisfdl.onion
+||ppccpzamw4qb3yji.onion
+||accsaphx55wcxaxd.onion
+||netauth3iph4qwjd.onion
+||bankors4spr7ohze.onion
+||wc5ab2qgobwlb7mp54dbxkf2dvjstftj2b6uwfadvawng4liyiuiusad.onion
+||fcq6zs5hhvbxdqb6.onion
+||nkq6572rde7s73pemuo6fxz3elcu5xczfin3qy3eo36apakrqbevzdid.onion
+||54ce5x7l4m3t2spm.onion
+||p2rkdistflgo3eqx.onion
+||stacaqsyrzfg4jos.onion
+||stacnb5bmdtzysww.onion
+||stacithgj4xrdolk.onion
+||stacaqpfbfiz54sq.onion
+||stacwitkktemyvgs.onion
+||stacps5rb3dwzmju.onion
+||stacixwftmr27igr.onion
+||staco3a37yho7sox.onion
+||premiumd7ww5c43q.onion
+||premiumruzgaamwt.onion
+||ccqvend6aq5wig35.onion
+||fasttruunhj4agjl.onion
+||bitccmch47v3xypb.onion
+||westernu7e5v6qez.onion
+||3vfws2yqv4wii54e.onion
+||bnrub6cwicyu7snv.onion
+||ccaz3dzqrouqshop.onion
+||hbl6udan73w7qbjdey6chsu5gq5ehrfqbb73jq726kj3khnev2yarlid.onion
+||moneyfa6bic6gmxd.onion
+||thebank33vuixg66.onion
+||loobucks2fmgyivu.onion
+||cardccgwbm5xob4e.onion
+||card2v6wbr2cuyrh.onion
+||crspseme2b55ztlf7nqylxvunl6aqnu26pdurodltldjsekzbkrcsuad.onion
+||e3bv6gcn3qjpg4kfi4qy3t7z3hzm2eoyv7o5lua2goaz6dv44f3yukyd.onion
+||nobleco6f77cs2h6.onion
+||enxlsmjhbv2wn67j.onion
+||phyqslpwbkodrwd7.onion
+||r5nwehhbbtp4rrg3.onion
+||torcvvq44o7ofjuu.onion
+||pdf6uqyd4nxmghgw.onion
+||d5ubjv46kownm4jl.onion
+||aannwx6fzpwniruq.onion
+||transferiwon44pq.onion
+||toringei5vt4sfk7.onion
+||tj2d2hizwtbialiv.onion
+||mpm3oc6m2dy3jjho63syrjbdtyixwxgbwmsyc24r66uazgqhbz4y2nid.onion
+||xf3mt5ev4brqmfrh.onion
+||precardsn7zl3n6x.onion
+||ppcentznbskgodcp.onion
+||bitshopotisgandd.onion
+||cardp2rckmuocccy.onion
+||cenn5byalpdhx4c5mrs722tzttjkrkxzdpspri3y4fscv3lrqy6ob3yd.onion
+||acardsavkhwfreuq.onion
+||id5fh5dfrdzrxkro.onion
+||uujpz6aszhnrxyix.onion
+||instapayickpt3tu.onion
+||r4zbmobyalfzfejwxu2633qfr6nx62khkdznqwlpc5ozkhadxpe5edqd.onion
+||hdvs2bh7mq357tj4.onion
+||oldecr7kb3zho273rqeye6mwk4cwpl644s6cciiqk7zf7anpao2ntvyd.onion
+||ccguruetr5jwye5g.onion
+||xb635ncim63dlahg.onion
+||sbxxtg7qehc6wvhl.onion
+||morhx3irxknskwu5.onion
+||ewad7i7uw2deouyg.onion
+||bnruxuk34pu5l37h.onion
+||3gs7lq52ccbqvdu3kf7m7ilbasjqhsegmb2rnvu4zjfx7lf27oz7ytyd.onion
+||ccmen5ivf6em3m3s.onion
+||h7hsn3g7ebub3opewsxtcjfsstyy3s4kvtphxwmv5lvwq5lrtazit2yd.onion
+||countuwelx4r7qi5.onion
+||countrfoioed4ckx.onion
+||en35tuzqmn4lofbk.onion
+||fakeidskhfik46ux.onion
+||6c3qzz4q7jvnzoxg.onion
+||passporxakpmzurx.onion
+||o6klk2vxlpunyqt6.onion
+||y3fpieiezy2sin4a.onion
+||ukpasspprmwaqrsd.onion
+||7n535arkbmecbw62wy7h2acvze3wqejk3ekazzk44ibriz55itcs37ad.onion
+||abbujjh5vqtq77wg.onion
+||cfactoryxecooa6l.onion
+||rocksolidyyacwsa.onion
+||rocksolyis6cxkyy.onion
+||rsescrow5zcepqjh.onion
+||escrown4d564qtgz.onion
+||escrow5jkmjpxprw.onion
+||sgjfdl42o6565wli.onion
+||2hftxvyft7dl3fk2.onion
+||mescrowy4dr6xqh5.onion
+||mescynls2xqjqeoc.onion
+||mescrowsi3yjswh2.onion
+||sblqp5utjj3bu2ec.onion
+||sblqlbzrejulqzsi.onion
+||tm47kmrvlxuibig7.onion
+||apmqltpmgmpqwqwt.onion
+||2uyiwmcn4wudbzcj.onion
+||safebtck4qejiero.onion
+||bitpw7stentgch5y.onion
+||52jiu6jc6isptocs.onion
+||6qkockkyu3ln3twr.onion
+||safepayt2nt56gy4.onion
+||ohift5o756azx327ihkkytajdixynoibwj47sfebkral47uttffl7nyd.onion
+||safepayren6pt7fj.onion
+||btcasiah5fa5mhkp.onion
+||btcaiysn5azhuwi7.onion
+||e64qidckaxijfm6l.onion
+||ygqevii2umdcvk5z4k2pqxhpynpgix63dl5prcslz4gggph5ea63qrqd.onion
+||lrcnreaelox6ccu6qnr77jlz5vbsba2davmtncb6plpklkpgrlhx2sad.onion
+||3bd7kkf7xm2fcthbm6ynqwg6i5crl46o4hfmllbgtkpwhlzkbdsju6id.onion
+||vfh3tsbizlsirnxg73ebrf2fuuud62oben7rijm7kzhfg43de6ecoiyd.onion
+||qovaihss3wzf4zo2ns7tckvrm7cfkl5rfgbjmk6vim2a7eufvrlbqwyd.onion
+||escrowq5tus5jpgw.onion
+||bescrowwc3nlocsb.onion
+||vnidbxx3zaa2ksva.onion
+||6q5mipksw3qe5cqxxfmjg2gorzwlctbbmdjiub2iwxiu6zxse5bwvaid.onion
+||bbbitgkcgods6tlt.onion
+||btcdepowt7qahs6z.onion
+||btcdepouvsdohehn.onion
+||7i42x3kjxjldvcqw.onion
+||ib62tqf55t7f34ay7fhspcgk2a43pjkwquegwkhcewivratwg2oy3mad.onion
+||2mbag6csiomy2e7l.onion
+||lockerpwpshriwam.onion
+||escrow5go6vopjjg.onion
+||okjh4irka63gweyk2fjpciro7wvhfiujsst7fxopjielb7xzcaaomsyd.onion
+||vgnuhmuj6aex2ycc.onion
+||22escrowkxy56tvd.onion
+||escrowytu7s7rlqn.onion
+||5xbpc5qu4jx4e2eo.onion
+||ps66utstlfojv3nv.onion
+||hpumcyqddysk54ejprdadm5hczqaeavqt6ygfnikcuwqa7u75z5vmtid.onion
+||middle2d7bkn7mdy.onion
+||weedway2vlaj37gy.onion
+||ausbulkdoxtv4tkt.onion
+||weedu6vbqo45xrjt.onion
+||v4t3ogtrdoe6ozkn.onion
+||quality2ui4uooym.onion
+||z7kd7qa7lndx67v5.onion
+||crimen6nxejwy2f2.onion
+||kbvbh4kdddiha2ht.onion
+||nnipbjberqh6lpvt.onion
+||fzqnrlcvhkgbdwx5.onion
+||v4t3rb4gpei5vixb.onion
+||darkmambawopntdk.onion
+||darkmambazsmnkjo.onion
+||swkcw6eudl7lciek.onion
+||assassinuyy7h425.onion
+||blkmobbzqjhpn232.onion
+||ygrqgcnoodnqdmlc.onion
+||zsyvom262oiaoc6es7bgg66xieyil6nqkh7jn5ntraghpqgudbcl3vad.onion
+||4tvzeuakkunuvbmf.onion
+||camorrau23edy436.onion
+||2ogmrlfzdthnwkez.onion
+||nfs6e454oyvajfro.onion
+||hacker5quf443wtg4n7hi6m3l4xpcyasknjvhhrb6pcbgakhu7bblhad.onion
+||brohoodahjzxriv7.onion
+||hackerrljqhmq6jb.onion
+||xhackergnluw32xz.onion
+||4u7aueoex3gv2ybl.onion
+||hack5xpgngf2frll.onion
+||gnshpojuxrioibud.onion
+||weapon5cd6o72mny.onion
+||luckp47s6xhz26rn.onion
+||3n3w4m56atug7osb.onion
+||applestor7qfi636.onion
+||electronz2gpfyz5.onion
+||rjb2zyzskm7he5pd.onion
+||tfwdi3izigxllure.onion
+||applesf6emggp2pz.onion
+||etrrdbuorwng2hkw.onion
+||bitstorenctdwhmo.onion
+||isto66yzdrjlvnig.onion
+||mobil7rab6nuf7vx.onion
+||iphonegwasqieryi.onion
+||etronix47auvlmt7.onion
+||markethh52nfbvxy.onion
+||dewzrshlaw7e2hev.onion
+||bitmixergv5vvbza.onion
+||cleancoikmh6uamc.onion
+||loundryslz2venqx.onion
+||ow24et3tetp6tvmk.onion
+||ujnkg4uirpaiqejr.onion
+||hdwikiueikaeviwk.onion
+||ndntmfusjmj6tkpl.onion
+||z6ttukngw2hlok2u.onion
+||he22pncoselnm54h.onion
+||z2hjm7uhwisw5jm5.onion
+||yip2pklv6nivtzrq.onion
+||4r4zaei5qa7qq5ha.onion
+||trstxp6ljtdyy275.onion
+||djx6idjhk5yumfn2.onion
+||4gj66ltkilkyutyw.onion
+||virus323mhjmnav2.onion
+||virush6axb3bkhpe.onion
+||virushb3ve5ymaue.onion
 !-------------------------------------------------------------!
 !------------------------ Miscellaneous ----------------------!
 !-------------------------------------------------------------!
-! Bitiply
 ||vu2wohoog2bytxgr.onion
-! EuroGuns
 ||2kka4f23pcxgqkpv.onion
-! Rent-A-Hacker
-||2ogmrlfzdthnwkez.onion
-! CCPal
 ||3dbr5t4pygahedms.onion
