@@ -54,6 +54,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Chans](#chans)
   * [Blogs](#blogs)
   * [Political Movements](#political-movements)
+  * [Conventions](#conventions)
 * [News](#news)
 * [Miscellaneous](#miscellaneous)
   * [Books](#books)
@@ -425,6 +426,8 @@ Verify Darkweb Vendors Via These Sites
 * ![UET](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/uet_icon.png) [Universal Encoding Tool](http://usegafl7jdygvjcm5velj4mopbcdlxtxeob2xi5hcskm5w46chxipoqd.onion/)
 * ![AspireCrypt](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [AspireCrypt](http://j36f2zfz7v3neai7.onion/)
 * ![PrivacyBox](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [PrivacyBox](http://j36f2zfz7v3neai7.onion/)
+* ![CGI Proxy](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [CGI Proxy](http://x5yd2gfthlfgdqjg.onion/)
+* ![ServNet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [ServNet](http://servnetshsztndci.onion/)
 
 ## Music
 * ![Deep Web](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/deepwebradio_icon.png) [Deep Web Radio](http://76qugh5bey5gum7l.onion/)
@@ -488,6 +491,12 @@ Verify Darkweb Vendors Via These Sites
 ## Political Movements
 * ![Crypto Party](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cryptoparty_icon.png) [Crypto Party](http://crypty22ijtotell.onion/)
 * ![Crypto Party](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cryptoparty_icon.png) [Crypto Party (Mirror)](http://cpartywvpihlabsy.onion/)
+* ![Code Green](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Code Green](http://pyl7a4ccwgpxm6rd.onion/)
+
+## Conventions
+* ![InfoCon](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/infocon_icon.png) [InfoCon](http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion/)
+* ![InfoCon](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/infocon_icon.png) [InfoCon (Clearweb)](https://infocon.org/)
+* ![DeepSec](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/deepsec_icon.png) [DeepSec](http://kwv7z64xyiva22fw.onion/)
 
 # News
 * ![The New York Times](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nyt_icon.png) [The New York Times](https://www.nytimes3xbfgragh.onion/)
@@ -510,6 +519,16 @@ Verify Darkweb Vendors Via These Sites
 ## P2P Filesharing
 
 ## Hacking
+* ![0day Today](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/0daytoday_icon.png) [0Day Today](http://mvfjfugdwgc5uwho.onion/)
+* ![0day Today](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/0daytoday_icon.png) [0Day Today (Clearweb)](https://0day.today/)
+* ![HackTown](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hacktown_icon.png) [HackTown](http://hacktownpagdenbb.onion/)
+* ![Hack Tools](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hacktools_icon.png) [Hack Tools](http://5yh4qmygx72tl65u.onion/)
+* ![Hackerplace](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Hackerplace](http://hackerw6dcplg3ej.onion/)
+* ![Bugged Planet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/buggedplanet_icon.png) [Bugged Planet](http://6sgjmi53igmg7fm7.onion/)
+* ![VertexNet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [VertexNet (Botnet Manager)](http://mb4z3nlfyrcjnoqf.onion/)
+* ![VX Heaven](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/vxheaven_icon.png) [VX Heaven (Clearweb)](http://vxheaven.0l.wtf/)
+* ![Hacking Guides](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Hacking Guides For Windows, Mac, Linux](http://3pr5shyfw6exyc2kboea5xi5guj5mf5enwy5pgcfwoycolawuw6lhzid.onion/)
+* ![Hacking Library](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Hacking Library](http://putahwusckamzvezhq3a4y3ewdhln6qfimlmx3gdbuhxvia4uloyvkad.onion/)
 
 ## Uncategorized
 
@@ -557,7 +576,7 @@ Verify Darkweb Vendors Via These Sites
 * ![中文论坛](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [中文论坛](http://almvdkg6vrpmkvk4.onion/)
 * ![隐藏链接](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [隐藏链接](http://zw5atj5ckiw6rh46.onion/)
 * ![暗网中文担保交易市场](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [暗网中文担保交易市场](http://zseoyu76ubm7abcjowe3xxn4ncvoxh4tckg6sxyqca4yf47wxlkwvpid.onion/)
-* ![Deep Web List](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nabble_icon.png) [Deep Web List](http://x.80529.x6.nabble.com/Deep-Web-List-td1643.html)
+* ![Deep Web List](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nabble_icon.png) [Deep Web List (Clearweb)](http://x.80529.x6.nabble.com/Deep-Web-List-td1643.html)
 
 ## Japanese / 日本語
 * ![OnionChannel](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionChannel](http://xiwayy2kn32bo3ko.onion/tor)
