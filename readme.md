@@ -461,6 +461,7 @@ Verify Darkweb Vendors Via These Sites
 * ![Torichat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Torichat](http://hss33mlbykbsxmug.onion:1488/)
 
 ## Chans
+* ![9chan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/9chan_icon.png) [9Chan](http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/)
 * ![16chan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/16chan_icon.png) [16Chan](http://47s7obvdgdpj6fkc.onion/)
 
 ## Blogs
@@ -515,6 +516,7 @@ Verify Darkweb Vendors Via These Sites
 ## German / Deutsch
 * ![Konkret](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Konkret](http://konkretzdxpqygow.onion/)
 * ![MadIRC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/madirc_icon.png) [MadIRC](http://wbi67emmdx6i6rcr6nnk3hco3nrvdc2juxrbvomvt6nze5afjz6pgtad.onion/)
+* ![Chaos Computer Club](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ccc_icon.png) [Chaos Computer Club](http://rvy6qmlqfstv6rlz.onion/)
 
 ## Italian / Italiano
 * ![BlackHost](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [BlackHost](http://blackhost5xlrhev.onion/)
@@ -527,12 +529,20 @@ Verify Darkweb Vendors Via These Sites
 * ![Рынок Китая](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/chinamarket_icon.png) [Рынок Китая](http://chinamksmy54x46x.onion/)
 * ![Скрытые Ответы](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Скрытые Ответы](http://ru.answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/)
 * ![Rutor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/rutor_icon.png) [Rutor](http://rutorzzmfflzllk5.onion/)
+* ![Rutor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/rutor_icon.png) [Rutor (Mirror)](http://ruto2tudhnpwz63d.onion/)
 * ![Флибуста](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/flibusta_icon.png) [Флибуста](http://flibustahezeous3.onion/)
+* ![Традиция](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tradition_icon.png) [Традиция](http://traditio3trziwpn.onion/)
+* ![BDF](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bdf_icon.png) [BDF](http://bdfcctess3zhicun.onion/)
+* ![eXeL@b](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/exelab_icon.png) [eXeL@b](http://e4uncjzrukvfp5iy.onion/)
+* ![Psy Community UA](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Psy Community UA](http://psyco42coib33wfl.onion/)
+* ![ITPHX](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/itphx_icon.png) [ITPHX](http://snvb5ffurikzeiod.onion/)
 * ![NeoChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/neochan_icon.png) [NeoChan](http://neochansu4cegu4o.onion/)
 
 ## Chinese / 中国語
 * ![中文论坛](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [中文论坛](http://almvdkg6vrpmkvk4.onion/)
 * ![隐藏链接](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [隐藏链接](http://zw5atj5ckiw6rh46.onion/)
+* ![暗网中文担保交易市场](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [暗网中文担保交易市场](http://zseoyu76ubm7abcjowe3xxn4ncvoxh4tckg6sxyqca4yf47wxlkwvpid.onion/)
+* ![Deep Web List](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nabble_icon.png) [Deep Web List](http://x.80529.x6.nabble.com/Deep-Web-List-td1643.html)
 
 ## Japanese / 日本語
 * ![OnionChannel](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionChannel](http://xiwayy2kn32bo3ko.onion/tor)
@@ -565,11 +575,18 @@ Verify Darkweb Vendors Via These Sites
 
 # Unknown
 * ![CentralShop](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/centralshop_icon.png) [CentralShop (Invite Only)](http://qhd6aon2fyjjan4e.onion/)
+* ![C Pozzi](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [C Pozzi (Authorization Required)](http://hakteamvayuhxoe7.onion/)
 
 # Broken Links
 ## Broken
+* ![DarkCity](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkcity_icon.gif) [DarkCity](http://darkcityh7zzynjr.onion/)
+* ![Hire](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Web Programmer For Hire](http://kobrabd77ppgjd2r.onion/)
+* ![Turkish Hosting](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionlist_icon.png) [Turkish Hidden Hosting](http://thhazdmx2kymozql.onion/)
+* ![Torch](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torch_icon.png) [Torch](http://area23wa3d32yygu.onion/)
 
 ## Seized
+* ![Video](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Video](http://mt3plrzdiyqf6jim.onion/)
+* ![Sipulikanava](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Sipulikanava](http://2i7aalqdpiuw36nu.onion/)
 
 # Javascript Bookmarks
 these are some javascript bookmarks that work with the Tor Browser
