@@ -56,6 +56,10 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Political Movements](#political-movements)
 * [News](#news)
 * [Miscellaneous](#miscellaneous)
+  * [Books](#books)
+  * [P2P Filesharing](#p2p-filesharing)
+  * [Hacking](#hacking)
+  * [Uncategorized](#uncategorized)
 * [Non-English](#non-english)
   * [Spanish / Español](#spanish--español)
   * [French / Français](#french--français)
@@ -398,6 +402,7 @@ Verify Darkweb Vendors Via These Sites
 * ![TPB](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tpb_icon.png) [The Pirate Bay](http://piratebayztemzmv.onion/)
 
 ## Security And Privacy
+* ![Debain Security Team](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/debain_icon.png) [Debain Security Team](http://ynvs3km32u33agwq.onion/)
 * ![Surveillance Self-Defense](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ssd_icon.png) [Surveillance Self-Defense](https://ssd.eff.org/)
 * ![Open Observatory Of Network Interference](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ooni_icon.png) [Open Observatory Of Network Interference](https://ooni.org/)
 * ![GnuPG](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/gnupg_icon.png) [GNU Privacy Guard](http://ic6au7wa3f6naxjq.onion/)
@@ -463,6 +468,7 @@ Verify Darkweb Vendors Via These Sites
 ## Chans
 * ![9chan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/9chan_icon.png) [9Chan](http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/)
 * ![16chan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/16chan_icon.png) [16Chan](http://47s7obvdgdpj6fkc.onion/)
+* ![TorChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torchan_icon.png) [TorChan](http://zw3crggtadila2sg.onion/imageboard/)
 
 ## Blogs
 * ![Asocial](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/asocial_icon.png) [The Asocial](http://asocialfz7ncw5ui.onion/)
@@ -499,7 +505,16 @@ Verify Darkweb Vendors Via These Sites
 
 # Miscellaneous
 
+## Books
+
+## P2P Filesharing
+
+## Hacking
+
+## Uncategorized
+
 # Non-English
+
 ## Spanish / Español
 * ![Cebolla](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cebolla_icon.png) [CebollaChan 3.0](http://s6cco2jylmxqcdeh.onion/)
 * ![Respuestas Ocultas](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Respuestas Ocultas](http://es.answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/)
@@ -578,6 +593,7 @@ Verify Darkweb Vendors Via These Sites
 * ![C Pozzi](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [C Pozzi (Authorization Required)](http://hakteamvayuhxoe7.onion/)
 
 # Broken Links
+
 ## Broken
 * ![DarkCity](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darkcity_icon.gif) [DarkCity](http://darkcityh7zzynjr.onion/)
 * ![Hire](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Web Programmer For Hire](http://kobrabd77ppgjd2r.onion/)
