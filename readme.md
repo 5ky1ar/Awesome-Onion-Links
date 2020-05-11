@@ -64,6 +64,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Russian / Русский](#russian--pусский)
   * [Chinese / 中国語](#chinese--中国語)
   * [Japanese / 日本語](#japanese--日本語)
+  * [Korean / 한국어](#korean--한국어)
   * [Portuguese / Português](#portuguese--português)
   * [Polish / Polski](#polish--polski)
   * [Finnish / Suomi](#finnish--suomi)
@@ -460,6 +461,7 @@ Verify Darkweb Vendors Via These Sites
 * ![Torichat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Torichat](http://hss33mlbykbsxmug.onion:1488/)
 
 ## Chans
+* ![16chan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/16chan_icon.png) [16Chan](http://47s7obvdgdpj6fkc.onion/)
 
 ## Blogs
 * ![Asocial](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/asocial_icon.png) [The Asocial](http://asocialfz7ncw5ui.onion/)
@@ -534,6 +536,10 @@ Verify Darkweb Vendors Via These Sites
 ## Japanese / 日本語
 * ![OnionChannel](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionChannel](http://xiwayy2kn32bo3ko.onion/tor)
 * ![JHW](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Japan Hidden Wiki](http://poverty4657tlx6h.onion/wiki/index.php)
+
+## Korean / 한국어
+* ![High Korea • 안내](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/highkorea_icon.png) [High Korea • 안내](http://highkorea5ou4wcy.onion/)
+* ![Kor Chan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Kor Chan](http://jqu64mje5ixdwtlr.onion/)
 
 ## Portuguese / Português
 * ![Magia e Ocultismo](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Tudo Sobre Magia e Ocultismo](http://2izlbbg42mgtdh2w.onion/)
