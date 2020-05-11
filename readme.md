@@ -528,6 +528,7 @@ Verify Darkweb Vendors Via These Sites
 * ![Скрытые Ответы](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Скрытые Ответы](http://ru.answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/)
 * ![Rutor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/rutor_icon.png) [Rutor](http://rutorzzmfflzllk5.onion/)
 * ![Флибуста](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/flibusta_icon.png) [Флибуста](http://flibustahezeous3.onion/)
+* ![NeoChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/neochan_icon.png) [NeoChan](http://neochansu4cegu4o.onion/)
 
 ## Chinese / 中国語
 * ![中文论坛](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [中文论坛](http://almvdkg6vrpmkvk4.onion/)
