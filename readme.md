@@ -511,6 +511,7 @@ Verify Darkweb Vendors Via These Sites
 * ![OnionNews](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Onion News](http://newsiiwanaduqpre.onion/)
 * ![OnionNews](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Onion News (Mirror)](http://t4is3dhdc2jd4yhw.onion/)
 * ![Soylent News](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/soylent_icon.png) [Soylent News](http://7rmath4ro2of2a42.onion/)
+* ![S Dock](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/sdock_icon.png) [S.Dock](http://yip2pklv6nivtzrq.onion/)
 
 # Miscellaneous
 
