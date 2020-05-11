@@ -516,6 +516,8 @@ Verify Darkweb Vendors Via These Sites
 # Miscellaneous
 
 ## Books
+* ![Library Genesis](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/librarygenesis_icon.png) [Library Genesis (Clearweb)](http://gen.lib.rus.ec/)
+* ![Imperial Library Of Trantor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/trantor_icon.png)[Imperial Library Of Trantor](http://xfmro77i3lixucja.onion/)
 
 ## P2P Filesharing
 
