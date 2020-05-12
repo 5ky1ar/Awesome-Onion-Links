@@ -442,7 +442,7 @@ Verify Darkweb Vendors Via These Sites
 * ![JitJat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [JitJat](http://jitjatxmemcaaadp.onion/)
 * ![UET](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/uet_icon.png) [Universal Encoding Tool](http://usegafl7jdygvjcm5velj4mopbcdlxtxeob2xi5hcskm5w46chxipoqd.onion/)
 * ![AspireCrypt](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [AspireCrypt](http://j36f2zfz7v3neai7.onion/)
-* ![PrivacyBox](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [PrivacyBox](http://j36f2zfz7v3neai7.onion/)
+* ![PrivacyBox](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [PrivacyBox](http://2h3xkc7wmxthijqb.onion/)
 * ![CGI Proxy](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [CGI Proxy](http://x5yd2gfthlfgdqjg.onion/)
 * ![ServNet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [ServNet](http://servnetshsztndci.onion/)
 * ![FTP Client](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Anonymous Web FTP Client](http://wtutoxfznz45gf6c.onion/)
