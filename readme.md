@@ -566,7 +566,7 @@ Verify Darkweb Vendors Via These Sites
 
 ## Books
 * ![Library Genesis](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/librarygenesis_icon.png) [Library Genesis (Clearweb)](http://gen.lib.rus.ec/)
-* ![Imperial Library Of Trantor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/trantor_icon.png)[Imperial Library Of Trantor](http://xfmro77i3lixucja.onion/)
+* ![Imperial Library Of Trantor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/trantor_icon.png) [Imperial Library Of Trantor](http://xfmro77i3lixucja.onion/)
 * ![Calibre Web](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/calibreweb_icon.png) [Calibre Web](https://5h5ps743nnqsjq4l.onion/)
 * ![Dark Books Library](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Dark Books Library](http://hoagnooxlabpxd4ieqtn6pblk4324evslb24gmjktjbhzdmxst5trrad.onion/)
 * ![Common Sense](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Thomas Paine - Common Sense](http://duskgytldkxiuqc6.onion/comsense.html)
