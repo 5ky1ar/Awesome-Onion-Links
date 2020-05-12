@@ -490,6 +490,17 @@ Verify Darkweb Vendors Via These Sites
 * ![Julia Evans](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/juliaevans_icon.png) [Julia Evan's Blog (Clearweb)](https://jvns.ca/)
 * ![CodingHorror](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/codinghorror_icon.png) [Jeff Atwood's Blog - Coding Horror (Clearweb)](https://blog.codinghorror.com/)
 * ![Phrozen](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/phrozen_icon.png) [Phrozen (Clearweb)](https://www.phrozen.io/)
+* ![MagusNet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/magusnet_icon.png) [MagusNet (Mirror 1)](http://tghtnwsywvvhromy.onion/)
+* ![MagusNet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/magusnet_icon.png) [MagusNet (Mirror 2)](http://wx3wmh767azjjl4v.onion/)
+* ![MagusNet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/magusnet_icon.png) [MagusNet (Mirror 3)](http://q2uftrjiuegl4ped.onion/)
+* ![MagusNet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/magusnet_icon.png) [MagusNet (Mirror 4)](http://3mrdrr2gas45q6hp.onion/)
+* ![MagusNet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/magusnet_icon.png) [MagusNet (Clearweb Mirror 1)](http://www.magusnet.com/)
+* ![MagusNet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/magusnet_icon.png) [MagusNet (Clearweb Mirror 2)](http://www.magusnet.net/)
+* ![MagusNet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/magusnet_icon.png) [MagusNet (Clearweb Mirror 3)](http://www.magusnet.org/)
+* ![MagusNet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/magusnet_icon.png) [MagusNet (Clearweb Mirror 4)](http://www.torduckin.com/)
+* ![MagusNet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/magusnet_icon.png) [MagusNet (Clearweb Mirror 5)](http://www.torduckin.net/)
+* ![MagusNet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/magusnet_icon.png) [MagusNet (Clearweb Mirror 6)](http://www.torduckin.org/)
+* ![MagusNet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/magusnet_icon.png) [MagusNet (Clearweb SSL)](https://ec2-54-80-206-218.compute-1.amazonaws.com:4444/)
 
 ## Political Movements
 * ![Crypto Party](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cryptoparty_icon.png) [Crypto Party](http://crypty22ijtotell.onion/)
