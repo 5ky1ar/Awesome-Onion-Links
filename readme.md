@@ -655,6 +655,7 @@ Verify Darkweb Vendors Via These Sites
 * ![Cebulka](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Cebulka](http://qd73mvvc7v7zewwl.onion/)
 
 ## Finnish / Suomi
+* ![Utopia](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Utopia](http://utopiaenjoycwvvp.onion/)
 * ![Thorlauta](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Thorlauta](http://zqiirytam276uogb.onion/)
 * ![Silkkitie](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Silkkitie](http://silkkitiehdg5mug.onion/)
 

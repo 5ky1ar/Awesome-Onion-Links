@@ -412,7 +412,6 @@
 ||deepmartmfvbijza.onion
 ||deepmarbaaaiwpph.onion
 ||deepmar57fbonfiw.onion
-||hiddenmarketplace.org
 ||hidden24tha4plsx.onion
 ||hiddenmark43cbxd.onion
 ||hiddenmagmteisz2.onion
@@ -694,3 +693,4 @@
 ||vu2wohoog2bytxgr.onion
 ||2kka4f23pcxgqkpv.onion
 ||3dbr5t4pygahedms.onion
+||hiddenmarketplace.org
