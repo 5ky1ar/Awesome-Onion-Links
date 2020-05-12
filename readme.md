@@ -538,6 +538,8 @@ Verify Darkweb Vendors Via These Sites
 
 # News
 * ![The New York Times](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nyt_icon.png) [The New York Times](https://www.nytimes3xbfgragh.onion/)
+* ![ProPublica](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/propublica_icon.png) [ProPublica](https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/)
+* ![Mascherari Press](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/mascherari_icon.png) [Mascherari Press](http://7tm2lzezyjwtpn2s.onion/)
 * ![OnionWeb](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionweb_icon.png) [The Onion Web](http://onionwsoiu53xre32jwve7euacadvhprq2jytfttb55hrbo3execodad.onion/)
 * ![Tape](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tape_icon.png) [Tape](http://tapeucwutvne7l5o.onion/)
 * ![DarknetLive](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/darknetlive_icon.png) [Darknet Live](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/)
