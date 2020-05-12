@@ -403,6 +403,7 @@ Verify Darkweb Vendors Via These Sites
 * ![The Pirate Bay](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tpb_icon.png) [The Pirate Bay](http://piratebayztemzmv.onion/)
 * ![The Pirate Bay](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tpb_icon.png) [The Pirate Bay (Mirror)](http://piratebaymbf3ul7.onion/)
 * ![Intel Repository](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Intel Repository](http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/)
+* ![Anodex](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/anodex_icon.png) [Anodex](http://anodex.oniichanylo2tsi4.onion/)
 
 ## Security And Privacy
 * ![Debain Security Team](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/debain_icon.png) [Debain Security Team](http://ynvs3km32u33agwq.onion/)
@@ -558,6 +559,8 @@ Verify Darkweb Vendors Via These Sites
 * ![IIT Underground](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/iitug_icon.png) [IIT Underground](http://62gs2n5ydnyffzfy.onion/)
 * ![Beneath Virginia Tech](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bvt_icon.png) [Beneath Virginia Tech](http://74ypjqjwf6oejmax.onion/)
 * ![PopFur](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/popfur_icon.png) [PopFur](http://vj5pbopejlhcbz4n.onion/)
+* ![How Will You Tell The World](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [How Will You Tell The World](http://rjzdqt4z3z3xo73h.onion/)
+* ![Dildo Sky](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/dildosky_icon.gif) [Dildo Sky](http://dildosky53jnf5mt.onion/)
 
 # Non-English
 
