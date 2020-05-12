@@ -40,6 +40,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Pharmacies](#pharmacies)
   * [Electronics](#electronics)
   * [Multipurpose](#multipurpose)
+  * [Miscellaneous](#miscellaneous)
 * [Non-Commercial Services](#non-commercial-services)
   * [Email](#email)
   * [Hosting](#hosting)
@@ -56,7 +57,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Political Movements](#political-movements)
   * [Conventions](#conventions)
 * [News](#news)
-* [Miscellaneous](#miscellaneous)
+* [Miscellaneous](#miscellaneous-1)
   * [Books](#books)
   * [Hacking](#hacking)
   * [Games](#games)
@@ -351,6 +352,9 @@ Verify Darkweb Vendors Via These Sites
 ## Multipurpose
 * ![The Brotherhood](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/brotherhood_icon.png) [The Brotherhood](http://brohoodahjzxriv7.onion/)
 
+## Miscellaneous
+* ![Resell Shop](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/resellshop_icon.png) [Resell Shop](http://g2rvhyzcapyxswgu.onion/)
+
 # Non-Commercial Services
 
 ## Email
@@ -396,6 +400,8 @@ Verify Darkweb Vendors Via These Sites
 * ![Matrix](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/mih_icon.png) [Matrix Image Hosting](http://matrixtxri745dfw.onion/)
 * ![ImageHosting](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/imagehosting_icon.png) [Image Hosting](http://twlba5j7oo5g4kj5.onion/)
 * ![PopFiles](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/popfiles_icon.png) [PopFiles](http://popfilesxuru7lsr.onion/)
+* ![Filedropper](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [FileDropper](http://dropperibhaerr2m.onion/)
+* ![Felixxx](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/felixxx_icon.png) [Felixxx](http://felixxxboni3mk4a.onion/)
 * ![J.U.S](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Just Upload Stuff](http://jusfileobjorolmq.onion/)
 * ![ZeroBin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [ZeroBin](http://zerobinqmdqd236y.onion/)
 * ![DeepPaste](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/deeppaste_icon.png) [DeepPaste](http://depastedihrn3jtw.onion/)
@@ -543,6 +549,7 @@ Verify Darkweb Vendors Via These Sites
 ## Books
 * ![Library Genesis](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/librarygenesis_icon.png) [Library Genesis (Clearweb)](http://gen.lib.rus.ec/)
 * ![Imperial Library Of Trantor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/trantor_icon.png)[Imperial Library Of Trantor](http://xfmro77i3lixucja.onion/)
+* ![Calibre Web](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/calibreweb_icon.png) [Calibre Web](https://5h5ps743nnqsjq4l.onion/)
 * ![Dark Books Library](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Dark Books Library](http://hoagnooxlabpxd4ieqtn6pblk4324evslb24gmjktjbhzdmxst5trrad.onion/)
 * ![Common Sense](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Thomas Paine - Common Sense](http://duskgytldkxiuqc6.onion/comsense.html)
 * ![Federalist Papers](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Federalist Papers](http://duskgytldkxiuqc6.onion/fedpapers/federa00.htm)
