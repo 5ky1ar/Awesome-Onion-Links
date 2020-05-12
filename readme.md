@@ -397,12 +397,15 @@ Verify Darkweb Vendors Via These Sites
 * ![Rueckgrat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/rueckgrat_icon.png) [Rueckgrat (Clearweb)](https://rueckgr.at/)
 
 ## File Sharing
+* ![SecureDrop](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/securedrop_icon.png) [SecureDrop](http://secrdrop5wyphb5x.onion/)
 * ![Matrix](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/mih_icon.png) [Matrix Image Hosting](http://matrixtxri745dfw.onion/)
 * ![ImageHosting](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/imagehosting_icon.png) [Image Hosting](http://twlba5j7oo5g4kj5.onion/)
 * ![PopFiles](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/popfiles_icon.png) [PopFiles](http://popfilesxuru7lsr.onion/)
 * ![Filedropper](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [FileDropper](http://dropperibhaerr2m.onion/)
-* ![Felixxx](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/felixxx_icon.png) [Felixxx](http://felixxxboni3mk4a.onion/)
+* ![BlackCloud](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Black Cloud](http://bcloud2suoza3ybr.onion/)
 * ![J.U.S](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Just Upload Stuff](http://jusfileobjorolmq.onion/)
+* ![Crypto Uploader](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Crypto Uploader](http://cryptoupei2am6si.onion/)
+* ![Felixxx](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/felixxx_icon.png) [Felixxx](http://felixxxboni3mk4a.onion/)
 * ![ZeroBin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [ZeroBin](http://zerobinqmdqd236y.onion/)
 * ![DeepPaste](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/deeppaste_icon.png) [DeepPaste](http://depastedihrn3jtw.onion/)
 * ![Tor Pastebin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Tor Pastebin (Under Maintenance)](http://postits4tga4cqts.onion/)
