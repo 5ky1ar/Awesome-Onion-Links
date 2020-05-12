@@ -466,6 +466,7 @@ Verify Darkweb Vendors Via These Sites
 * ![Hub](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hub_icon.png) [The Hub Forum (Mirror 3)](http://thehube5dbng3dwww4fhbiihruloenvh66536cot3wrpc4hvhm2bdayd.onion/)
 * ![Hub](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hub_icon.png) [The Hub Forum (Mirror 4)](http://thehubeebh6z6pqdy4wmxdd6d45gmchjm3xe5sdppadna7m3qtmksmid.onion/)
 * ![Hub](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hub_icon.png) [The Hub Forum (Mirror 5)](http://thehuboy27kracz6sdql2r7c324vrs5aok2e33gorrikccaqhvzfcvad.onion/)
+* ![Thunder's Place](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/thunder_icon.png) [Thunder's Place](http://thundersplv36ecb.onion/)
 
 ## Chat
 * ![ChatWithStrangers](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/chatwithstrangers_icon.png) [Chat With Strangers](http://tetatl6umgbmtv27.onion/)
