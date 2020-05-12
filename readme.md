@@ -489,6 +489,10 @@ Verify Darkweb Vendors Via These Sites
 ## Chat
 * ![ChatWithStrangers](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/chatwithstrangers_icon.png) [Chat With Strangers](http://tetatl6umgbmtv27.onion/)
 * ![Ableonion](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Ableonion](http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/)
+* ![Evilchat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/evilchat_icon.png) [Evilchat](http://evilchatxp24s7vb.onion/)
+* ![Daniel's Chat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/daniel_icon.png) [Daniel's Chat](http://danschat356lctri3zavzh6fbxg2a7lo6z3etgkctzzpspewu7zdsaqd.onion/)
+* ![Blackhat Chat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/blackhatchat_icon.png) [Black Hat Chat](http://blkh4ylofapg42tj6ht565klld5i42dhjtysvsnnswte4xt4uvnfj5qd.onion/)
+* ![Enforcer's Chat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Enforcer's Chat Room](http://pkgdherwvzn5qjzb6ypygmsyl2xrkbvznisjv675bly4dcbjznstdxid.onion/chat.php)
 * ![Torichat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Torichat](http://hss33mlbykbsxmug.onion:1488/)
 
 ## Chans
