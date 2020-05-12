@@ -549,7 +549,6 @@ Verify Darkweb Vendors Via These Sites
 
 ## Hacking
 * ![0day Today](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/0daytoday_icon.png) [0Day Today](http://mvfjfugdwgc5uwho.onion/)
-* ![0day Today](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/0daytoday_icon.png) [0Day Today (Clearweb)](https://0day.today/)
 * ![HackTown](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hacktown_icon.png) [HackTown](http://hacktownpagdenbb.onion/)
 * ![Hack Tools](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hacktools_icon.png) [Hack Tools](http://5yh4qmygx72tl65u.onion/)
 * ![Hackerplace](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Hackerplace](http://hackerw6dcplg3ej.onion/)
