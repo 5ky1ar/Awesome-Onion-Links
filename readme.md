@@ -196,7 +196,7 @@ services that allow you to find .onion sites, just like google would on the clea
 * ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (Mirror)](http://5u56fjmxu63xcmbk.onion/)
 * ![Onion Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionsearch_icon.png) [Onion Search Engine (Clearweb)](https://onionsearchengine.com/)
 * ![Onion Search Service](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/oss_icon.png) [Onion Search Service](http://oss7wrm7xvoub77o.onion/)
-* ![OnionLand Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionLand Search Engine](http://3bbaaaccczcbdddz.onion//)
+* ![OnionLand Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionLand Search Engine](http://3bbaaaccczcbdddz.onion/)
 * ![OnionLand Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionLand Search Engine (Clearweb)](https://onionlandsearchengine.com/)
 * ![Phobos](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/phobos_icon.png) [Phobos](http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/)
 * ![SearX](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/searx_icon.png) [SearX](http://searx7gwtu5rh6wr.onion/)
