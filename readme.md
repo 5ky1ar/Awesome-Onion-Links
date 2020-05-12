@@ -53,6 +53,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
   * [Forums](#forums)
   * [Chat](#chat)
   * [Chans](#chans)
+  * [IRC](#irc)
   * [Blogs](#blogs)
   * [Political Movements](#political-movements)
   * [Conventions](#conventions)
@@ -465,6 +466,7 @@ Verify Darkweb Vendors Via These Sites
 * ![Facebook](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/facebook_icon.png) [Facebook](https://www.facebookcorewwwi.onion/)
 * ![Connect](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/connect_icon.png) [Connect](http://connectkjsazkwud.onion/)
 * ![Galaxy3](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/galaxy3_icon.png) [Galaxy3](http://galaxy3m2mn5iqtn.onion/)
+* ![OnionTube](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/oniontube_icon.png) [OnionTube](http://tubef7zilcjhme2g.onion/)
 
 ## Forums
 * ![Torum](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torum_icon.png) [Torum](http://torum43tajnrxritn4iumy75giwb5yfw6cjq2czjikhtcac67tfif2yd.onion/)
@@ -493,6 +495,9 @@ Verify Darkweb Vendors Via These Sites
 * ![9chan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/9chan_icon.png) [9Chan](http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/)
 * ![16chan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/16chan_icon.png) [16Chan](http://47s7obvdgdpj6fkc.onion/)
 * ![TorChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torchan_icon.png) [TorChan](http://zw3crggtadila2sg.onion/imageboard/)
+
+## IRC
+* ![OnionCommunity IRC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ocirc_icon.png) [OnionCommunity IRC](http://chatobbpwe37uhar.onion/)
 
 ## Blogs
 * ![Asocial](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/asocial_icon.png) [The Asocial](http://asocialfz7ncw5ui.onion/)
