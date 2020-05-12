@@ -222,7 +222,7 @@ services that allow you to find .onion sites, just like google would on the clea
 * ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Hidden Wiki 5](http://wikitorcwogtsifs.onion/)
 * ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Hidden Wiki 6](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page)
 * ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/thw_icon.png) [The Hidden Wiki 7](http://hdwikihod77v6fas.onion/)
-* ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Hidden Wiki (Mirror)](http://wikitjerrta4qgz4.onion/)
+* ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Hidden Wiki (Mirror)](http://wikitjerrta4qgz4.onion/)
 * ![The Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Hidden Wiki (Clearweb)](https://thehiddenwiki.org/)
 * ![The Light Hidden Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [The Light Hidden Wiki](http://cbo7whgxo2dnplgz.onion/wiki/index.php)
 * ![Hidden Wiki Fresh](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hwf_icon.png) [Hidden Wiki Fresh](http://ujnkg4uirpaiqejr.onion/)
