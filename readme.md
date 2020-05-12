@@ -58,8 +58,8 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Unde
 * [News](#news)
 * [Miscellaneous](#miscellaneous)
   * [Books](#books)
-  * [P2P Filesharing](#p2p-filesharing)
   * [Hacking](#hacking)
+  * [Games](#games)
   * [Uncategorized](#uncategorized)
 * [Non-English](#non-english)
   * [Spanish / Español](#spanish--español)
@@ -400,7 +400,9 @@ Verify Darkweb Vendors Via These Sites
 * ![ZeroBin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [ZeroBin](http://zerobinqmdqd236y.onion/)
 * ![DeepPaste](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/deeppaste_icon.png) [DeepPaste](http://depastedihrn3jtw.onion/)
 * ![Tor Pastebin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Tor Pastebin (Under Maintenance)](http://postits4tga4cqts.onion/)
-* ![TPB](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tpb_icon.png) [The Pirate Bay](http://piratebayztemzmv.onion/)
+* ![The Pirate Bay](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tpb_icon.png) [The Pirate Bay](http://piratebayztemzmv.onion/)
+* ![The Pirate Bay](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tpb_icon.png) [The Pirate Bay (Mirror)](http://piratebaymbf3ul7.onion/)
+* ![Intel Repository](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Intel Repository](http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/)
 
 ## Security And Privacy
 * ![Debain Security Team](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/debain_icon.png) [Debain Security Team](http://ynvs3km32u33agwq.onion/)
@@ -428,6 +430,7 @@ Verify Darkweb Vendors Via These Sites
 * ![PrivacyBox](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [PrivacyBox](http://j36f2zfz7v3neai7.onion/)
 * ![CGI Proxy](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [CGI Proxy](http://x5yd2gfthlfgdqjg.onion/)
 * ![ServNet](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [ServNet](http://servnetshsztndci.onion/)
+* ![FTP Client](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Anonymous Web FTP Client](http://wtutoxfznz45gf6c.onion/)
 
 ## Music
 * ![Deep Web](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/deepwebradio_icon.png) [Deep Web Radio](http://76qugh5bey5gum7l.onion/)
@@ -492,6 +495,8 @@ Verify Darkweb Vendors Via These Sites
 * ![Crypto Party](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cryptoparty_icon.png) [Crypto Party](http://crypty22ijtotell.onion/)
 * ![Crypto Party](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cryptoparty_icon.png) [Crypto Party (Mirror)](http://cpartywvpihlabsy.onion/)
 * ![Code Green](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Code Green](http://pyl7a4ccwgpxm6rd.onion/)
+* ![Anarplex](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/anarplex_icon.png) [Anarplex](http://anarplexqtbch57j.onion/)
+* ![Anarplex](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/anarplex_icon.png) [Anarplex (Clearweb)](https://anarplex.net/)
 
 ## Conventions
 * ![InfoCon](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/infocon_icon.png) [InfoCon](http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion/)
@@ -518,8 +523,9 @@ Verify Darkweb Vendors Via These Sites
 ## Books
 * ![Library Genesis](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/librarygenesis_icon.png) [Library Genesis (Clearweb)](http://gen.lib.rus.ec/)
 * ![Imperial Library Of Trantor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/trantor_icon.png)[Imperial Library Of Trantor](http://xfmro77i3lixucja.onion/)
-
-## P2P Filesharing
+* ![Dark Books Library](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Dark Books Library](http://hoagnooxlabpxd4ieqtn6pblk4324evslb24gmjktjbhzdmxst5trrad.onion/)
+* ![Common Sense](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Thomas Paine - Common Sense](http://duskgytldkxiuqc6.onion/comsense.html)
+* ![Federalist Papers](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Federalist Papers](http://duskgytldkxiuqc6.onion/fedpapers/federa00.htm)
 
 ## Hacking
 * ![0day Today](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/0daytoday_icon.png) [0Day Today](http://mvfjfugdwgc5uwho.onion/)
@@ -533,7 +539,14 @@ Verify Darkweb Vendors Via These Sites
 * ![Hacking Guides](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Hacking Guides For Windows, Mac, Linux](http://3pr5shyfw6exyc2kboea5xi5guj5mf5enwy5pgcfwoycolawuw6lhzid.onion/)
 * ![Hacking Library](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Hacking Library](http://putahwusckamzvezhq3a4y3ewdhln6qfimlmx3gdbuhxvia4uloyvkad.onion/)
 
+## Games
+* ![Euro Buk Simulator 2014](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Euro Buk Simulator 2014](http://hg5km4y37lgir6r3.onion/)
+* ![Matrix](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/matrixgame_icon.png) [Matrix](http://matrix4ozv2gicar.onion/)
+
 ## Uncategorized
+* ![IIT Underground](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/iitug_icon.png) [IIT Underground](http://62gs2n5ydnyffzfy.onion/)
+* ![Beneath Virginia Tech](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bvt_icon.png) [Beneath Virginia Tech](http://74ypjqjwf6oejmax.onion/)
+* ![PopFur](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/popfur_icon.png) [PopFur](http://vj5pbopejlhcbz4n.onion/)
 
 # Non-English
 
