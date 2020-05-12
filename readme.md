@@ -436,6 +436,9 @@ Verify Darkweb Vendors Via These Sites
 ## Music
 * ![Deep Web](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/deepwebradio_icon.png) [Deep Web Radio](http://76qugh5bey5gum7l.onion/)
 * ![HFS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hfs_icon.png) [HFS](http://wuvdsbmbwyjzsgei.onion/)
+* ![Black Jesus](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Black Jesus](http://niggervteelq47id.onion/)
+* ![Used2Now](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/used2now_icon.png) [Used2Now](http://used2now7fin3qse.onion/)
+* ![Stream](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/stream_icon.png) [Stream](http://streamtmr46ysxw6.onion/)
 
 ## Multipurpose
 * ![Volatile](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/volatile_icon.png) [Volatile](http://vola7ileiax4ueow.onion/)
