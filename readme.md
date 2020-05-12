@@ -378,8 +378,10 @@ Verify Darkweb Vendors Via These Sites
 * ![Mail2Tor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/mail2tor_icon.png) [Mail2Tor](http://mail2tor2zyjdctd.onion/)
 * ![TorBox](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [TorBox](http://torbox3uiot6wchz.onion/)
 * ![Underwood](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Underwood's Mail](http://underwood2hj3pwd.onion/)
-* ![SafeMail](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/safemail_icon.png) [Safe Mail (Clearweb)](https://www.safe-mail.net/)
 * ![Nonwo](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nonwo_icon.gif) [Nonwo OnionMail Server](http://underwood2hj3pwd.onion/)
+* ![Guerrilla Mail](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/guerrillamail_icon.png) [Guerrilla Mail](http://grrmailb3fxpjbwm.onion/)
+* ![Guerrilla Mail](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/guerrillamail_icon.png) [Guerrilla Mail (Clearweb)](https://www.guerrillamail.com/)
+* ![SafeMail](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/safemail_icon.png) [Safe Mail (Clearweb)](https://www.safe-mail.net/)
 * ![Tutanota](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tutanota_icon.png) [Tutanota (Clearweb)](https://tutanota.com/)
 
 ## Hosting
@@ -425,6 +427,7 @@ Verify Darkweb Vendors Via These Sites
 * ![ExpressVPN](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/expressvpn_icon.png) [ExpressVPN](http://expressobutiolem.onion/)
 * ![MullvadVPN](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/mullvadvpn_icon.png) [Mullvad VPN](http://xcln5hkbriyklr6n.onion/)
 * ![Keybase](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/keybase_icon.png) [Keybase](http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/)
+* ![Keybase](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/keybase_icon.png) [Keybase (Mirror)](http://fncuwbiisyh6ak3i.onion/)
 * ![Sonar](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/sonar_icon.png) [Sonar](http://kcxb2moqaw76xrhv.onion/)
 * ![Matrix](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/matrix_icon.png) [Matrix (Clearweb)](https://matrix.org/)
 * ![Riot](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/riot_icon.png) [Riot (Clearweb)](https://about.riot.im/)
