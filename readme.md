@@ -205,7 +205,7 @@ services that allow you to find .onion sites, just like google would on the clea
 * ![Tor66](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor66_icon.png) [Tor66](http://tor66sezptuu2nta.onion/)
 * ![Tor66](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor66_icon.png) [Tor66 (Mirror)](http://tor77orrbgejplwp.onion/)
 * ![Tormax](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tormax_icon.png) [Tormax](http://tormaxunodsbvtgo.onion/)
-* ![Torrentz2](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torrentz2_icon.png) [Torrentz2](http://torrentzwealmisr.onion/)
+* ![Torrentz2](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torrentz2_icon.png) [Torrentz 2](http://torrentzwealmisr.onion/)
 * ![Tor Search](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torsearch_icon.png) [Tor Search](http://torsearchruby56z.onion/)
 * ![Tor Search Engine](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torsearchengine_icon.png) [Tor Search Engine](http://searchcoaupi3csb.onion/)
 * ![Tor Search Engine 2](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torsearchengine2_icon.png) [Tor Search Engine 2](http://searcherc3uwk535.onion/)
