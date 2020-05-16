@@ -223,6 +223,21 @@ linkdir7ekbalksw.onion###EPxdU9xTuRWk
 linkdir7ekbalksw.onion##.hoOcbG0CqpjS-bg
 ! 5/12/2020 - Felixxx - felixxxboni3mk4a.onion
 felixxxboni3mk4a.onion##[src="../pageimg/nvpn.png"]
+! 5/15/2020 Oni-Dir - directory4ichoxb.onion
+||directory4ichoxb.onion/b*.gif$image
+! 5/15/2020 MultiVAC - multivacigqzqqon.onion
+multivacigqzqqon.onion##div.Input:nth-of-type(3)
+multivacigqzqqon.onion##div:nth-of-type(1)
+! 5/16/2020 - TorMagazine - t4tyrhxbxb2c2wra.onion
+t4tyrhxbxb2c2wra.onion###ruby_3fd6e9e3
+t4tyrhxbxb2c2wra.onion##div.t4tyr-widget.widget:nth-of-type(1) > .block-title.widget-title > h3
+t4tyrhxbxb2c2wra.onion###ruby_ede14799 > .ruby-container > .col-xs-12.col-sm-4.sidebar-wrap > .is-sticked.ruby-sidebar-sticky > .sidebar-inner > div.t4tyr-widget.widget:nth-of-type(1)
+t4tyrhxbxb2c2wra.onion###ruby_ede14799 > .ruby-container > .col-xs-12.col-sm-4.sidebar-wrap > .is-sticked.ruby-sidebar-sticky > .sidebar-inner > div.t4tyr-widget.widget:nth-of-type(2)
+t4tyrhxbxb2c2wra.onion##div.t4tyr-widget.widget:nth-of-type(3)
+t4tyrhxbxb2c2wra.onion##div.t4tyr-widget.widget:nth-of-type(4)
+t4tyrhxbxb2c2wra.onion##div.t4tyr-widget.widget:nth-of-type(5)
+t4tyrhxbxb2c2wra.onion###newsmax_ruby_sidebar_widget_advertising-12
+t4tyrhxbxb2c2wra.onion###newsmax_ruby_sidebar_widget_advertising-11
 !-------------------------------------------------------------!
 !------------------------- Annoyances ------------------------!
 !-------------------------------------------------------------!
