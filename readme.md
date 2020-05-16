@@ -2,7 +2,17 @@
 For the time being, please go to [this pastebin](https://pastebin.com/VCHK40jV) where I will import the .onion links I saved in the pastebin to here over time.
 
 # FAQ
-W.I.P...
+* What are .onion links?
+> onion links are only accessible via the Tor Network, commonly known as the "dark web"
+
+* How do I access .onion links?
+> you need the [Tor Browser](https://www.torproject.org/download/), which is a modified version of Firefox that routes any traffic through the Tor Network
+
+* Is accessing the Tor Network/Dark Web illegal?
+> a quick search in your prefered search engine will give you the answer
+
+* How do I stay safe while browsing the dark web?
+> only use the Tor Browser on a Unix based OS (macOS/OSX and Linux (any distro/flavor will do)) and have a VPN that does not keep logs, do some research and settle on a VPN you trust.
 
 # Disclaimer
 I only provide information about what exists on the dark web as informative/educational purposes only. I have listed many onion links that are still up and running with a legitimate purpose.

@@ -1,7 +1,7 @@
-! Title: ReduX's Dark Web AdBlock Filters
+! Title: Dark Web AdBlock Filters
 ! Description: AdBlock filters for tor network (dark web), only use if you browse the tor network, make sure cosmetic filtering is enabled in uBlock Origin for it to work properly.
 ! Version: 2.1.6
-! Expires: 1 minute
+! Expires: 1 day
 ! License: http://creativecommons.org/licenses/by/3.0/
 !-------------------------------------------------------------!
 !----------------------------- Ads ---------------------------!
