@@ -15,11 +15,11 @@ Know your risk before opening any onion links, if you the link is legal then you
 
 # Recommended Tools To Enhance Your Dark Web Browsing Experience
 * ![uBlock Origin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ublockorigin_icon.png) [uBlock Origin](https://github.com/gorhill/uBlock) - overall good AdBlocking software
-* ![uBlock Origin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ublockorigin_icon.png) [Dark Web Ads + Anti-Scam Filters](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web) - follow this tutorial and paste these 3 links into the "import" text box in the filters section of uBlock Origin
+* ![uBlock Origin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ublockorigin_icon.png) [Dark Web Adblock Filter + Anti-Scam Filter + Anti-Under-18 Filter](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web) - follow this tutorial and paste these 3 links into the "import" text box in the filters section of uBlock Origin
 ```
-https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/AdBlock_Dark_Web.txt
+https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_AdBlock.txt
 https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_Scams.txt
-https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Anti_Under18.txt
+https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_Anti_Under18.txt
 ```
 
 # Table Of Contents
