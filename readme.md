@@ -14,6 +14,9 @@ For the time being, please go to [this pastebin](https://pastebin.com/VCHK40jV) 
 * How do I stay safe while browsing the dark web?
 > only use the Tor Browser on a Unix based OS (macOS/OSX and Linux (any distro/flavor will do)) and have a VPN that does not keep logs, do some research and settle on a VPN you trust.
 
+* A particular onion link won't connect properly, am I doing something wrong
+> No, this is most likely a problem on the website's end, onion links constantly go down and back up, so either try going to a mirror if there is one or go to a different onion link
+
 # Disclaimer
 I only provide information about what exists on the dark web as informative/educational purposes only. I have listed many onion links that are still up and running with a legitimate purpose.
 
