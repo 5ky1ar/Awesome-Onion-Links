@@ -288,6 +288,7 @@ sites that monitor popular dark web sites to see if they are online or not
 **ONLY** BUY FROM TRUSTED *VENDORS* TO AVOID GETTING **SCAMMED**      
 **ALWAYS** VERIFY [PGP KEYS](https://www.wikiwand.com/en/Pretty_Good_Privacy) OF *.ONION LINKS* & *BITCOIN WALLETS* BEFORE BUYING, you can quickly do it [here](https://dark.fail/pgp)  
 **ALWAYS** [MIX](https://www.wikiwand.com/en/Cryptocurrency_tumbler) YOUR BITCOINS BEFORE BUYING  
+**I AM NOT RESPONSIBLE IF YOU GET SCAMMED**  
 
 Verify Darkweb Vendors Via These Sites
 * ![Recon](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/recon_icon.png) [Recon](http://reconponydonugup.onion/)
@@ -311,6 +312,7 @@ Verify Darkweb Vendors Via These Sites
 **ONLY** BUY FROM TRUSTED *VENDORS* TO AVOID GETTING **SCAMMED**      
 **ALWAYS** VERIFY [PGP KEYS](https://www.wikiwand.com/en/Pretty_Good_Privacy) OF *.ONION LINKS* & *BITCOIN WALLETS* BEFORE BUYING, you can quickly do it [here](https://dark.fail/pgp)  
 **ALWAYS** [MIX](https://www.wikiwand.com/en/Cryptocurrency_tumbler) YOUR BITCOINS BEFORE BUYING  
+**I AM NOT RESPONSIBLE IF YOU GET SCAMMED**  
 
 Verify Darkweb Vendors Via These Sites
 * ![Recon](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/recon_icon.png) [Recon](http://reconponydonugup.onion/)
