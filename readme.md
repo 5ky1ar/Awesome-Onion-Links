@@ -503,7 +503,7 @@ Verify Darkweb Vendors Via These Sites
 * ![9chan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/9chan_icon.png) [9Chan](http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/)
 * ![16chan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/16chan_icon.png) [16Chan](http://47s7obvdgdpj6fkc.onion/)
 * ![TorChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torchan_icon.png) [TorChan](http://zw3crggtadila2sg.onion/imageboard/)
-* ![Waifuist](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torchan_icon.png) [Waifuist](http://waifuwyuu7fqlf2haidb3izomxyhxme2mk4kdlibdiwgmzelt2iorxyd.onion/)
+* ![Waifuist](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/waifuist_icon.png) [Waifuist](http://waifuwyuu7fqlf2haidb3izomxyhxme2mk4kdlibdiwgmzelt2iorxyd.onion/)
 
 ## IRC
 * ![OnionCommunity IRC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ocirc_icon.png) [OnionCommunity IRC](http://chatobbpwe37uhar.onion/)
