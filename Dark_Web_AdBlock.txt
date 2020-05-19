@@ -1,6 +1,6 @@
 ! Title: Dark Web AdBlock Filters
 ! Description: AdBlock filters for tor network (dark web), only use if you browse the tor network, make sure cosmetic filtering is enabled in uBlock Origin for it to work properly.
-! Version: 2.1.6
+! Version: 2.1.9
 ! Expires: 1 day
 ! License: http://creativecommons.org/licenses/by/3.0/
 !-------------------------------------------------------------!
@@ -247,6 +247,12 @@ t4tyrhxbxb2c2wra.onion###newsmax_ruby_sidebar_widget_advertising-11
 67xkew7pvctdcj526yl7gl6pc6e2dwqwx3ugbe67g2hfjdnbwjd7euad.onion###welcome > center:nth-of-type(1)
 67xkew7pvctdcj526yl7gl6pc6e2dwqwx3ugbe67g2hfjdnbwjd7euad.onion##center:nth-of-type(3)
 67xkew7pvctdcj526yl7gl6pc6e2dwqwx3ugbe67g2hfjdnbwjd7euad.onion##center:nth-of-type(4)
+! 5/19/2020 Tornet - tgs5dkeqkg5hrjjk.onion
+tgs5dkeqkg5hrjjk.onion##center
+tgs5dkeqkg5hrjjk.onion##div > center
+tgs5dkeqkg5hrjjk.onion##div > div:nth-of-type(3)
+! 5/19/2020 - Wiki Link Hidden - wikilink77h7lrbi.onion
+wikilink77h7lrbi.onion###recent-posts-2 > div
 !-------------------------------------------------------------!
 !------------------------- Annoyances ------------------------!
 !-------------------------------------------------------------!
