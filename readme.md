@@ -511,6 +511,7 @@ Verify Darkweb Vendors Via These Sites
 * ![Suprbay](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Suprbay](http://suprbayoubiexnmp.onion/)
 * ![HM](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hm_icon.png) [HM](http://wtj5psom5zufu4yo.onion/)
 * ![AnonGTS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/anongts_icon.png) [AnonGTS](http://ocu3errhpxppmwpr.onion/)
+* ![NZ Darknet Market](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [NZ Darknet Market](http://nz53a6eqr3jchq5g.onion/)
 * ![Hub](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hub_icon.png) [The Hub Link List (v2 Mirror)](http://thehub7xbw4dc5r2.onion/)
 * ![Hub](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hub_icon.png) [The Hub Link List (v3 Mirror)](http://thehubpkeu7x6ddq5tc4gali6ldsi4ly6bqlhsid7pztwhbirahu6vqd.onion/)
 * ![Hub](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hub_icon.png) [The Hub Forum (Mirror 1)](http://thehubpkeu7x6ddq5tc4gali6ldsi4ly6bqlhsid7pztwhbirahu6vqd.onion/)
