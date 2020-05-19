@@ -1,6 +1,6 @@
 ! Title: Dark Web Anti-Under-18 Filters
 ! Description: uBlock Origin filter designed to block known Under 18 sites on the dark web. Use CTRL + F to search. Insert onion link (without || part) or name in the search bar.
-! Version: 0.0.1
+! Version: 0.0.2
 ! Expires: 1 day
 ! License: https://creativecommons.org/licenses/by/3.0/
 !-------------------------------------------------------------!
@@ -44,3 +44,7 @@
 ||lolitmhfkpif7sky.onion
 ||magic5zudmw7witu.onion
 ||yb24hizytii5oudw.onion
+!-------------------------------------------------------------!
+!---------------------------- Other --------------------------!
+!-------------------------------------------------------------!
+||cutieg6ima3wwyee.onion
