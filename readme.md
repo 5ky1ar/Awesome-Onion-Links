@@ -495,6 +495,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![OnionThumbs](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionThumbs](http://othumbs53mh65hxc.onion/)
 * ![4Chan Archives](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/4char_icon.png) [4Chan Archives](http://ydt6jy2ng3s3xg2e.onion/)
 * ![4Chan Archives](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/4char_icon.png) [4Chan Archives (Mirror)](http://oweeh6jcqx3aoey2.onion/)
+* ![Debain Package Tracker](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/debain_icon.png) [Debain Package Tracker](http://2qlvvvnhqyda2ahd.onion/)
 
 # Social
 
