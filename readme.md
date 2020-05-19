@@ -606,6 +606,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![BBC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bbc_icon.png) [BBC](https://www.bbcnewsv2vjtpsuy.onion/)
 * ![BBC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bbc_icon.png) [BBC (Mirror)](https://www.s5rhoqqosmcispfb.onion/)
 * ![ProPublica](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/propublica_icon.png) [ProPublica](https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/)
+* ![BuzzFeed](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/buzzfeed_icon.png) [BuzzFeed](https://bfnews3u2ox4m4ty.onion/)
 * ![Mascherari Press](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/mascherari_icon.png) [Mascherari Press](http://7tm2lzezyjwtpn2s.onion/)
 * ![Freedom Press](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/freedompress_icon.png) [Freedom Of The Press Foundation (Clearweb)](https://freedom.press/)
 * ![OnionWeb](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionweb_icon.png) [The Onion Web](http://onionwsoiu53xre32jwve7euacadvhprq2jytfttb55hrbo3execodad.onion/)
