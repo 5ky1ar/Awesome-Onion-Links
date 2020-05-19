@@ -441,6 +441,7 @@ Verify Darkweb Vendors Via These Sites
 * ![The Pirate Bay](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tpb_icon.png) [The Pirate Bay (Mirror)](http://piratebaymbf3ul7.onion/)
 * ![IPA Hosting](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [IPA Hosting](http://ipahostyyez3loer.onion/)
 * ![Intel Repository](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Intel Repository](http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/)
+* ![Intel Exchange](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/intex_icon.png) [Intel Exchange](http://intelex7ny6coqno.onion/)
 * ![Anodex](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/anodex_icon.png) [Anodex](http://anodex.oniichanylo2tsi4.onion/)
 
 ## Security And Privacy
@@ -487,6 +488,7 @@ Verify Darkweb Vendors Via These Sites
 ## Miscellaneous
 * ![AdHook](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/adhook_icon.png) [AdHook](http://adhook6u2wrwdhlb.onion/)
 * ![OnionThumbs](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionThumbs](http://othumbs53mh65hxc.onion/)
+* ![4Chan Archives](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/4char_icon.png) [4Chan Archives](http://ydt6jy2ng3s3xg2e.onion/)
 
 # Social
 
@@ -499,10 +501,12 @@ Verify Darkweb Vendors Via These Sites
 * ![Raddle](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/raddle_icon.png) [Raddle](http://lfbg75wjgi4nzdio.onion/)
 * ![OnionTube](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/oniontube_icon.png) [OnionTube](http://tubef7zilcjhme2g.onion/)
 * ![Bibliogram](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bibliogram_icon.png) [Bibliogram](http://rlp5gt4d7dtkok3yaogocbcvrs2tdligjrxipsamztjq4wwpxzjeuxqd.onion/)
+* ![Invidious](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/invidious_icon.png) [Invidious](http://kgg2m7yk5aybusll.onion/)
 * ![Permanent Booru](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/booru_icon.png) [The Permanent Booru](http://vsdfdtkr5mh6y33p.onion/)
 * ![Permanent Booru](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/booru_icon.png) [The Permanent Booru (Mirror)](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
 
 ## Forums
+* ![Kiwi Farms](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/kiwifarms_icon.png) [Kiwi Farms](http://uquusqsaaad66cvub4473csdu4uu7ahxou3zqc35fpw5d4ificedzyqd.onion/)
 * ![Torum](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torum_icon.png) [Torum](http://torum43tajnrxritn4iumy75giwb5yfw6cjq2czjikhtcac67tfif2yd.onion/)
 * ![DNMAvengers](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Darknet Avengers](http://avengersdutyk3xf.onion/)
 * ![Hidden Answers](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Hidden Answers](http://answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/)
@@ -673,6 +677,7 @@ Verify Darkweb Vendors Via These Sites
 * ![Psy Community UA](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Psy Community UA](http://psyco42coib33wfl.onion/)
 * ![ITPHX](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/itphx_icon.png) [ITPHX](http://snvb5ffurikzeiod.onion/)
 * ![NeoChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/neochan_icon.png) [NeoChan](http://neochansu4cegu4o.onion/)
+* ![UDFLabs](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ufolabs_icon.png) [UFO Labs](http://ufolabs44qi3pr77.onion/)
 
 ## Chinese / 中国語
 * ![中文论坛](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [中文论坛](http://almvdkg6vrpmkvk4.onion/)
