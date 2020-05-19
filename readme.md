@@ -534,6 +534,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 ## Chat
 * ![ChatWithStrangers](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/chatwithstrangers_icon.png) [Chat With Strangers](http://tetatl6umgbmtv27.onion/)
 * ![Ableonion](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Ableonion](http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/)
+* ![Hidden Chat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Hidden Chat](http://hiddendsw3qqh2if.onion/)
 * ![Evilchat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/evilchat_icon.png) [Evilchat](http://evilchatxp24s7vb.onion/)
 * ![Daniel's Chat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/daniel_icon.png) [Daniel's Chat](http://danschat356lctri3zavzh6fbxg2a7lo6z3etgkctzzpspewu7zdsaqd.onion/)
 * ![Blackhat Chat](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/blackhatchat_icon.png) [Black Hat Chat](http://blkh4ylofapg42tj6ht565klld5i42dhjtysvsnnswte4xt4uvnfj5qd.onion/)
@@ -543,8 +544,10 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 ## Chans
 * ![9chan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/9chan_icon.png) [9Chan](http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/)
 * ![16chan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/16chan_icon.png) [16Chan](http://47s7obvdgdpj6fkc.onion/)
+* ![EndChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/endchan_icon.png) [EndChan](http://s6424n4x4bsmqs27.onion/)
 * ![EndChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/endchan_icon.png) [EndChan](http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/)
 * ![TorChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torchan_icon.png) [TorChan](http://zw3crggtadila2sg.onion/imageboard/)
+* ![BalkanChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/balkchan_icon.png) [BalkanChan](http://26yukmkrhmhfg6alc56oexe7bcrokv4rilwpfwgh2u6bsbkddu55h4ad.onion/)
 * ![Waifuist](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/waifuist_icon.png) [Waifuist](http://waifuwyuu7fqlf2haidb3izomxyhxme2mk4kdlibdiwgmzelt2iorxyd.onion/)
 
 ## IRC
@@ -654,6 +657,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![Respuestas Ocultas](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Respuestas Ocultas](http://es.answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/)
 
 ## French / Français
+* ![FrChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/frchan_icon.png) [FrChan](http://fchantpaey5or245.onion/)
 * ![Hidden Directory](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Hidden Directory](http://irgrtpxhivfdq6o5.onion/)
 * ![Trollodrome](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Le Trollodrôme 2.0](http://trollodrome2.torpress2sarn7xw.onion/)
 * ![Le Circle](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Le Circle Forum](http://lecercle2bxxqlmvqzcu34g7t4wh7majp34cxihnlcrhbdghke2in4ad.onion/)
@@ -682,6 +686,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![Флибуста](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/flibusta_icon.png) [Флибуста](http://flibustahezeous3.onion/)
 * ![Традиция](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tradition_icon.png) [Традиция](http://traditio3trziwpn.onion/)
 * ![BDF](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bdf_icon.png) [BDF](http://bdfcctess3zhicun.onion/)
+* ![BHF](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bhf_icon.png) [BHF](http://bhfdotioyenp2qr4.onion/)
 * ![eXeL@b](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/exelab_icon.png) [eXeL@b](http://e4uncjzrukvfp5iy.onion/)
 * ![Psy Community UA](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Psy Community UA](http://psyco42coib33wfl.onion/)
 * ![ITPHX](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/itphx_icon.png) [ITPHX](http://snvb5ffurikzeiod.onion/)
