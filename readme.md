@@ -711,6 +711,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![XSS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/xss_icon.png) [XSS](http://xsstorweb56srs3a.onion/)
 * ![Rustorka](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/rustorka_icon.png) [Rustorka](http://zwbxopvylvpi7t75.onion/)
 * ![Runion](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/runion_icon.png) [Runion](http://runionwe25lxr3is.onion/)
+* ![2Channel](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/2chan_icon.png) [2Channel](http://2channel5xx5xchx.onion/)
 
 ## Chinese / 中国語
 * ![中文论坛](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [中文论坛](http://almvdkg6vrpmkvk4.onion/)
