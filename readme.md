@@ -442,6 +442,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![Tor Pastebin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Tor Pastebin (Under Maintenance)](http://postits4tga4cqts.onion/)
 * ![The Pirate Bay](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tpb_icon.png) [The Pirate Bay](http://piratebayztemzmv.onion/)
 * ![The Pirate Bay](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tpb_icon.png) [The Pirate Bay (Mirror)](http://piratebaymbf3ul7.onion/)
+* ![Torrent Galaxy](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torgal_icon.png) [Torrent Galaxy](http://galaxy2gchufcb3z.onion/)
 * ![IPA Hosting](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [IPA Hosting](http://ipahostyyez3loer.onion/)
 * ![Intel Repository](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Intel Repository](http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/)
 * ![Intel Exchange](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/intex_icon.png) [Intel Exchange](http://intelex7ny6coqno.onion/)
@@ -487,6 +488,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![Volatile](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/volatile_icon.png) [Volatile](http://vola7ileiax4ueow.onion/)
 * ![KLOS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Kaizushi's Little Onion Service](http://kaizushih5iec2mxohpvbt5uaapqdnbluaasa2cmsrrjtwrbx46cnaid.onion/)
 * ![KLOS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Kaizushi's Little Onion Service (Clearweb)](https://kloshost.online/)
+* ![Kingdom](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Kingdom Of God](http://xt6zo6bcjbrrjyvr.onion/)
 
 ## Miscellaneous
 * ![AdHook](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/adhook_icon.png) [AdHook](http://adhook6u2wrwdhlb.onion/)
@@ -599,7 +601,8 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 
 # News
 * ![The New York Times](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nyt_icon.png) [The New York Times](https://www.nytimes3xbfgragh.onion/)
-* ![BBC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bbc_icon.png) [BBC](https://www.s5rhoqqosmcispfb.onion/)
+* ![BBC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bbc_icon.png) [BBC](https://www.bbcnewsv2vjtpsuy.onion/)
+* ![BBC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bbc_icon.png) [BBC (Mirror)](https://www.s5rhoqqosmcispfb.onion/)
 * ![ProPublica](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/propublica_icon.png) [ProPublica](https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/)
 * ![Mascherari Press](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/mascherari_icon.png) [Mascherari Press](http://7tm2lzezyjwtpn2s.onion/)
 * ![Freedom Press](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/freedompress_icon.png) [Freedom Of The Press Foundation (Clearweb)](https://freedom.press/)
@@ -653,6 +656,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 # Non-English
 
 ## Spanish / Español
+* ![Rincón Pirata](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/piratecorner_icon.png) [Rincón Pirata](http://p7ob6w5vic4ian3lws2sw2toxo6kmqtpznzslmx52hkd5lfm66ofauid.onion/)
 * ![Cebolla](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/cebolla_icon.png) [CebollaChan 3.0](http://s6cco2jylmxqcdeh.onion/)
 * ![Respuestas Ocultas](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Respuestas Ocultas](http://es.answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/)
 
