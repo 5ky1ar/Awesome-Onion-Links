@@ -498,6 +498,7 @@ Verify Darkweb Vendors Via These Sites
 * ![Nitter](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nitter_icon.png) [Nitter](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)
 * ![Raddle](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/raddle_icon.png) [Raddle](http://lfbg75wjgi4nzdio.onion/)
 * ![OnionTube](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/oniontube_icon.png) [OnionTube](http://tubef7zilcjhme2g.onion/)
+* ![Bibliogram](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bibliogram_icon.png) [Bibliogram](http://rlp5gt4d7dtkok3yaogocbcvrs2tdligjrxipsamztjq4wwpxzjeuxqd.onion/)
 * ![Permanent Booru](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/booru_icon.png) [The Permanent Booru](http://vsdfdtkr5mh6y33p.onion/)
 * ![Permanent Booru](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/booru_icon.png) [The Permanent Booru (Mirror)](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
 
