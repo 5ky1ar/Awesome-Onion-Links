@@ -91,6 +91,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_
   * [Finnish / Suomi](#finnish--suomi)
   * [Swedish / Svenska](#swedish--svenska)
   * [Dutch / Nederlands](#dutch--nederlands)
+  * [Slovak / Slovenský](#slovak--slovenský)
 * [Unknown](#unknown)
 * [Broken Links](#broken-links)
   * [Broken](#broken)
@@ -484,7 +485,8 @@ Verify Darkweb Vendors Via These Sites
 * ![KLOS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Kaizushi's Little Onion Service (Clearweb)](https://kloshost.online/)
 
 ## Miscellaneous
-* ![OnionThumbs](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionThumbs](http://othumbs53mh65hxc.onion/onionthumbs/)
+* ![AdHook](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/adhook_icon.png) [AdHook](http://adhook6u2wrwdhlb.onion/)
+* ![OnionThumbs](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionThumbs](http://othumbs53mh65hxc.onion/)
 
 # Social
 
@@ -493,7 +495,10 @@ Verify Darkweb Vendors Via These Sites
 * ![Facebook](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/facebook_icon.png) [Facebook](https://www.facebookcorewwwi.onion/)
 * ![Connect](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/connect_icon.png) [Connect](http://connectkjsazkwud.onion/)
 * ![Galaxy3](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/galaxy3_icon.png) [Galaxy3](http://galaxy3m2mn5iqtn.onion/)
+* ![Nitter](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nitter_icon.png) [Nitter](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)
 * ![OnionTube](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/oniontube_icon.png) [OnionTube](http://tubef7zilcjhme2g.onion/)
+* ![Permanent Booru](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/booru_icon.png) [The Permanent Booru](http://vsdfdtkr5mh6y33p.onion/)
+* ![Permanent Booru](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/booru_icon.png) [The Permanent Booru (Mirror)](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
 
 ## Forums
 * ![Torum](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torum_icon.png) [Torum](http://torum43tajnrxritn4iumy75giwb5yfw6cjq2czjikhtcac67tfif2yd.onion/)
@@ -702,6 +707,9 @@ Verify Darkweb Vendors Via These Sites
 ## Dutch / Nederlands
 * ![Tweakers](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tweakers_icon.png) [Tweakers](http://2arj33oil5dbrpyu.onion/)
 
+## Slovak / Slovenský
+* ![Alokal](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/alokal_icon.png) [Alokal](http://alokalaou53jmgum.onion/)
+
 # Unknown
 * ![CentralShop](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/centralshop_icon.png) [CentralShop (Invite Only)](http://qhd6aon2fyjjan4e.onion/)
 * ![C Pozzi](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [C Pozzi (Authorization Required)](http://hakteamvayuhxoe7.onion/)
@@ -713,6 +721,7 @@ Verify Darkweb Vendors Via These Sites
 * ![Hire](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Web Programmer For Hire](http://kobrabd77ppgjd2r.onion/)
 * ![Turkish Hosting](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionlist_icon.png) [Turkish Hidden Hosting](http://thhazdmx2kymozql.onion/)
 * ![Torch](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torch_icon.png) [Torch](http://area23wa3d32yygu.onion/)
+* ![503 Bad Gateway](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [???](http://atlayofke5rqhsma.onion/)
 
 ## Seized
 * ![Video](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Video](http://mt3plrzdiyqf6jim.onion/)
