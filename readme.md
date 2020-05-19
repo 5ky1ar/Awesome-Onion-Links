@@ -61,6 +61,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_
   * [Security And Privacy](#security-and-privacy)
   * [Music](#music)
   * [Multipurpose](#multipurpose-1)
+  * [Miscellaneous](#miscellaneous-1)
 * [Social](#social)
   * [Networks](#networks)
   * [Forums](#forums)
@@ -71,7 +72,7 @@ https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Dark_Web_
   * [Political Movements](#political-movements)
   * [Conventions](#conventions)
 * [News](#news)
-* [Miscellaneous](#miscellaneous-1)
+* [Miscellaneous](#miscellaneous-2)
   * [Books](#books)
   * [Hacking](#hacking)
   * [Games](#games)
@@ -266,6 +267,7 @@ services that allow you to find .onion sites, just like google would on the clea
 * ![OnionDir](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torproject_icon.png) [OnionDir](http://dirnxxdraygbifgc.onion/)
 * ![OnionTree](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/oniontree_icon.png) [OnionTree](http://onions53ehmf4q75.onion/)
 * ![OnionList](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionList](http://u5gnv57w3wimlrmr.onion/)
+* ![Onion List 2](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Onion List 2](http://onionvdyiweqdlta.onion/)
 * ![TorWiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torwiki_icon.gif) [TorWiki](http://torwikignoueupfm.onion/)
 * ![Oni-Dir](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onidir_icon.png) [Oni-Dir](http://directory4ichoxb.onion/)
 * ![Paul's Onion List](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Paul's Onion List](http://linkdnwzr3lpx6xq.onion/)
@@ -480,6 +482,9 @@ Verify Darkweb Vendors Via These Sites
 * ![Volatile](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/volatile_icon.png) [Volatile](http://vola7ileiax4ueow.onion/)
 * ![KLOS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Kaizushi's Little Onion Service](http://kaizushih5iec2mxohpvbt5uaapqdnbluaasa2cmsrrjtwrbx46cnaid.onion/)
 * ![KLOS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Kaizushi's Little Onion Service (Clearweb)](https://kloshost.online/)
+
+## Miscellaneous
+* ![OnionThumbs](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionThumbs](http://othumbs53mh65hxc.onion/onionthumbs/)
 
 # Social
 
