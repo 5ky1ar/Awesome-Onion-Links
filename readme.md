@@ -492,6 +492,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![AdHook](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/adhook_icon.png) [AdHook](http://adhook6u2wrwdhlb.onion/)
 * ![OnionThumbs](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionThumbs](http://othumbs53mh65hxc.onion/)
 * ![4Chan Archives](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/4char_icon.png) [4Chan Archives](http://ydt6jy2ng3s3xg2e.onion/)
+* ![4Chan Archives](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/4char_icon.png) [4Chan Archives (Mirror)](http://oweeh6jcqx3aoey2.onion/)
 
 # Social
 
@@ -512,6 +513,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 ## Forums
 * ![Kiwi Farms](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/kiwifarms_icon.png) [Kiwi Farms](http://uquusqsaaad66cvub4473csdu4uu7ahxou3zqc35fpw5d4ificedzyqd.onion/)
 * ![Torum](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torum_icon.png) [Torum](http://torum43tajnrxritn4iumy75giwb5yfw6cjq2czjikhtcac67tfif2yd.onion/)
+* ![Onionland](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionland_icon.png) [Onionland](http://onionlandbakyt3j.onion/)
 * ![DNMAvengers](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Darknet Avengers](http://avengersdutyk3xf.onion/)
 * ![Hidden Answers](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Hidden Answers](http://answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/)
 * ![Envoy](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Envoy](http://envoys5appps3bin.onion/)
@@ -541,11 +543,14 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 ## Chans
 * ![9chan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/9chan_icon.png) [9Chan](http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/)
 * ![16chan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/16chan_icon.png) [16Chan](http://47s7obvdgdpj6fkc.onion/)
+* ![EndChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/endchan_icon.png) [EndChan](http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/)
 * ![TorChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torchan_icon.png) [TorChan](http://zw3crggtadila2sg.onion/imageboard/)
 * ![Waifuist](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/waifuist_icon.png) [Waifuist](http://waifuwyuu7fqlf2haidb3izomxyhxme2mk4kdlibdiwgmzelt2iorxyd.onion/)
 
 ## IRC
 * ![OnionCommunity IRC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ocirc_icon.png) [OnionCommunity IRC](http://chatobbpwe37uhar.onion/)
+* ![Infantile](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/infantile_icon.png) [Infantile](http://infantilefb6ovh4.onion/)
+* ![Infantile](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/infantile_icon.png) [Infantile (Clearweb)](https://infantile.xyz/)
 
 ## Blogs
 * ![Asocial](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/asocial_icon.png) [The Asocial](http://asocialfz7ncw5ui.onion/)
