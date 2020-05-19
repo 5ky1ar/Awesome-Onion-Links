@@ -695,7 +695,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![Psy Community UA](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Psy Community UA](http://psyco42coib33wfl.onion/)
 * ![ITPHX](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/itphx_icon.png) [ITPHX](http://snvb5ffurikzeiod.onion/)
 * ![NeoChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/neochan_icon.png) [NeoChan](http://neochansu4cegu4o.onion/)
-* ![UDFLabs](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ufolabs_icon.png) [UFO Labs](http://ufolabs44qi3pr77.onion/)
+* ![UFOLabs](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ufolabs_icon.png) [UFO Labs](http://ufolabs44qi3pr77.onion/)
 
 ## Chinese / 中国語
 * ![中文论坛](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [中文论坛](http://almvdkg6vrpmkvk4.onion/)
