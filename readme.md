@@ -440,6 +440,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![Felixxx](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/felixxx_icon.png) [Felixxx](http://felixxxboni3mk4a.onion/)
 * ![ZeroBin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [ZeroBin](http://zerobinqmdqd236y.onion/)
 * ![DeepPaste](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/deeppaste_icon.png) [DeepPaste](http://depastedihrn3jtw.onion/)
+* ![OnionPaste](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionpaste_icon.png) [OnionPaste](http://pastmo4ixjkacqqv.onion/)
 * ![Tor Pastebin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Tor Pastebin (Under Maintenance)](http://postits4tga4cqts.onion/)
 * ![The Pirate Bay](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tpb_icon.png) [The Pirate Bay](http://piratebayztemzmv.onion/)
 * ![The Pirate Bay](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tpb_icon.png) [The Pirate Bay (Mirror)](http://piratebaymbf3ul7.onion/)
@@ -557,6 +558,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![BalkanChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/balkchan_icon.png) [BalkanChan](http://26yukmkrhmhfg6alc56oexe7bcrokv4rilwpfwgh2u6bsbkddu55h4ad.onion/)
 * ![JulayWorld](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/julayworld_icon.png) [JulayWorld](http://bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion/)
 * ![Waifuist](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/waifuist_icon.png) [Waifuist](http://waifuwyuu7fqlf2haidb3izomxyhxme2mk4kdlibdiwgmzelt2iorxyd.onion/)
+* ![LoliFox](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/lolifox_icon.png) [LoliFox](http://wn3ghyuon5eaqyxi7yauald3d53gsxrkanzpu2qdyc54vobif2qutsid.onion/)
 
 ## IRC
 * ![OnionCommunity IRC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ocirc_icon.png) [OnionCommunity IRC](http://chatobbpwe37uhar.onion/)
@@ -707,6 +709,8 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![NeoChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/neochan_icon.png) [NeoChan](http://neochansu4cegu4o.onion/)
 * ![UFOLabs](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ufolabs_icon.png) [UFO Labs](http://ufolabs44qi3pr77.onion/)
 * ![XSS](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/xss_icon.png) [XSS](http://xsstorweb56srs3a.onion/)
+* ![Rustorka](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/rustorka_icon.png) [Rustorka](http://zwbxopvylvpi7t75.onion/)
+* ![Runion](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/runion_icon.png) [Runion](http://runionwe25lxr3is.onion/)
 
 ## Chinese / 中国語
 * ![中文论坛](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [中文论坛](http://almvdkg6vrpmkvk4.onion/)
