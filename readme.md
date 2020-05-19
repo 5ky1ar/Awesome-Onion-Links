@@ -295,9 +295,10 @@ sites that monitor popular dark web sites to see if they are online or not
 **ALWAYS** [MIX](https://www.wikiwand.com/en/Cryptocurrency_tumbler) YOUR BITCOINS BEFORE BUYING  
 **I AM NOT RESPONSIBLE IF YOU GET SCAMMED**  
 
-Verify Darkweb Vendors Via These Sites
+Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![Recon](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/recon_icon.png) [Recon](http://reconponydonugup.onion/)
 * ![DarknetTrust](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Darknet Trust](http://ohivsd7ze7rgdir4.onion/)
+* ![Hidden Reviews](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hidrev_icon.png) [Hidden Reviews](http://u5lyidiw4lpkonoctpqzxgyk6xop7w7w3oho4dzzsi272rwnjhyx7ayd.onion/)
 
 ## Bitcoin Mixers
 * ![Helix Light](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/helixlight_icon.png) [Helix Light](http://mixerrzbgcknjzk4.onion/)
@@ -320,9 +321,10 @@ Verify Darkweb Vendors Via These Sites
 **ALWAYS** [MIX](https://www.wikiwand.com/en/Cryptocurrency_tumbler) YOUR BITCOINS BEFORE BUYING  
 **I AM NOT RESPONSIBLE IF YOU GET SCAMMED**  
 
-Verify Darkweb Vendors Via These Sites
+Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![Recon](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/recon_icon.png) [Recon](http://reconponydonugup.onion/)
 * ![DarknetTrust](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Darknet Trust](http://ohivsd7ze7rgdir4.onion/)
+* ![Hidden Reviews](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/hidrev_icon.png) [Hidden Reviews](http://u5lyidiw4lpkonoctpqzxgyk6xop7w7w3oho4dzzsi272rwnjhyx7ayd.onion/)
 
 ## Drugs
 * ![BigBlue](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Big Blue Market (Mirror 1)](http://44v6hk7cm4gowwe2wottcnqgndwkab4qvva2n3gvjk4lrbgmqu5uw2ad.onion/)
