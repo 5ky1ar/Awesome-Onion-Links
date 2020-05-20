@@ -660,6 +660,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 ## Uncategorized
 * ![IIT Underground](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/iitug_icon.png) [IIT Underground](http://62gs2n5ydnyffzfy.onion/)
 * ![Beneath Virginia Tech](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bvt_icon.png) [Beneath Virginia Tech](http://74ypjqjwf6oejmax.onion/)
+* ![Psychonaut Wiki](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/psychonaut_icon.png) [Psychonaut Wiki](http://psychonaut3z5aoz.onion/)
 * ![PopFur](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/popfur_icon.png) [PopFur](http://vj5pbopejlhcbz4n.onion/)
 * ![How Will You Tell The World](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [How Will You Tell The World](http://rjzdqt4z3z3xo73h.onion/)
 * ![Dildo Sky](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/dildosky_icon.gif) [Dildo Sky](http://dildosky53jnf5mt.onion/)
