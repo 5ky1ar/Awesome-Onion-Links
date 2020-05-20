@@ -701,6 +701,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![Rutor](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/rutor_icon.png) [Rutor (Mirror)](http://ruto2tudhnpwz63d.onion/)
 * ![Флибуста](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/flibusta_icon.png) [Флибуста](http://flibustahezeous3.onion/)
 * ![Традиция](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tradition_icon.png) [Традиция](http://traditio3trziwpn.onion/)
+* ![Архивач](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/archivist_icon.png) [Архивач](http://arhivachovtj2jrp.onion/)
 * ![BDF](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bdf_icon.png) [BDF](http://bdfcctess3zhicun.onion/)
 * ![BHF](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/bhf_icon.png) [BHF](http://bhfdotioyenp2qr4.onion/)
 * ![eXeL@b](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/exelab_icon.png) [eXeL@b](http://e4uncjzrukvfp5iy.onion/)
