@@ -559,6 +559,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![JulayWorld](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/julayworld_icon.png) [JulayWorld](http://bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion/)
 * ![Waifuist](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/waifuist_icon.png) [Waifuist](http://waifuwyuu7fqlf2haidb3izomxyhxme2mk4kdlibdiwgmzelt2iorxyd.onion/)
 * ![LoliFox](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/lolifox_icon.png) [LoliFox](http://wn3ghyuon5eaqyxi7yauald3d53gsxrkanzpu2qdyc54vobif2qutsid.onion/)
+* ![Smug Loli](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/smugloli_icon.png) [Smug Loli](http://bhm5koavobq353j54qichcvzr6uhtri6x4bjjy4xkybgvxkzuslzcqid.onion/)
 
 ## IRC
 * ![OnionCommunity IRC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ocirc_icon.png) [OnionCommunity IRC](http://chatobbpwe37uhar.onion/)
