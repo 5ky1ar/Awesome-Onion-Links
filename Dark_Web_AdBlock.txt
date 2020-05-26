@@ -253,6 +253,13 @@ tgs5dkeqkg5hrjjk.onion##div > center
 tgs5dkeqkg5hrjjk.onion##div > div:nth-of-type(3)
 ! 5/19/2020 - Wiki Link Hidden - wikilink77h7lrbi.onion
 wikilink77h7lrbi.onion###recent-posts-2 > div
+! 5/25/2020 - MultiVAC - multivacigqzqqon.onion
+multivacigqzqqon.onion##div.Input:nth-of-type(3) > p:nth-of-type(1)
+multivacigqzqqon.onion##p:nth-of-type(2)
+multivacigqzqqon.onion##p:nth-of-type(3)
+multivacigqzqqon.onion##[src="img/paid/5b8fc5641b244.gif"]
+multivacigqzqqon.onion##[src="img/paid/5b6a0f205c46f.gif"]
+multivacigqzqqon.onion##[href="#"]
 !-------------------------------------------------------------!
 !------------------------- Annoyances ------------------------!
 !-------------------------------------------------------------!
