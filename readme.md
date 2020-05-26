@@ -812,6 +812,10 @@ javascript:void(open('http://archive.today/?run=1&url='+encodeURIComponent(docum
 * ![Galaxy3](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/archivetoday_icon.png) Galaxy3 Bookmarklet
 > saves current URL into your Galaxy3 bookmarks
 
+```javascript
+javascript:location.href='http://galaxy3bhpzxecbywoa2j4tg43muepnhfalars4cce3fcx46qlc6t3id.onion/bookmarks/add/91412?address='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title)
+```
+
 # Donate
 if you would like to donate to help keep this running, then feel free to below
 
