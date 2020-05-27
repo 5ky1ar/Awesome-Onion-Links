@@ -445,7 +445,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![ZeroBin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [ZeroBin](http://zerobinqmdqd236y.onion/)
 * ![DeepPaste](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/deeppaste_icon.png) [DeepPaste](http://depastedihrn3jtw.onion/)
 * ![OnionPaste](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onionpaste_icon.png) [OnionPaste](http://pastmo4ixjkacqqv.onion/)
-* ![Tor Pastebin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Tor Pastebin (Under Maintenance)](http://postits4tga4cqts.onion/)
+* ![Tor Pastebin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Tor Pastebin](http://postits4tga4cqts.onion/)
 * ![The Pirate Bay](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tpb_icon.png) [The Pirate Bay](http://piratebayztemzmv.onion/)
 * ![The Pirate Bay](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tpb_icon.png) [The Pirate Bay (Mirror)](http://piratebaymbf3ul7.onion/)
 * ![Torrent Galaxy](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torgal_icon.png) [Torrent Galaxy](http://galaxy2gchufcb3z.onion/)
