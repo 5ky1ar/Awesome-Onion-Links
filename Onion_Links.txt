@@ -1,0 +1,665 @@
+       ____        _                _      _       _        
+      / __ \      (_)              | |    (_)     | |       
+     | |  | |_ __  _  ___  _ __    | |     _ _ __ | | _____ 
+     | |  | | '_ \| |/ _ \| '_ \   | |    | | '_ \| |/ / __|
+  _  | |__| | | | | | (_) | | | |  | |____| | | | |   <\__ \
+ (_)  \____/|_| |_|_|\___/|_| |_|  |______|_|_| |_|_|\_\___/
+
+Compiled by ReduX. Please spread it around! See my profile for some other interesting stuff.
+
+Also I am moving this list over to here, when im done, the only thing in this pastebin will be a link to the new list location which is here: https://github.com/xMG-ReduX/Awesome-Onion-Links
+
+Note: make sure you are connecting to the sites using the HTTP protocol, NOT HTTPS, there are some exceptions, but if the site does have HTTPS support, it will switch to it automatically
+
+[==================================================]
+       I n t r o d u c t i o n   P o i n t s
+[==================================================]
+-------------------------
+     Dark Web Guides
+-------------------------
+The Way Into The Dark Web: http://guideyeb5ew6plwj.onion/
+The Way Into The Dark Web: http://f2fv76wtuwdvbpci.onion/
+Owledge: http://owlzyj4to3l5daq6edgsgp5z4lh4tzlnms4z6jv6xdtkily77j4b3byd.onion/
+The Dark Web Pug (Outdated): http://thedarkwebpugv5m.onion/
+-------------------------
+     Tor Scam Lists
+-------------------------
+Dark.Fail: http://darkfailllnkf4vf.onion/
+NoScam: http://noscamomtq5kauyu.onion/
+Scam List Of Tor 1: http://ba7fsz4656jjxs3p.onion/
+Scam List Of Tor 1: http://vzii5edzuyvjb4kf.onion/
+Scam List Of Tor 1: http://wua54ku5ixg72qas.onion/
+Scam List Of Tor 1: http://r33ar5ezvrigo7p5.onion/
+Scam List Of Tor 1: http://pag7cizw7yi4teop.onion/
+Scam List Of Tor 1: http://ny24l7k4tnvqie6j.onion/
+Scam List Of Tor 1: http://z6xo2uug7nw6oof2.onion/
+Scam List Of Tor 1: http://lbrenhktrm33342a.onion/
+Scam List Of Tor 1: http://254fxqpk7m2k5pah.onion/
+Scam List Of Tor 1: http://mu667ri3fiac4dba.onion/
+Scam List Of Tor 1: http://2qv5vlqtjwaub6ub.onion/
+Scam List Of Tor 1: http://jgbhzkuksu43brgq.onion/
+Scam List Of Tor 1: http://da6u6fqyevtkdzei.onion/
+Scam List Of Tor 1: http://fezxztzfgy5bqbnt.onion/
+Scam List Of Tor 1: http://v3kdes4p6wazs3zq.onion/
+Scam List Of Tor 1: http://w4d3exd5fgii6jj2.onion/
+Scam List Of Tor 1: http://oe2tpx5rnzpyxobp.onion/
+Scam List Of Tor 1: http://qomo6udnlvekysvm.onion/
+Scam List Of Tor 1: http://2eofubmy3gvr3sr5.onion/
+Scam List Of Tor 1: http://6jc2l3xdvfyzw5qw.onion/
+Scam List Of Tor 1: http://6modvohqhaioqq3e.onion/
+Scam List Of Tor 1: http://frqj2noku3ymbcob.onion/
+Scam List Of Tor 1: http://g6syrj4tifdznptd.onion/
+Scam List Of Tor 1: http://jabtshi2mr3klw4h.onion/
+Scam List Of Tor 1: http://n443zdedizjdev7j.onion/
+Scam List Of Tor 1: http://pq5sw6nmhxentueq.onion/
+Scam List Of Tor 1: http://qevbxwqkpzv3bg5f.onion/
+Scam List Of Tor 1: http://tfv4pasrmo3n7kmf.onion/
+Scam List Of Tor 1: http://vgv76dcdoj2rlm24.onion/
+Scam List Of Tor 1: http://y2fagcdnexoqxfmu.onion/
+Scam List Of Tor 1: http://7dxbj6einldsp5ig.onion/
+Scam List Of Tor 1: http://7l7dakrz2nabo4jz.onion/
+Scam List Of Tor 1: http://bmfkvejunpuqdxjx.onion/
+Scam List Of Tor 1: http://gttfi6vyzs33nrqe.onion/
+Scam List Of Tor 2: http://rap7gypjs4v6a7ax.onion/
+Scam List Of Tor 2: http://roey5smpp67p4fxq.onion/
+Scam List Of Tor 2: http://y7zigmjrpm2pkgzi.onion/
+Scam List Of Tor 2: http://jancwqly2wrh35ab.onion/
+Scam List Of Tor 3: http://mi325vr3yhtlptho42mkaup4loyesnzfmx7simiw2f5gxrbrqeonh4id.onion/
+DarkGuard: http://guardday6e5nxblpojbhmx5ws2avautr7eswu3qg7gynh52rh744anyd.onion/
+-------------------------
+     Search Engines
+-------------------------
+Ahmia: http://msydqstlz2kzerdg.onion/
+BTDigg: http://btdiggwzoyrwwbiv.onion/
+Candle: http://gjobqjj7wyczbqie.onion/
+Dark Web Links: http://jdpskjmgy6kk4urv.onion/
+DuckDuckGo: http://3g2upl4pq6kufc4m.onion/
+Evo Search: http://evo7no6twwwrm63c.onion/
+Excavator: http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/
+Google.Onion: http://ggonionvhfq7brmj.onion/
+Grams: http://grams7ebnju7gwjl.onion/
+Haystak: http://haystakvxad7wbk5.onion/
+I2P Search: http://i2psesltivefcujc.onion/
+MultiVAC: http://multivacigqzqqon.onion/
+Not Evil: http://hss3uro2hsxfogfq.onion/
+Onion Bag: http://onionbagy25be2bg.onion/
+Onion Center: http://oikgfwfqmqkph4rl.onion/
+Onion Search Engine: http://onionf4j3fwqpeo5.onion/
+Onion Search Engine: http://5u56fjmxu63xcmbk.onion/
+Onion Search Service: http://oss7wrm7xvoub77o.onion/
+OnionLand Search Engine: http://3bbaaaccczcbdddz.onion/
+Phobos: http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/
+SearX: http://5plvrsgydwy2sgce.onion/
+Start: http://kaarvixjxfdy2wv2.onion/
+Tor66: http://tor66sezptuu2nta.onion/
+Tor66: http://tor77orrbgejplwp.onion/
+Tormax: http://tormaxunodsbvtgo.onion/
+Torrentz 2: http://torrentzwealmisr.onion/
+Tor Search: http://torsearchruby56z.onion/
+Tor Search Engine: http://searchcoaupi3csb.onion/
+Tor Search Engine 2: http://searcherc3uwk535.onion/
+Torch: http://xmh57jrzrnw6insl.onion/
+Torch: http://26ozf35d2rwtmqbk.onion/
+Tordex: http://tordex7iie7z2wcg.onion/
+Torgle: http://torglejzid2cyoqt.onion/
+Tornet: http://tgs5dkeqkg5hrjjk.onion/
+VisiTOR: http://visitorfi5kl7q7i.onion/
+-------------------------
+   Wikis / Link Lists
+-------------------------
+The Hidden Wiki 1: http://hiddenwiki7wiyzr.onion/
+The Hidden Wiki 2: http://nqigfqrxnkwcqmiq.onion/
+The Hidden Wiki 3: http://hwikim2v2jscf5tgpcfgkfxjyrfmgs4vwr2raqayt4uzfde6w4dutiqd.onion/
+The Hidden Wiki 4: http://ndntmfusjmj6tkpl.onion/
+The Hidden Wiki 5: http://wikitorcwogtsifs.onion/
+The Hidden Wiki 6: http://zqktlwi4fecvo6ri.onion/
+The Hidden Wiki 6: http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/
+The Hidden Wiki 7: http://hdwikihod77v6fas.onion/
+The Hidden Wiki 8: http://wikitjerrta4qgz4.onion/
+The Hidden Wiki 9: http://hwikis25cffertqe.onion/
+The Light Hidden Wiki: http://cbo7whgxo2dnplgz.onion/
+Hidden Wiki Fresh: http://ujnkg4uirpaiqejr.onion/
+Hidden Wiki Fresh 2020: http://wikikbig7ni573g5.onion/
+Hidden Wiki Fresh 2020: http://hdwf22kgyrnpmq5f.onion/
+Hidden Wiki Fresh 2020: http://hdwikiueikaeviwk.onion/
+Hidden Links: http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion/
+Tor Links v1: http://torlinkbgs6aabns.onion/
+Tor Links v1.5: http://torlinkyrd26ovflctq7j3edrcamticj2tikyjghbehnow73av2dtmqd.onion/
+Tor Links v2: http://torlinkglejjnyof.onion/
+Tor Links v3: http://tor3ypms2vlohh2e.onion/
+Tor Links 2: http://torlinkswwqg3lwt.onion/
+LinkDir: http://linkdir7ekbalksw.onion/
+Link Direction: http://linkdire62kbkigq.onion/
+Onion List: http://onionailnm7t3437.onion/
+Onion List 2: http://jh32yv5zgayyyts3.onion/
+Onion Links: http://onionlinksv3zit3.onion/
+Onion Links Directory: http://aaalinktbyhxngho.onion/
+Onion Links Directory: http://linkdir5vglxf6by.onion/
+Dark Net Links: http://aetmdmazqr5hacyus5iw3foutnj5swzuj3kjyk2hwoxve2pkgilcjkqd.onion/
+HD Wiki: http://hdwikicorldcisiy.onion/
+UnderDir: http://underdj5ziov3ic7.onion/
+OnionDir: http://dirnxxdraygbifgc.onion/
+OnionTree: http://onions53ehmf4q75.onion/
+OnionList: http://u5gnv57w3wimlrmr.onion/
+Onion List 2: http://onionvdyiweqdlta.onion/
+Tor Wiki: http://torwikignoueupfm.onion/
+Wiki Link: http://wikilink77h7lrbi.onion/
+Oni-Dir: http://directory4ichoxb.onion/
+Paul's Onion List: http://linkdnwzr3lpx6xq.onion/
+DeepLink: http://deeplinkdeatbml7.onion/
+Fresh Onion Link List 2019: http://tecjjcyooceyhwyhyhyjmfpnq2c4wxhaxclwqyq6cvpigbqqizf3drqd.onion/
+Dark Web Links 2017: http://wiki5kauuihowqi5.onion/
+Project PM: http://projpmcxufvim7be.onion/
+Raptor: http://raptortiabg7uyez.onion/
+Grams Wiki: http://uepurdryqkrheiqs.onion/
+Uncensored Onion List: http://list4ywgch4gsd56.onion/
+Dir: http://5kgkvealcpsrgsfmxo4fssmr7zcemq7zp5qfvsuppnio5cr6harqq2id.onion/
+OnionDir: http://oniot2zvfczp4lpc.onion/
+-------------------------
+        Monitors
+-------------------------
+DarkEye: http://t7tb43a7gvl6wb7j.onion/
+DarkEye: http://darkeyepxw7cuu2cppnjlgqaav6j42gyt43clcn4vjjf7llfyly5cxid.onion/
+Onion Scanner: http://4r4zaei5qa7qq5ha.onion/
+CodeDir: http://67xkew7pvctdcj526yl7gl6pc6e2dwqwx3ugbe67g2hfjdnbwjd7euad.onion/
+[==================================================]
+        F i n a n c i a l   S e r v i c e s
+[==================================================]
+-------------------------
+    Bitcoin Mixers
+-------------------------
+Helix Light: http://mixerrzbgcknjzk4.onion/
+Smart Mixer: http://smrtmxdxognxhv64.onion/
+Onion Wallet: http://ow24et3tetp6tvmk.onion/
+-------------------------
+      Credit Cards
+-------------------------
+Bitcards: http://bitccsaxbrxb6iiv.onion/
+EasyCards: http://hlpg5p2rc3uou7wr.onion/
+Hidden Financial Services: http://morhx3irxknskwu5.onion/
+Stack Of DW: http://stacvvulbayktqlf.onion/
+La Casa De Papel: http://vljrafgxx4gjozn5.onion/
+-------------------------
+     Cryptocurrency
+-------------------------
+AgoraDesk: http://agoradeska6jfxpf.onion/
+We Buy Bitcoins: http://jzn5w5pac26sqef4.onion/
+[==================================================]
+       C o m m e r c i a l   S e r v i c e s
+[==================================================]
+-------------------------
+ Verify Darkweb Vendors
+-------------------------
+Recon: http://reconponydonugup.onion/
+Darknet Trust: http://ohivsd7ze7rgdir4.onion/
+Hidden Reviews: http://u5lyidiw4lpkonoctpqzxgyk6xop7w7w3oho4dzzsi272rwnjhyx7ayd.onion/
+-------------------------
+          Drugs
+-------------------------
+Big Blue Market: http://44v6hk7cm4gowwe2wottcnqgndwkab4qvva2n3gvjk4lrbgmqu5uw2ad.onion/
+Big Blue Market: http://7yyhqf23cnzc2vnbeymzwwy4gzxw47e57jfitzaqahzvqlzyejr776ad.onion/
+Big Blue Market: http://lnwsu7hcfft5ajpteyvtfbxdf2blwzxfilx5wuewdf76g7srg65voiid.onion/
+Big Blue Market: http://e6rtmrtkbrdm7imjb5l5fx6lpia6uozj5g5n2kffh3tje46ktv47x3yd.onion/
+Big Blue Market: http://kg42jvyhpekk4q3bskb2ea2qmpmdb4unf2zlen557j365jpoqtbvsyyd.onion/
+Big Blue Market: http://o7te6mf4awkpm2hckohyqr665on2ugntt5iioraayfepcgwidtxm7byd.onion/
+BitBazaar: http://bbazaarkntrz5vji.onion/
+BitBazaar: http://bbazaarh65l2z4vh.onion/
+BitBazaar: http://bbazaarabwzpdzku.onion/
+BitBazaar: http://bbazaar54ya5nz7t.onion/
+BitBazaar: http://jcjbfbbyqhwmjslo.onion/
+BitBazaar: http://5ohwoy6w5dglk7sp.onion/
+BitBazaar: http://m5dpljs3yu7dyw5uajko52dtywyt5nrhry4fgzzv7sv4y5jg7afam7ad.onion/
+BitBazaar: http://j5c6uwvqxvgw6cqk77z2j6yjikumzlleto3y6yqhg73enxewktmenbqd.onion/
+BitBazaar: http://5opwptnuebf4zcpkyfl5pn7cm3icktl4r5appy4zky4cqmedsyzge4yd.onion/
+BitBazaar: http://shxmvtjq6ikuctj5vk6dx35v7jwsszw4ci47txuowpqbwxnzm4dwpvyd.onion/
+DarkMarket: http://darkevuygggqkqhq.onion/
+DarkMarket: http://darkmarkl7f5hz5f.onion/
+DarkMarket: http://darkmarkhbh2xyel.onion/
+DarkMarket: http://darkmarkmxukc633.onion/
+DarkMarket: http://darkmarketsomqvzqfjudpd6t5eabgvvpplrbtzq6prervyogenlrlqd.onion/
+DarkMarket: http://darknet3ysxpbjtvbtyqorzuq3bp4pk3vt4fuhqxz6h2bzj2kyjbisqd.onion/
+DarkMarket: http://darknet4rbfizlg53dwc5lt5hj4mewcgltubcpvrfpvjavm64inaf3ad.onion/
+DarkMarket: http://darknet5kpf7i3kulnljiwvf3q4sm2z66kbrdeuxyyhxutyt3inp7fid.onion/
+DarkMarket: http://7l6nfl2rj3gy7qipdj2yac575wiwli43z6mqxmdoqjtuat7slyrik7qd.onion/
+DarkMarket: http://wahcoxxucz5ae5akrmenjxufne2ci4lkbw75uxqwf6kjzzorpm7r2ryd.onion/
+DarkMarket: http://k6ggxyjcmdy7tv3xwgak4osnygb7yotxoqiwvgjuxp5iopavkicj7bqd.onion/
+DarkMarket: http://xgcjbel2wgd2hvlk7bhrvoyy4k5ctmoe2mcmmqjify77kqhwe5oxwgid.onion/
+DarkMarket: http://rgamajuhd5kirb7ppuczu64gqhcdimdv7owbknin7tjypx557hhg2xyd.onion/
+DarkMarket: http://3uv2nhqozxfun2gxvdg6srqobkk7wobawv7d3dkxiz65wkw2ig3vhqad.onion/
+Metropolis Market: http://p5iib2dirlbm5zuizzupmoidm43s6qoyfa3vas5xjrgja4lxapdr22yd.onion/
+VanillaSurf: http://pz6vxxda6k7dp56edb64lmd7q6gb2ram3vyksdcvdeyc74r3uod7zeyd.onion/
+VanillaSurf: http://bp3mm7tdfa4ft2ucjlqiu3w2hkibsm4cpg3hxyoak4oer5gzdzczjwad.onion/
+VanillaSurf: http://5w2u7gtsjg4nu7i4ya6owvadyblsgjsmvrark6g26yglzg6v5b55tsqd.onion/
+VanillaSurf: http://zoe4mqxk6zy3ycgy7tlkrchaqmw3gpxv65hfuhztlshrm2hfnitgoeyd.onion/
+VanillaSurf: http://ylqod3ehjtbvxia3ij33mgcwqgabhpxc3iaty5w73lt6noo7ybw7fuqd.onion/
+VanillaSurf: http://iegsccfx4waxcnhygotbu7i3a4divrlj7xuqbu5lda5o5krr4tyfshyd.onion/
+VanillaSurf: http://fp7bzhthb3sqlyk5vyridxhy3at7xzukoicz27j4xkotooxcmmu4yeyd.onion/
+VanillaSurf: http://d5woreuky65a4rkyuioz2sdckxmmmi4ke3yjjorw6e7cr2r3vmmi2kyd.onion/
+VanillaSurf: http://zgr4w7undatjwh33jdg62nqlrugq7tcdgqidnawvrycguf3agjpj7kqd.onion/
+VanillaSurf: http://3xtlctto7succncmyzh567ltt2cwfvh4uwewj3uv63wftayo34jw6ryd.onion/
+-------------------------
+       Pharmacies
+-------------------------
+24HoursPPC: http://2c5whdbcb6m2c2xx.onion/
+-------------------------
+      Electronics
+-------------------------
+Z33Shop: http://2wkwv7m4hetvqo3d.onion/
+Apples 4 Bitcoin: http://tfwdi3izigxllure.onion/
+Mobile Store: http://mobil7rab6nuf7vx.onion/
+-------------------------
+     Miscellaneous
+-------------------------
+Resell Shop: http://g2rvhyzcapyxswgu.onion/
+[==================================================]
+   N o n - C o m m e r c i a l   S e r v i c e s
+[==================================================]
+-------------------------
+         Email
+-------------------------
+ProtonMail: http://protonirockerxow.onion/
+SecMail: http://secmailw453j7piv.onion/
+SecMail: http://giyzk7o6dcunb2ry.onion/
+EludeMail: http://eludemaillhqfkh5.onion/
+Dark Net Mail Exchange: http://hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion/
+RiseUp: http://zsolxunfmbfuq7wf.onion/
+CockMail: http://cockmailwwfvrtqj.onion/
+Daniel's Email Hosting: http://danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion/
+Mail2Tor: http://mail2tor2zyjdctd.onion/
+TorBox: http://torbox3uiot6wchz.onion/
+Underwood's Mail: http://underwood2hj3pwd.onion/
+OnionMail: http://p6x47b547s2fkmj3.onion/
+GuerrillaMail: http://grrmailb3fxpjbwm.onion/
+-------------------------
+        Hosting
+-------------------------
+SporeStak: http://spore64i5sofqlfz5gq2ju4msgzojjwifls7rok2cti624zyq3fcelad.onion/
+Albative Hosting: http://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/
+Prometheus: http://prometh5th5t5rfd.onion/
+Freedom Hosting Reloaded: http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/
+TorVPS: http://torvps7kzis5ujfz.onion/
+OneHost: http://q3lgwxinynjxkor6wghr6hrhlix7fquja3t25phbagqizkpju36fwdyd.onion/
+Kowloon Hosting: http://kowloon5aibdbege.onion/
+RealHost: http://ezuwnhj5j6mtk4xr.onion/
+TorPress: http://torpress2sarn7xw.onion/
+0xacab: http://wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion/
+-------------------------
+      File Hosting
+-------------------------
+SecureDrop: http://secrdrop5wyphb5x.onion/
+Matrix Image Hosting: http://matrixtxri745dfw.onion/
+Image Hosting: http://twlba5j7oo5g4kj5.onion/
+PopFiles: http://popfilesxuru7lsr.onion/
+FileDropper: http://dropperibhaerr2m.onion/
+BlackCloud: http://bcloud2suoza3ybr.onion/
+Just Upload Stuff: http://jusfileobjorolmq.onion/
+Crypto Uploader: http://cryptoupei2am6si.onion/
+CryptoFile: http://ec7yptcpai4dtebe.onion/
+Felixxx: http://felixxxboni3mk4a.onion/
+ZeroBin: http://zerobinqmdqd236y.onion/
+OnionPaste: http://pastmo4ixjkacqqv.onion/
+DeepPaste: http://depastedihrn3jtw.onion/
+Tor Pastebin: http://postits4tga4cqts.onion/
+The Pirate Bay: http://piratebayztemzmv.onion/
+The Pirate Bay: http://piratebaymbf3ul7.onion/
+Torrent Galaxy: http://galaxy2gchufcb3z.onion/
+Torrent Paradise: http://r5n26fdanb4i522h.onion/
+IPA Hosting: http://ipahostyyez3loer.onion/
+Intel Repository: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/
+Intel Exchange: http://intelex7ny6coqno.onion/
+Anodex: http://anodex.oniichanylo2tsi4.onion/
+Free Stuff: http://zodiaczgi6edcl6nc22ylrlzavwmfqhzol4kyejos3lkn4bmum5ux3id.onion/
+-------------------------
+   Security & Privacy
+-------------------------
+PrivacyTools: http://privacy2zbidut4m4jyj3ksdqidzkw3uoip2vhvhbvwxbqux5xy5obyd.onion/
+Debain Security Team: http://ynvs3km32u33agwq.onion/
+GNUPG: http://ic6au7wa3f6naxjq.onion/
+Whonix OS: http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/
+Qubes OS: http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion/
+ExpressVPN: http://expressobutiolem.onion/
+MullvadVPN: http://xcln5hkbriyklr6n.onion/
+Private Internet Access: http://piavpnaymodqeuza.onion/
+Keybase: http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/
+Keybase: http://fncuwbiisyh6ak3i.onion/
+Sonar: http://kcxb2moqaw76xrhv.onion/
+Stem: http://vt5hknv6sblkgf22.onion/
+Universal Encoding Tool: http://usegafl7jdygvjcm5velj4mopbcdlxtxeob2xi5hcskm5w46chxipoqd.onion/
+AspireCrypt: http://j36f2zfz7v3neai7.onion/
+PrivacyBox: http://2h3xkc7wmxthijqb.onion/
+ServNet: http://servnetshsztndci.onion/
+Anonymous FTP Client: http://wtutoxfznz45gf6c.onion/
+CGI Proxy: http://x5yd2gfthlfgdqjg.onion/
+-------------------------
+          Music
+-------------------------
+Deep Web Radio: http://76qugh5bey5gum7l.onion/
+HFS: http://wuvdsbmbwyjzsgei.onion/
+Black Jesus: http://niggervteelq47id.onion/
+Used2Now: http://used2now7fin3qse.onion/
+Stream: http://streamtmr46ysxw6.onion/
+-------------------------
+      Multipurpose
+-------------------------
+Volatile: http://vola7ileiax4ueow.onion/
+Kaizushi's Little Onion Service: http://kaizushih5iec2mxohpvbt5uaapqdnbluaasa2cmsrrjtwrbx46cnaid.onion/
+The Kingdom Of God: http://xt6zo6bcjbrrjyvr.onion/
+-------------------------
+     Miscellaneous
+-------------------------
+Simple Bookmarks: http://afajj7x4zfl2d3fc2u7uzxp4iwf4r2kucr5on24xk2hwrssoj7yivhid.onion/
+AdHook: http://adhook6u2wrwdhlb.onion/
+OnionThumbs: http://othumbs53mh65hxc.onion/
+4Chan Archives: http://ydt6jy2ng3s3xg2e.onion/
+4Chan Archives: http://oweeh6jcqx3aoey2.onion/
+Debain Package Tracker: http://2qlvvvnhqyda2ahd.onion/
+[==================================================]
+                    S o c i a l
+[==================================================]
+-------------------------
+        Networks
+-------------------------
+Dread: http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/
+Facebook: http://facebookcorewwwi.onion/
+Connect: http://connectkjsazkwud.onion/
+Galaxy3: http://galaxy3m2mn5iqtn.onion/
+Nitter: http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/
+Raddle: http://lfbg75wjgi4nzdio.onion/
+OnionTube: http://tubef7zilcjhme2g.onion/
+Cave Tor: http://cavetord6bosm3sl.onion/
+Dark Quora: http://quorambidnvcon7l.onion/
+Bibliogram: http://rlp5gt4d7dtkok3yaogocbcvrs2tdligjrxipsamztjq4wwpxzjeuxqd.onion/
+Invidious: http://kgg2m7yk5aybusll.onion/
+The Permanent Booru: http://vsdfdtkr5mh6y33p.onion/
+The Permanent Booru: http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/
+-------------------------
+         Forums
+-------------------------
+Kiwi Farms: http://uquusqsaaad66cvub4473csdu4uu7ahxou3zqc35fpw5d4ificedzyqd.onion/
+Torum: http://torum43tajnrxritn4iumy75giwb5yfw6cjq2czjikhtcac67tfif2yd.onion/
+Onionland: http://onionlandbakyt3j.onion/
+Darknet Avengers: http://avengersdutyk3xf.onion/
+Hidden Answers: http://answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/
+Envoy: http://envoys5appps3bin.onion/
+Hermes: http://hermesibuzda3rtv.onion/
+SuprBay: http://suprbayoubiexnmp.onion/
+HM: http://wtj5psom5zufu4yo.onion/
+AnonGTS: http://ocu3errhpxppmwpr.onion/
+NZ Darknet Market: http://nz53a6eqr3jchq5g.onion/
+The Hub: http://thehub7xbw4dc5r2.onion/
+The Hub: http://thehubpkeu7x6ddq5tc4gali6ldsi4ly6bqlhsid7pztwhbirahu6vqd.onion/
+The Hub: http://thehub5himseelprs44xzgfrb4obgujkqwy5tzbsh5yttebqhaau23yd.onion/
+The Hub: http://thehubdpfbw54ujdgwdhvgsaicvtc5jz4ncthfcbriny2dzsimlifoqd.onion/
+The Hub: http://thehube5dbng3dwww4fhbiihruloenvh66536cot3wrpc4hvhm2bdayd.onion/
+The Hub: http://thehubeebh6z6pqdy4wmxdd6d45gmchjm3xe5sdppadna7m3qtmksmid.onion/
+The Hub: http://thehuboy27kracz6sdql2r7c324vrs5aok2e33gorrikccaqhvzfcvad.onion/
+Thunder's Place: http://thundersplv36ecb.onion/
+-------------------------
+          Chat
+-------------------------
+Chat With Strangers: http://tetatl6umgbmtv27.onion/
+Ableonion: http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/
+Hidden Chat: http://hiddendsw3qqh2if.onion/
+EvilChat: http://evilchatxp24s7vb.onion/
+Daniel's Chat: http://danschat356lctri3zavzh6fbxg2a7lo6z3etgkctzzpspewu7zdsaqd.onion/
+BlackHat Chat: http://blkh4ylofapg42tj6ht565klld5i42dhjtysvsnnswte4xt4uvnfj5qd.onion/
+Enforcer's Chat: http://pkgdherwvzn5qjzb6ypygmsyl2xrkbvznisjv675bly4dcbjznstdxid.onion/chat.php
+Torichat: http://hss33mlbykbsxmug.onion:1488/
+-------------------------
+          Chans
+-------------------------
+9chan: http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/
+16chan: http://47s7obvdgdpj6fkc.onion/
+EndChan: http://s6424n4x4bsmqs27.onion/
+EndChan: http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/
+Ni-Chan: http://nichank62kpkrxvg.onion/
+Ni-Chan: http://bp4hx2biztixaw5o.onion/
+TorChan: http://zw3crggtadila2sg.onion/imageboard/
+BalkanChan: http://26yukmkrhmhfg6alc56oexe7bcrokv4rilwpfwgh2u6bsbkddu55h4ad.onion/
+JulayWorld: http://bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion/
+Waifuist: http://waifuwyuu7fqlf2haidb3izomxyhxme2mk4kdlibdiwgmzelt2iorxyd.onion/
+LoliFox: http://wn3ghyuon5eaqyxi7yauald3d53gsxrkanzpu2qdyc54vobif2qutsid.onion/
+Smug Loli: http://bhm5koavobq353j54qichcvzr6uhtri6x4bjjy4xkybgvxkzuslzcqid.onion/
+-------------------------
+          IRC
+-------------------------
+OnionCommunity: http://chatobbpwe37uhar.onion/
+Infantile: http://infantilefb6ovh4.onion/
+-------------------------
+          Blogs
+-------------------------
+The Asocial: http://asocialfz7ncw5ui.onion/
+Go Beyond: http://potatoynwcg34xyodol6p6hvi5e4xelxdeowsl5t2daxywepub32y7yd.onion/
+You Broke The Internet: http://cheettyiapsyciew.onion/
+Superkuh: http://superkuhbitj6tul.onion/
+Onion Soup: http://soupksx6vqh3ydda.onion/
+Chown: http://y3jzukyhsjymr4dp.onion/
+Bluish Coder: http://mh7mkfvezts5j6yu.onion/
+Cyrus's Blog: http://cyruservvvklto2l.onion/
+Lion Meadow: http://liongrasr5uy5roo.onion/
+Untitled Blog: http://n3ip6btaskerrbyg.onion/
+MagusNet: http://tghtnwsywvvhromy.onion/
+MagusNet: http://wx3wmh767azjjl4v.onion/
+MagusNet: http://q2uftrjiuegl4ped.onion/
+MagusNet: http://3mrdrr2gas45q6hp.onion/
+-------------------------
+   Political Movements
+-------------------------
+Crypto Party: http://crypty22ijtotell.onion/
+Crypto Party: http://cpartywvpihlabsy.onion/
+Code Green: http://pyl7a4ccwgpxm6rd.onion/
+Anarplex: http://anarplexqtbch57j.onion/
+-------------------------
+      Conventions
+-------------------------
+InfoCon: http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion/
+DeepSec: http://kwv7z64xyiva22fw.onion/
+[==================================================]
+                      N e w s
+[==================================================]
+The New York Times: http://nytimes3xbfgragh.onion/
+BBC: http://bbcnewsv2vjtpsuy.onion/
+BBC: http://s5rhoqqosmcispfb.onion/
+ProPublica: http://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/
+BuzzFeed: http://bfnews3u2ox4m4ty.onion/
+Mascherari Press: http://7tm2lzezyjwtpn2s.onion/
+The Onion Web: http://onionwsoiu53xre32jwve7euacadvhprq2jytfttb55hrbo3execodad.onion/
+Tape: http://tapeucwutvne7l5o.onion/
+Darknet Live: http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/
+Flashlight: http://kxojy6ygju4h6lwn.onion/
+Tor Magazine: http://t4tyrhxbxb2c2wra.onion/
+Dark Web Link: http://dwlonion3o3pjqsl.onion/
+The Dark Web Journal: http://tdwj7xgc5s2k6bmv.onion/
+DNMLive: http://dnmliveahwgu7nvu.onion/
+Dimension X: http://uo57sqpw4h3g3y3w2j346vxidgcv2iwfaxeyt3ww3tzkj2i5k7a5tpqd.onion/
+Deep Web Feed: http://deepfeedingbliob.onion/
+Onion News: http://newsiiwanaduqpre.onion/
+Onion News: http://t4is3dhdc2jd4yhw.onion/
+Soylent News: http://7rmath4ro2of2a42.onion/
+S.Dock: http://yip2pklv6nivtzrq.onion/
+[==================================================]
+             M i s c e l l a n e o u s
+[==================================================]
+-------------------------
+          Books
+-------------------------
+Imperial Library Of Trantor: http://xfmro77i3lixucja.onion/
+Calibre Web: https://5h5ps743nnqsjq4l.onion/
+Dark Books Library: http://hoagnooxlabpxd4ieqtn6pblk4324evslb24gmjktjbhzdmxst5trrad.onion/
+Thomas Paine - Common Sense: http://duskgytldkxiuqc6.onion/comsense.html
+The Federalist Papers: http://duskgytldkxiuqc6.onion/fedpapers/federa00.htm
+-------------------------
+         Hacking
+-------------------------
+0Day Today: http://mvfjfugdwgc5uwho.onion/
+HackTown: http://hacktownpagdenbb.onion/
+Hack Tools: http://5yh4qmygx72tl65u.onion/
+Hackerplace: http://hackerw6dcplg3ej.onion/
+Bugged Planet: http://6sgjmi53igmg7fm7.onion/
+VertexNet: http://mb4z3nlfyrcjnoqf.onion/
+Hacking Guides: http://3pr5shyfw6exyc2kboea5xi5guj5mf5enwy5pgcfwoycolawuw6lhzid.onion/
+Hacking Library: http://putahwusckamzvezhq3a4y3ewdhln6qfimlmx3gdbuhxvia4uloyvkad.onion/
+-------------------------
+         Games
+-------------------------
+Euro Buk Simulator 2014: http://hg5km4y37lgir6r3.onion/
+Matrix: http://matrix4ozv2gicar.onion/
+-------------------------
+      Uncategorized
+-------------------------
+IIT Underground: http://62gs2n5ydnyffzfy.onion/
+Beneath Virginia Tech: http://74ypjqjwf6oejmax.onion/
+Psychonaut Wiki: http://psychonaut3z5aoz.onion/
+PopFur: http://vj5pbopejlhcbz4n.onion/
+How Will You Tell The World: http://rjzdqt4z3z3xo73h.onion/
+Dildo Sky: http://dildosky53jnf5mt.onion/
+[==================================================]
+              N o n - E n g l i s h
+[==================================================]
+-------------------------
+    Spanish / Español
+-------------------------
+Rincón Pirata: http://p7ob6w5vic4ian3lws2sw2toxo6kmqtpznzslmx52hkd5lfm66ofauid.onion/
+Bienvenido A Internet: http://bai5vj7eniqkrau5.onion/
+CebollaChan 3.0: http://s6cco2jylmxqcdeh.onion/
+Respuestas Ocultas: http://es.answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/
+-------------------------
+   French / Français
+-------------------------
+FrChan: http://fchantpaey5or245.onion/
+Hidden Directory: http://irgrtpxhivfdq6o5.onion/
+Le Trollodrôme 2.0: http://trollodrome2.torpress2sarn7xw.onion/
+Le Circle Forum: http://lecercle2bxxqlmvqzcu34g7t4wh7majp34cxihnlcrhbdghke2in4ad.onion/
+Accueil - No Limit French Zone: http://m37rczgigmnvycc7b6ihkiatjv6kyobv7lp2tvvfxl43qaowqyue3qid.onion/
+French Freedom Zone: http://ffzonepk5v476zc7cvpamt6qvhq3z7xixnu5lb35v627vxqz6sms7yyd.onion/
+Cyberdéfenseur: http://cyberdefwik65ywa.onion/
+Démocratie Participative: http://dp742web5fzh674o.onion/
+-------------------------
+    German / Deutsch
+-------------------------
+Konkret: http://konkretzdxpqygow.onion/
+MadIRC: http://wbi67emmdx6i6rcr6nnk3hco3nrvdc2juxrbvomvt6nze5afjz6pgtad.onion/
+Chaos Computer Club: http://rvy6qmlqfstv6rlz.onion/
+-------------------------
+   Italian / Italiano
+-------------------------
+Blackhost: http://blackhost5xlrhev.onion/
+New System Disorder: http://xodijruknc2fcsyj.onion/
+IDC Reloaded: http://2qrdpvonwwqnic7j.onion/
+-------------------------
+    Russian / Русский
+-------------------------
+Словесный Богатырь: http://sblib3fk2gryb46d.onion/
+РосПравосудие: http://rospravovkdvaobr.onion/
+Рынок Китая: http://chinamksmy54x46x.onion/
+Скрытые Ответы: http://ru.answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/
+Rutor: http://rutorzzmfflzllk5.onion/
+Rutor: http://ruto2tudhnpwz63d.onion/
+Флибуста: http://flibustahezeous3.onion/
+Традиция: http://traditio3trziwpn.onion/
+Архивач: http://arhivachovtj2jrp.onion/
+BDF: http://bdfcctess3zhicun.onion/
+BHF: http://bhfdotioyenp2qr4.onion/
+eXeL@b: http://e4uncjzrukvfp5iy.onion/
+Psy Community UA: http://psyco42coib33wfl.onion/
+ITPHX: http://snvb5ffurikzeiod.onion/
+NeoChan: http://neochansu4cegu4o.onion/
+UFO Labs: http://ufolabs44qi3pr77.onion/
+XSS: http://xsstorweb56srs3a.onion/
+Rustorka: http://zwbxopvylvpi7t75.onion/
+Runion: http://runionwe25lxr3is.onion/
+2Channel: http://2channel5xx5xchx.onion/
+-------------------------
+    Chinese / 中国語
+-------------------------
+中文论坛: http://almvdkg6vrpmkvk4.onion/
+隐藏链接: http://zw5atj5ckiw6rh46.onion/
+暗网中文担保交易市场: http://zseoyu76ubm7abcjowe3xxn4ncvoxh4tckg6sxyqca4yf47wxlkwvpid.onion/
+-------------------------
+    Japanese / 日本語
+-------------------------
+OnionChannel: http://xiwayy2kn32bo3ko.onion/tor
+Japan Hidden Wiki: http://poverty4657tlx6h.onion/wiki/index.php
+-------------------------
+     Korean / 한국어
+-------------------------
+High Korea • 안내: http://highkorea5ou4wcy.onion/
+Kor Chan: http://jqu64mje5ixdwtlr.onion/
+-------------------------
+ Portuguese / Português
+-------------------------
+Tudo Sobre Magia e Ocultismo: http://2izlbbg42mgtdh2w.onion/
+Respostas Ocultas: http://pt.answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/
+Terminal Internet Livre: http://4bts7m4wlvwd7zrp.onion/
+-------------------------
+     Polish / Polski
+-------------------------
+Teczkohen: http://ocun3jhbmhvqwggn.onion/
+Polska Ukryta Wiki: http://ocun3jhbmhvqwggn.onion/wiki/
+Cebulka: http://qd73mvvc7v7zewwl.onion/
+-------------------------
+     Finnish / Suomi
+-------------------------
+Utopia: http://utopiaenjoycwvvp.onion/
+Thorlauta: http://zqiirytam276uogb.onion/
+Silkkitie: http://silkkitiehdg5mug.onion/
+-------------------------
+   Swedish / Svenska
+-------------------------
+Kognitions Kyrkan: https://kognitionskyrkan.nu/
+Moral: https://web.archive.org/web/20180705232420/http://moral.nu/
+-------------------------
+   Dutch / Nederlands
+-------------------------
+Tweakers: http://2arj33oil5dbrpyu.onion/
+-------------------------
+   Slovak / Slovenský
+-------------------------
+Alokal: http://alokalaou53jmgum.onion/
+-------------------------
+     Turkish / Türk
+-------------------------
+Dream Market Turkish: http://b7g5eogpvpix2gmd744hi3q3xayqwaqodtke536axnrv6za6vsg2u6ad.onion/
+[==================================================]
+                   U n k n o w n
+[==================================================]
+CentralShop: http://qhd6aon2fyjjan4e.onion/
+C Pozzi: http://hakteamvayuhxoe7.onion/
+[==================================================]
+              B r o k e n   L i n k s
+[==================================================]
+-------------------------
+         Broken
+-------------------------
+DarkCity: http://darkcityh7zzynjr.onion/
+Web Programmer For Hire: http://kobrabd77ppgjd2r.onion/
+Turkish Hidden Hosting: http://thhazdmx2kymozql.onion/
+Torch: http://area23wa3d32yygu.onion/
+???: http://atlayofke5rqhsma.onion/
+-------------------------
+         Seized
+-------------------------
+Video: http://mt3plrzdiyqf6jim.onion/
+Sipulikanava: http://2i7aalqdpiuw36nu.onion/
+[==================================================]
+                       1 8 +
+[==================================================]
+Pornhub: http://pornhubthbh7ap3u.onion/
+XPlay: http://5zkjenbem56vpjmh.onion/
+18+ Very Beautiful Girls: http://onionlidlmz7md5h.onion/
+Sexa Madama: http://32pbf32xi6ccm63z.onion/
+Gamcore: http://gamcored5widhilqmnyv7msosxpcqsvyunyljk6sx6swnzmzy2km2oyd.onion/
+[==================================================]
+    O t h e r   O n i o n   L i n k   L i s t s
+[==================================================]
+List Of Onion Services: https://www.wikiwand.com/en/List_of_Tor_onion_services
+Dark Web Secrets: https://secretsdeepweb.blogspot.com/
+Best Dark Web Links 2020: https://bestdeepweb.com/deepweb-links-2020
+Dark Web Links: https://deep-weblinks.com/deep-web-links/
+Huge Collection Of Dark Web Links: https://haxf4rall.com/2017/11/12/deep-web-onion-links/
+100 Working Dark Web Links: https://haxf4rall.com/2016/11/06/100-working-deep-web-onion-and-dark-web-links/
+Dark Web Sites: https://web.archive.org/web/20161120201931/http://deepwebsites.net/
+100 Working Dark Web Links: https://cybarrior.com/blog/2019/04/30/100-working-deep-web-onion-and-dark-web-links/
+Compilation Of Onion Links (2015): https://pastebin.com/JfmSVf6e
+3000 Onion Links: https://pastebin.com/L2HiViHf
+Deep Web Links: https://deepweblinks.org/
