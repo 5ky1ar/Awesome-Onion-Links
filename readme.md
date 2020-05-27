@@ -572,6 +572,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![Smug Loli](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/smugloli_icon.png) [Smug Loli](http://bhm5koavobq353j54qichcvzr6uhtri6x4bjjy4xkybgvxkzuslzcqid.onion/)
 
 ## IRC
+* ![OnionCommunity](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ocirc_icon.png) [OnionCommunity](http://communpfaucdnxei.onion/)
 * ![OnionCommunity IRC](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ocirc_icon.png) [OnionCommunity IRC](http://chatobbpwe37uhar.onion/)
 * ![Infantile](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/infantile_icon.png) [Infantile](http://infantilefb6ovh4.onion/)
 * ![Infantile](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/infantile_icon.png) [Infantile (Clearweb)](https://infantile.xyz/)
