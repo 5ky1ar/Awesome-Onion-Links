@@ -276,6 +276,7 @@ services that allow you to find .onion sites, just like google would on the clea
 * ![Wiki Link](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Wiki Link](http://wikilink77h7lrbi.onion/)
 * ![Oni-Dir](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/onidir_icon.png) [Oni-Dir](http://directory4ichoxb.onion/)
 * ![Paul's Onion List](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Paul's Onion List](http://linkdnwzr3lpx6xq.onion/)
+* ![DeepLink](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/deeppaste_icon.png) [DeepLink](http://deeplinkdeatbml7.onion/index.php)
 * ![Fresh Onion Link List 2019](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/foll2019_icon.png) [Fresh Onion Link List 2019](http://tecjjcyooceyhwyhyhyjmfpnq2c4wxhaxclwqyq6cvpigbqqizf3drqd.onion/)
 * ![Dark Web Links 2017](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Dark Web Links 2017](http://wiki5kauuihowqi5.onion/)
 * ![Project PM](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/projectpm_icon.png) [Project PM](http://projpmcxufvim7be.onion/)
