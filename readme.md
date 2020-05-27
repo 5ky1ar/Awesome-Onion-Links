@@ -449,6 +449,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![The Pirate Bay](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tpb_icon.png) [The Pirate Bay](http://piratebayztemzmv.onion/)
 * ![The Pirate Bay](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tpb_icon.png) [The Pirate Bay (Mirror)](http://piratebaymbf3ul7.onion/)
 * ![Torrent Galaxy](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torgal_icon.png) [Torrent Galaxy](http://galaxy2gchufcb3z.onion/)
+* ![Torrent Paradise](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tp_icon.png) [Torrent Paradise](http://r5n26fdanb4i522h.onion/)
 * ![IPA Hosting](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [IPA Hosting](http://ipahostyyez3loer.onion/)
 * ![Intel Repository](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Intel Repository](http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/)
 * ![Intel Exchange](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/intex_icon.png) [Intel Exchange](http://intelex7ny6coqno.onion/)
