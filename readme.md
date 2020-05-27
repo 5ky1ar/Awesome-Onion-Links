@@ -456,6 +456,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![Anodex](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/anodex_icon.png) [Anodex](http://anodex.oniichanylo2tsi4.onion/)
 
 ## Security And Privacy
+* ![PrivacyTools](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/privtools_icon.png) [PrivacyTools](http://privacy2zbidut4m4jyj3ksdqidzkw3uoip2vhvhbvwxbqux5xy5obyd.onion/)
 * ![Debain Security Team](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/debain_icon.png) [Debain Security Team](http://ynvs3km32u33agwq.onion/)
 * ![Surveillance Self-Defense](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ssd_icon.png) [Surveillance Self-Defense](https://ssd.eff.org/)
 * ![Open Observatory Of Network Interference](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/ooni_icon.png) [Open Observatory Of Network Interference](https://ooni.org/)
