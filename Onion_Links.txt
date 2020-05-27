@@ -1,15 +1,9 @@
-       ____        _                _      _       _        
-      / __ \      (_)              | |    (_)     | |       
-     | |  | |_ __  _  ___  _ __    | |     _ _ __ | | _____ 
+       ____        _                _      _       _
+      / __ \      (_)              | |    (_)     | |
+     | |  | |_ __  _  ___  _ __    | |     _ _ __ | | _____
      | |  | | '_ \| |/ _ \| '_ \   | |    | | '_ \| |/ / __|
   _  | |__| | | | | | (_) | | | |  | |____| | | | |   <\__ \
  (_)  \____/|_| |_|_|\___/|_| |_|  |______|_|_| |_|_|\_\___/
-
-Compiled by ReduX. Please spread it around! See my profile for some other interesting stuff.
-
-Also I am moving this list over to here, when im done, the only thing in this pastebin will be a link to the new list location which is here: https://github.com/xMG-ReduX/Awesome-Onion-Links
-
-Note: make sure you are connecting to the sites using the HTTP protocol, NOT HTTPS, there are some exceptions, but if the site does have HTTPS support, it will switch to it automatically
 
 [==================================================]
        I n t r o d u c t i o n   P o i n t s
