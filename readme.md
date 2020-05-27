@@ -499,6 +499,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![Kingdom](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Kingdom Of God](http://xt6zo6bcjbrrjyvr.onion/)
 
 ## Miscellaneous
+* ![Simple Bookmarks](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [Simple Bookmarks](http://afajj7x4zfl2d3fc2u7uzxp4iwf4r2kucr5on24xk2hwrssoj7yivhid.onion/)
 * ![AdHook](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/adhook_icon.png) [AdHook](http://adhook6u2wrwdhlb.onion/)
 * ![OnionThumbs](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/tor_icon.png) [OnionThumbs](http://othumbs53mh65hxc.onion/)
 * ![4Chan Archives](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/4char_icon.png) [4Chan Archives](http://ydt6jy2ng3s3xg2e.onion/)
