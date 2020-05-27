@@ -319,6 +319,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![La Casa De Papel](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/lcdp_icon.png) [La Casa De Papel](http://vljrafgxx4gjozn5.onion/)
 
 ## CryptoCurrency
+* ![AgoraDesk](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/agoradesk_icon.png) [AgoraDesk](http://agoradeska6jfxpf.onion/)
 * ![WeBuyBitcoin](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/wbb_icon.png) [We Buy Bitcoins](http://jzn5w5pac26sqef4.onion/)
 
 # Commercial Services
