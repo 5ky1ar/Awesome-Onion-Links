@@ -564,6 +564,7 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![EndChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/endchan_icon.png) [EndChan](http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/)
 * ![Ni-Chan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nichan_icon.png) [Ni-Chan](http://nichank62kpkrxvg.onion/)
 * ![Ni-Chan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/nichan_icon.png) [Ni-Chan (Mirror)](http://bp4hx2biztixaw5o.onion/)
+* ![GlowChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/glowchan_icon.gif) [GlowChan](http://6oddffr7nmliu4hpaxb42gquo6ewvkxk7gecdtf2hsotwangbpwzz5ad.onion/)
 * ![TorChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/torchan_icon.png) [TorChan](http://zw3crggtadila2sg.onion/imageboard/)
 * ![BalkanChan](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/balkchan_icon.png) [BalkanChan](http://26yukmkrhmhfg6alc56oexe7bcrokv4rilwpfwgh2u6bsbkddu55h4ad.onion/)
 * ![JulayWorld](https://raw.githubusercontent.com/xMG-ReduX/Awesome-Onion-Links/master/Icons/julayworld_icon.png) [JulayWorld](http://bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion/)
