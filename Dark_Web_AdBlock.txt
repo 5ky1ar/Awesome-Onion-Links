@@ -29,8 +29,6 @@ tor66sezptuu2nta.onion##center:nth-of-type(12)
 tor66sezptuu2nta.onion##center:nth-of-type(13)
 ! 4/15/2020 - Torch: Tor Search - xmh57jrzrnw6insl.onion
 ||area23wa3d32yygu.onion/delivery/list_banners/1/FP$subdocument
-xmh57jrzrnw6insl.onion##[href="adinfo.html"]
-xmh57jrzrnw6insl.onion###fbanners
 ! 4/15/2020 - Tordex - tordex7iie7z2wcg.onion
 tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(2)
 tordex7iie7z2wcg.onion##div.mb-1:nth-of-type(3)
@@ -114,7 +112,7 @@ onionailnm7t3437.onion##.c-con
 onionailnm7t3437.onion##.advertising
 ! 4/15/2020 - Link Direction - linkdire62kbkigq.onion
 linkdire62kbkigq.onion##.box
-! 4/15/2020 - HD Wiki - hdwikiueikaeviwk.onion
+! HD Wiki - 4/15/2020 - hdwikiueikaeviwk.onion
 hdwikiueikaeviwk.onion###dokuwiki__top > div:nth-of-type(2)
 ! 4/15/2020 - Best Deep Web - bestdeepweb.com
 bestdeepweb.com##p:nth-of-type(2)
@@ -140,6 +138,10 @@ deep-weblinks.com##p:nth-of-type(349)
 ! 4/15/2020 - Recon - reconponydonugup.onion
 reconponydonugup.onion##.banner-section
 ! 4/15/20 - Secmail - secmailw453j7piv.onion
+secmailw453j7piv.onion##div:nth-of-type(2)
+secmailw453j7piv.onion##body > table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+giyzk7o6dcunb2ry.onion##body > table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+giyzk7o6dcunb2ry.onion##div:nth-of-type(2)
 ||secmailw453j7piv.onion/src/ads/*$subdocument,1p
 ||secmailw453j7piv.onion/src/login.php/images/backg.png$image
 ||giyzk7o6dcunb2ry.onion/src/ads/*$subdocument,1p
@@ -194,71 +196,12 @@ aaalinkdbpopbfax.onion##.header_banner > div
 aaalinkdbpopbfax.onion##.sidebar_banner
 ! 4/23/2020 - Uncensored Hidden Wiki - z5taguvepvuevyp3.onion
 z5taguvepvuevyp3.onion##table#mp-upper:nth-of-type(2) > tbody > tr > td.MainPageBG:nth-of-type(2)
-! 4/29/2020 - Torch: Tor Search - 26ozf35d2rwtmqbk.onion
-26ozf35d2rwtmqbk.onion##[href="/adinfo"]
-26ozf35d2rwtmqbk.onion###fbanners
-! 4/29/2020 - Evo Search - evo7no6twwwrm63c.onion
-evo7no6twwwrm63c.onion###EPxdU9xTuRWk
-evo7no6twwwrm63c.onion##.hoOcbG0CqpjS-bg
-evo7no6twwwrm63c.onion##center:nth-of-type(3) > div
-! 4/29/2020 - Hidden Wiki Fresh - ujnkg4uirpaiqejr.onion
-ujnkg4uirpaiqejr.onion##.group.wrapper > div:nth-of-type(1)
-! 5/1/2020 - Hidden Wiki Fresh 2020 2 - wikikbig7ni573g5.onion
-wikikbig7ni573g5.onion##.group.wrapper > div:nth-of-type(1)
-! 5/1/2020 - Onion Search Server - oss7wrm7xvoub77o.onion
-oss7wrm7xvoub77o.onion###EPxdU9xTuRWk
-oss7wrm7xvoub77o.onion##.hoOcbG0CqpjS-bg
-! 5/1/2020 - TorWiki - torwikignoueupfm.onion
-torwikignoueupfm.onion##.bnrrrss
-! 5/1/2020 - The Hidden Wiki - nqigfqrxnkwcqmiq.onion
-nqigfqrxnkwcqmiq.onion##div#p-tb.portlet:nth-of-type(7)
-nqigfqrxnkwcqmiq.onion##div#p-tb.portlet:nth-of-type(8)
-nqigfqrxnkwcqmiq.onion##div#p-tb.portlet:nth-of-type(9)
-nqigfqrxnkwcqmiq.onion##div#p-tb.portlet:nth-of-type(10)
-nqigfqrxnkwcqmiq.onion##div#p-tb.portlet:nth-of-type(11)
-! 5/1/2020 - TorLinks v2 - torlinkglejjnyof.onion
-torlinkglejjnyof.onion##td:nth-of-type(3)
-torlinkglejjnyof.onion##td:nth-of-type(4)
-! 5/1/2020 - LinkDir - linkdir7ekbalksw.onion
-linkdir7ekbalksw.onion###EPxdU9xTuRWk
-linkdir7ekbalksw.onion##.hoOcbG0CqpjS-bg
-linkdir7ekbalksw.onion###toplist > center:nth-of-type(1)
-linkdir7ekbalksw.onion##hr:nth-of-type(4)
-linkdir7ekbalksw.onion##hr:nth-of-type(5)
-linkdir7ekbalksw.onion##center:nth-of-type(2)
-! 5/12/2020 - Felixxx - felixxxboni3mk4a.onion
-felixxxboni3mk4a.onion##[src="../pageimg/nvpn.png"]
-! 5/15/2020 Oni-Dir - directory4ichoxb.onion
-||directory4ichoxb.onion/b*.gif$image
-! 5/15/2020 MultiVAC - multivacigqzqqon.onion
-multivacigqzqqon.onion##div.Input:nth-of-type(3)
-multivacigqzqqon.onion##div:nth-of-type(1)
-! 5/16/2020 - TorMagazine - t4tyrhxbxb2c2wra.onion
-t4tyrhxbxb2c2wra.onion###ruby_3fd6e9e3
-t4tyrhxbxb2c2wra.onion##div.t4tyr-widget.widget:nth-of-type(1) > .block-title.widget-title > h3
-t4tyrhxbxb2c2wra.onion###ruby_ede14799 > .ruby-container > .col-xs-12.col-sm-4.sidebar-wrap > .is-sticked.ruby-sidebar-sticky > .sidebar-inner > div.t4tyr-widget.widget:nth-of-type(1)
-t4tyrhxbxb2c2wra.onion###ruby_ede14799 > .ruby-container > .col-xs-12.col-sm-4.sidebar-wrap > .is-sticked.ruby-sidebar-sticky > .sidebar-inner > div.t4tyr-widget.widget:nth-of-type(2)
-t4tyrhxbxb2c2wra.onion##div.t4tyr-widget.widget:nth-of-type(3)
-t4tyrhxbxb2c2wra.onion##div.t4tyr-widget.widget:nth-of-type(4)
-t4tyrhxbxb2c2wra.onion##div.t4tyr-widget.widget:nth-of-type(5)
-t4tyrhxbxb2c2wra.onion###newsmax_ruby_sidebar_widget_advertising-12
-t4tyrhxbxb2c2wra.onion###newsmax_ruby_sidebar_widget_advertising-11
-! 5/16/2020 - CodeDir - 67xkew7pvctdcj526yl7gl6pc6e2dwqwx3ugbe67g2hfjdnbwjd7euad.onion
-67xkew7pvctdcj526yl7gl6pc6e2dwqwx3ugbe67g2hfjdnbwjd7euad.onion###welcome > center:nth-of-type(1)
-67xkew7pvctdcj526yl7gl6pc6e2dwqwx3ugbe67g2hfjdnbwjd7euad.onion##center:nth-of-type(3)
-67xkew7pvctdcj526yl7gl6pc6e2dwqwx3ugbe67g2hfjdnbwjd7euad.onion##center:nth-of-type(4)
-! 5/19/2020 Tornet - tgs5dkeqkg5hrjjk.onion
-tgs5dkeqkg5hrjjk.onion##center
-tgs5dkeqkg5hrjjk.onion##div > center
-tgs5dkeqkg5hrjjk.onion##div > div:nth-of-type(3)
-! 5/19/2020 - Wiki Link Hidden - wikilink77h7lrbi.onion
-wikilink77h7lrbi.onion###recent-posts-2 > div
-! 5/25/2020 - MultiVAC - multivacigqzqqon.onion
+! 5/25/2020 http://multivacigqzqqon.onion
 multivacigqzqqon.onion##div.Input:nth-of-type(3) > p:nth-of-type(1)
 multivacigqzqqon.onion##p:nth-of-type(2)
 multivacigqzqqon.onion##p:nth-of-type(3)
 multivacigqzqqon.onion##[src="img/paid/5b8fc5641b244.gif"]
-multivacigqzqqon.onion##[src="img/paid/5b6a0f205c46f.gif"]
+multivacigqzqqon.onion##[href="http://young64ispejbqrl.onion"]
 multivacigqzqqon.onion##[href="#"]
 !-------------------------------------------------------------!
 !------------------------- Annoyances ------------------------!
