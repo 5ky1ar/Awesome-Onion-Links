@@ -154,7 +154,7 @@ https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Dark_Web_Ant
 * ![Reproducible Build Manager](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Reproducible Build Manager](http://yabd3wlpvybdnvzg.onion/)
 * ![Research Staging](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Research Staging](http://c5qrls2slxqz6vdw.onion/)
 * ![Research](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Research](http://wcgqzqyfi7a6iu62.onion/)
-* ![RPM](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/torproject_icon.png) [RPM](http://6m6blys5mwg2jwex.onion/)
+* ![RPM](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/torproject_icon.png) [RPM](http://4ayyzfoh5qdrokqaejis3rdredhvf22n3migyxfudpkpunngfc7g4lqd.onion/)
 * ![Snowflake](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Snowflake](http://fhny6b7b6sbslc2b.onion/)
 * ![Source References](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Source References](http://xlv5dckljs4vhmhm.onion/tor/)
 * ![Stem](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Stem](http://vt5hknv6sblkgf22.onion/)
