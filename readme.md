@@ -170,6 +170,7 @@ https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Dark_Web_Ant
 # Introduction Points
 ## Dark Web Guides
 sites about the dark web and how to use it properly
+* ![Darkweblink.com](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/tor_icon.png) [Verified Darknet market and vendors list](http://darkweblink.com/)
 * ![The Way Into The Dark Web](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Way Into The Dark Web](http://guideyeb5ew6plwj.onion/)
 * ![The Way Into The Dark Web](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Way Into The Dark Web (Mirror)](http://guideyeb5ew6plwj.onion/)
 * ![Owledge](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/owledge_icon.png) [Owledge](http://owlzyj4to3l5daq6edgsgp5z4lh4tzlnms4z6jv6xdtkily77j4b3byd.onion/)
